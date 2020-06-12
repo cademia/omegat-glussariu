@@ -124,6 +124,46 @@
         <seg>utenti finali</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>external</seg>
+      </tuv>
+      <tuv lang="scn" changeid="David Paleino" changedate="20200612T144826Z" creationid="David Paleino" creationdate="20200612T144826Z">
+        <seg>sternu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>home page</seg>
+      </tuv>
+      <tuv lang="scn" changeid="David Paleino" changedate="20200612T144848Z" creationid="David Paleino" creationdate="20200612T144848Z">
+        <seg>pàggina mastra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>import</seg>
+      </tuv>
+      <tuv lang="scn" changeid="David Paleino" changedate="20200612T144854Z" creationid="David Paleino" creationdate="20200612T144854Z">
+        <seg>mpurtari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>installation</seg>
+      </tuv>
+      <tuv lang="scn" changeid="David Paleino" changedate="20200612T144903Z" creationid="David Paleino" creationdate="20200612T144903Z">
+        <seg>nzitamentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>preference</seg>
+      </tuv>
+      <tuv lang="scn" changeid="David Paleino" changedate="20200612T144948Z" creationid="David Paleino" creationdate="20200612T144948Z">
+        <seg>prifirenza</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
     <tu>
       <prop type="file">terminology.txt</prop>
