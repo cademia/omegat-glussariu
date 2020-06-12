@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adverb.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="David Paleino" changedate="20200612T144718Z" creationid="David Paleino" creationdate="20200612T144718Z">
+        <seg>Avverbiu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Noun.</seg>
       </tuv>
       <tuv lang="scn" changeid="David Paleino" changedate="20200612T144303Z" creationid="David Paleino" creationdate="20200612T144303Z">
@@ -56,8 +64,64 @@
       <tuv lang="en-US">
         <seg>bookmark</seg>
       </tuv>
-      <tuv lang="scn" changeid="David Paleino" changedate="20200612T144420Z" creationid="David Paleino" creationdate="20200612T144420Z">
-        <seg>signalibbru</seg>
+      <tuv lang="scn" changeid="David Paleino" changedate="20200612T144646Z" creationid="David Paleino" creationdate="20200612T144420Z">
+        <seg>agghiunci ê nzingalibbra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>channel</seg>
+      </tuv>
+      <tuv lang="scn" changeid="David Paleino" changedate="20200612T144708Z" creationid="David Paleino" creationdate="20200612T144708Z">
+        <seg>canali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>clipboard</seg>
+      </tuv>
+      <tuv lang="scn" changeid="David Paleino" changedate="20200612T144714Z" creationid="David Paleino" creationdate="20200612T144714Z">
+        <seg>pitazzu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>context</seg>
+      </tuv>
+      <tuv lang="scn" changeid="David Paleino" changedate="20200612T144725Z" creationid="David Paleino" creationdate="20200612T144725Z">
+        <seg>cuntestu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>contribute</seg>
+      </tuv>
+      <tuv lang="scn" changeid="David Paleino" changedate="20200612T144730Z" creationid="David Paleino" creationdate="20200612T144730Z">
+        <seg>cuntribbuisci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>cryptominer</seg>
+      </tuv>
+      <tuv lang="scn" changeid="David Paleino" changedate="20200612T144752Z" creationid="David Paleino" creationdate="20200612T144752Z">
+        <seg>crittuminaturi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>enable</seg>
+      </tuv>
+      <tuv lang="scn" changeid="David Paleino" changedate="20200612T144806Z" creationid="David Paleino" creationdate="20200612T144806Z">
+        <seg>abbilitari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>end user</seg>
+      </tuv>
+      <tuv lang="scn" changeid="David Paleino" changedate="20200612T144817Z" creationid="David Paleino" creationdate="20200612T144817Z">
+        <seg>utenti finali</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
