@@ -4,6 +4,14 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>add-on		Noun.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="David Paleino" changedate="20200612T142752Z" creationid="David Paleino" creationdate="20200612T142752Z">
+        <seg>agghiuncitina		Sustantivu.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
