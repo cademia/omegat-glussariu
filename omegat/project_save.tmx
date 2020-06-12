@@ -164,6 +164,14 @@
         <seg>prifirenza</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>version</seg>
+      </tuv>
+      <tuv lang="scn" changeid="David Paleino" changedate="20200612T151443Z" creationid="David Paleino" creationdate="20200612T151443Z">
+        <seg>virsiuni</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
     <tu>
       <prop type="file">terminology.txt</prop>
