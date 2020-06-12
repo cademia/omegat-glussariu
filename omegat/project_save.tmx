@@ -6,12 +6,71 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>1.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="David Paleino" changedate="20200612T144354Z" creationid="David Paleino" creationdate="20200612T144354Z">
+        <seg>1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adjective.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="David Paleino" changedate="20200612T144337Z" creationid="David Paleino" creationdate="20200612T144337Z">
+        <seg>Aggittivu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Noun.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="David Paleino" changedate="20200612T144303Z" creationid="David Paleino" creationdate="20200612T144303Z">
+        <seg>Sustantivu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Verb.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="David Paleino" changedate="20200612T144341Z" creationid="David Paleino" creationdate="20200612T144341Z">
+        <seg>Verbu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>add-on</seg>
+      </tuv>
+      <tuv lang="scn" changeid="David Paleino" changedate="20200612T144309Z" creationid="David Paleino" creationdate="20200612T144309Z">
+        <seg>agghiuncitina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>add-on		Noun.</seg>
       </tuv>
       <tuv lang="scn" changeid="David Paleino" changedate="20200612T142752Z" creationid="David Paleino" creationdate="20200612T142752Z">
         <seg>agghiuncitina		Sustantivu.</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>bookmark</seg>
+      </tuv>
+      <tuv lang="scn" changeid="David Paleino" changedate="20200612T144420Z" creationid="David Paleino" creationdate="20200612T144420Z">
+        <seg>signalibbru</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">terminology.txt</prop>
+      <prop type="prev">E.g. The following sources were black boxed.</prop>
+      <prop type="next">Noun.</prop>
+      <tuv lang="en-US">
+        <seg>bookmark</seg>
+      </tuv>
+      <tuv lang="scn" changeid="David Paleino" changedate="20200612T144437Z" creationid="David Paleino" creationdate="20200612T144437Z">
+        <seg>nzingalibbru</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
