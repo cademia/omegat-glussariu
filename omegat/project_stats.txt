@@ -1,14 +1,14 @@
-6/12/20 2:31 PM
-Statistica del projecto
+12/06/20 16.19
+Statistiche del progetto
 
-              	Segmentos	Parolas	Characteres (sin spatios)	Characteres (includente spatios)	#Files	
-Total:        	      452	   3610	                    19187	                           22263	     1	
-Restante:     	      452	   3610	                    19187	                           22263	     1	
-Unic:         	      351	   3507	                    18574	                           21649	     1	
-Unic restante:	      351	   3507	                    18574	                           21649	     1	
+                 	Segmenti	Parole	Caratteri (senza spazi)	Caratteri (con spazi)	#File	
+Totali:          	     351	  3555	                  19291	                22366	    1	
+Restanti:        	     351	  3555	                  19291	                22366	    1	
+Univoci:         	     350	  3553	                  19275	                22350	    1	
+Univoci restanti:	     350	  3553	                  19275	                22350	    1	
 
 
-Statistica individual del file:
+Statistiche file singoli:
 
-Nomine del file        	Segmentos total	Segmentos cetere	Segmentos unic	Segmentos unic cetere	Parolas total	Parolas cetere	Parolas unic	Parolas unic cetere	Characteres total (sin spatios)	Characteres cetere (sin spatios)	Characteres unic (sin spatios)	Characteres unic cetere (sin spatios)	Characteres total (includente spatios)	Characteres cetere (includente spatios)	Characteres unic (includente spatios)	Characteres unic cetere (includente spatios)	
-source/Terminology.docx	            452	             452	           351	                  351	         3610	          3610	        3507	               3507	                          19187	                           19187	                         18574	                                18574	                                 22263	                                  22263	                                21649	                                       21649	
+Nome del file  	Segmenti totali	Segmenti restanti	Segmenti univoci	Segmenti univoci restanti	Parole totali	Parole restanti	Parole univoche	Parole univoche restanti	Caratteri totali (senza spazi)	Caratteri restanti (senza spazi)	Caratteri univoci (senza spazi)	Caratteri univoci restanti (senza spazi)	Caratteri totali (con spazi)	Caratteri restanti (con spazi)	Caratteri univoci (con spazi)	Caratteri univoci restanti (con spazi)	
+terminology.txt	            351	              351	             350	                      350	         3555	           3555	           3553	                    3553	                         19291	                           19291	                          19275	                                   19275	                       22366	                         22366	                        22350	                                 22350	
