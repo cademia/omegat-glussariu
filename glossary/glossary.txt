@@ -15,3 +15,9 @@ submit	mmìa
 when ready	quannu sì prontu
 language	lingua
 additional	addizziunali
+add	agghiunci
+your voice	a to vuci
+age	età
+all	tutti
+benefits	binifici
+awards	premi
