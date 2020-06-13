@@ -4,3 +4,9 @@ votes	voti
 no	no
 yes	se
 about	nfurmazziuna
+accent	accentu
+the sentence	a frasi
+accurately	bonu
+did they  speak	liggeru
+aloud	a vuci auta
+read	leggi
