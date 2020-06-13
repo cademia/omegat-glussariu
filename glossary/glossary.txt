@@ -10,3 +10,8 @@ accurately	bonu
 did they  speak	liggeru
 aloud	a vuci auta
 read	leggi
+when done	quannu finisci
+submit	mmìa
+when ready	quannu sì prontu
+language	lingua
+additional	addizziunali
