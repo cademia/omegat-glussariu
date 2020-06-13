@@ -25,3 +25,8 @@ yes	se
 about	nfurmazziuna
 accent	accentu
 accurately	bonu
+free app	app a gratis
+users	l'utenti
+can	ponnu
+download	scàrricari
+our free app	a nostra app a gratis
