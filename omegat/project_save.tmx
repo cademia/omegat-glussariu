@@ -214,6 +214,62 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Easy</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200613T234109Z" creationid="Melo46" creationdate="20200613T234109Z">
+        <seg>Fàcili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Email</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200613T234127Z" creationid="Melo46" creationdate="20200613T234127Z">
+        <seg>Nnirizzu di posta elittrònica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>English</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200613T234149Z" creationid="Melo46" creationdate="20200613T234149Z">
+        <seg>Ngrisi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enter your email</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200613T234237Z" creationid="Melo46" creationdate="20200613T234237Z">
+        <seg>Metti u to nnirizzu e-mail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Everyone</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200613T234259Z" creationid="Melo46" creationdate="20200613T234259Z">
+        <seg>Tutti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Female</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200613T234320Z" creationid="Melo46" creationdate="20200613T234320Z">
+        <seg>Fìmmina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>French</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200613T234340Z" creationid="Melo46" creationdate="20200613T234340Z">
+        <seg>Francisi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Noun.</seg>
       </tuv>
       <tuv lang="scn" changeid="David Paleino" changedate="20200612T144303Z" creationid="David Paleino" creationdate="20200612T144303Z">
