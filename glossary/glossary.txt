@@ -1,23 +1,27 @@
+﻿keep it up	cuntinua accussì
+did they speak	liggeru
+when done	quannu finisci
+when ready	quannu sì prontu
+your voice	a to vuci
+the sentence	a frasi
+aloud	a vuci auta
+read	leggi
+submit	mmìa
+language	lingua
+additional	addizziunali
+add	agghiunci
+age	età
+all	tutti
+benefits	binifici
+awards	premi
+clips	riggistrazziuna
+find	a 'ttruvari
+more	autri
+voices	vuci
 add-on	agghiuncitina	Sustantivu. A firefox-specific umbrella term that describes tools (including extensions and themes) that users can install to modify, customize, and extend the functionality of firefox. Avoid using "add-ons" and "extensions" interchangeably (see https://wiki.mozilla.org/add-ons/terminology#usage_guidelines). E.g. Your add-ons and customizations have been removed and your browser settings have been restored to their defaults.
-keep it up	cuntinua accussì
 votes	voti
 no	no
 yes	se
 about	nfurmazziuna
 accent	accentu
-the sentence	a frasi
 accurately	bonu
-did they  speak	liggeru
-aloud	a vuci auta
-read	leggi
-when done	quannu finisci
-submit	mmìa
-when ready	quannu sì prontu
-language	lingua
-additional	addizziunali
-add	agghiunci
-your voice	a to vuci
-age	età
-all	tutti
-benefits	binifici
-awards	premi
