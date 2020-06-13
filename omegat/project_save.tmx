@@ -270,6 +270,38 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>How does it work?</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200613T234415Z" creationid="Melo46" creationdate="20200613T234415Z">
+        <seg>Comu funziona?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hungarian</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200613T234434Z" creationid="Melo46" creationdate="20200613T234434Z">
+        <seg>Unghirisi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I agree</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200613T234503Z" creationid="Melo46" creationdate="20200613T234503Z">
+        <seg>Sugnu d'accordu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I am a non-native speaker and I speak with an accent, do you still want my voice?</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200613T234722Z" creationid="Melo46" creationdate="20200613T234722Z">
+        <seg>Parru a lingua ma 'un sugnu matrilingua, vuliti macari a me vuci?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Noun.</seg>
       </tuv>
       <tuv lang="scn" changeid="David Paleino" changedate="20200612T144303Z" creationid="David Paleino" creationdate="20200612T144303Z">
