@@ -54,6 +54,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Add Language</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200613T180600Z" creationid="Melo46" creationdate="20200613T180600Z">
+        <seg>Agghiunci lingua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add Your Voice</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200613T180640Z" creationid="Melo46" creationdate="20200613T180640Z">
+        <seg>Agghiungi a to vuci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Additional Language</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200613T180540Z" creationid="Melo46" creationdate="20200613T180540Z">
@@ -74,6 +90,38 @@
       </tuv>
       <tuv lang="scn" changeid="David Paleino" changedate="20200612T144718Z" creationid="David Paleino" creationdate="20200612T144718Z">
         <seg>Avverbiu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Age</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200613T180708Z" creationid="Melo46" creationdate="20200613T180708Z">
+        <seg>Età</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200613T180747Z" creationid="Melo46" creationdate="20200613T180747Z">
+        <seg>Tutti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Awards</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200613T180836Z" creationid="Melo46" creationdate="20200613T180836Z">
+        <seg>Premi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Benefits</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200613T180811Z" creationid="Melo46" creationdate="20200613T180811Z">
+        <seg>Binifici</seg>
       </tuv>
     </tu>
     <tu>
