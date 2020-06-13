@@ -30,3 +30,12 @@ users	l'utenti
 can	ponnu
 download	scàrricari
 our free app	a nostra app a gratis
+build	crea
+profile	prufilu
+an email	nu nnirizzu e-mail
+in the future	'n futuru
+about changes	pi canciamenti
+to the dataset	nnî dati
+we may need to	putìssimu aviri bisognu di
+we may	putìssimu
+contact you	cuntattàriti
