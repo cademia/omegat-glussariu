@@ -174,6 +174,46 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Clips Uploaded</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200613T233916Z" creationid="Melo46" creationdate="20200613T233916Z">
+        <seg>Riggistrazziuna carricati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Clips recorded</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200613T233852Z" creationid="Melo46" creationdate="20200613T233852Z">
+        <seg>Riggistrazziuna </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Clips validated</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200613T234023Z" creationid="Melo46" creationdate="20200613T234023Z">
+        <seg>Riggistrazziuna validati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Close</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200613T233833Z" creationid="Melo46" creationdate="20200613T233833Z">
+        <seg>Chiuji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Comment</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200613T234045Z" creationid="Melo46" creationdate="20200613T234045Z">
+        <seg>Cummentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Noun.</seg>
       </tuv>
       <tuv lang="scn" changeid="David Paleino" changedate="20200612T144303Z" creationid="David Paleino" creationdate="20200612T144303Z">
