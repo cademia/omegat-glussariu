@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Accent</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200613T180005Z" creationid="Melo46" creationdate="20200613T180005Z">
+        <seg>Accentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Adjective.</seg>
       </tuv>
       <tuv lang="scn" changeid="David Paleino" changedate="20200612T144337Z" creationid="David Paleino" creationdate="20200612T144337Z">
@@ -158,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>did they accurately speak the sentence?</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200613T180208Z" creationid="Melo46" creationdate="20200613T180208Z">
+        <seg>liggeru bonu a frasi?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>enable</seg>
       </tuv>
       <tuv lang="scn" changeid="David Paleino" changedate="20200612T144806Z" creationid="David Paleino" creationdate="20200612T144806Z">
@@ -210,6 +226,14 @@
       </tuv>
       <tuv lang="scn" changeid="David Paleino" changedate="20200612T144948Z" creationid="David Paleino" creationdate="20200612T144948Z">
         <seg>prifirenza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>then read the sentence aloud</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200613T180256Z" creationid="Melo46" creationdate="20200613T180256Z">
+        <seg>e leggi a frasi a vuci auta</seg>
       </tuv>
     </tu>
     <tu>
