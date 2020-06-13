@@ -85,3 +85,5 @@ still	macari
 my voice	a me vuci
 do you want	vuliti
 I speak	parru
+name	nomu
+send me	mànnami
