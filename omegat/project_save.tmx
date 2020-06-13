@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>abnormality	Noun.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="m" changedate="20200613T133933Z" creationid="m" creationdate="20200613T133933Z">
+        <seg>abnormality	Sustantivu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>add-on</seg>
       </tuv>
       <tuv lang="scn" changeid="David Paleino" changedate="20200612T144309Z" creationid="David Paleino" creationdate="20200612T144309Z">
@@ -58,6 +66,14 @@
       </tuv>
       <tuv lang="scn" changeid="David Paleino" changedate="20200612T142752Z" creationid="David Paleino" creationdate="20200612T142752Z">
         <seg>agghiuncitina		Sustantivu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>appear	Verb.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="m" changedate="20200613T134009Z" creationid="m" creationdate="20200613T134009Z">
+        <seg>accumpariri	Verbu.</seg>
       </tuv>
     </tu>
     <tu>
