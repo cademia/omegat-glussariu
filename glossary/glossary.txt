@@ -77,3 +77,11 @@ enter	metti
 everyone	tutti
 female	fìmmina
 French	francisi
+how	comu
+does it work	funziona
+Hungarian	unghirisi
+I agree	sugnu d'accordu
+still	macari
+my voice	a me vuci
+do you want	vuliti
+I speak	parru
