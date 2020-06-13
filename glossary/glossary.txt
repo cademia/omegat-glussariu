@@ -65,3 +65,8 @@ speech recognition	ricanuscimentu vucali
 artificial intelligence	ntiliggenza artificiali
 avatar	fotu prufilu
 intelligence	ntiliggenza
+close	chiuji
+clips recorded	riggistrazziuna
+uploaded	carricati
+validated	validati
+comment	cummentu
