@@ -70,3 +70,10 @@ clips recorded	riggistrazziuna
 uploaded	carricati
 validated	validati
 comment	cummentu
+easy	fàcili
+English	ngrisi
+your email	u to nnirizzu e-mail
+enter	metti
+everyone	tutti
+female	fìmmina
+French	francisi
