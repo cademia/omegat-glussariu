@@ -534,10 +534,42 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Frequently Asked Questions</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200614T230609Z" creationid="Melo46" creationdate="20200614T230609Z">
+        <seg>Dumanni cchiù friquenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Glossary</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200614T230637Z" creationid="Melo46" creationdate="20200614T230637Z">
+        <seg>Glussariu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goals</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200614T230704Z" creationid="Melo46" creationdate="20200614T230704Z">
+        <seg>Ubbittivi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>How does it work?</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200613T234415Z" creationid="Melo46" creationdate="20200613T234415Z">
         <seg>Comu funziona?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>How many clips a week?</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200614T230831Z" creationid="Melo46" creationdate="20200614T230831Z">
+        <seg>Quanti riggistrazziuna a sittimana?</seg>
       </tuv>
     </tu>
     <tu>
