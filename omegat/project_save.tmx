@@ -150,10 +150,42 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Account</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200614T233249Z" creationid="Melo46" creationdate="20200614T233249Z">
+        <seg>Cuntu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Account Not Verified</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200614T233332Z" creationid="Melo46" creationdate="20200614T233332Z">
+        <seg>U cuntu nun è virificatu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Action</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200614T233403Z" creationid="Melo46" creationdate="20200614T233403Z">
+        <seg>Azziuni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Active</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200613T235222Z" creationid="Melo46" creationdate="20200613T235222Z">
         <seg>Attiva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Actual Size</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200614T233509Z" creationid="Melo46" creationdate="20200614T233509Z">
+        <seg>Grannizza riali</seg>
       </tuv>
     </tu>
     <tu>
