@@ -92,3 +92,7 @@ minute	minuto
 minutes	minuti
 active	attiva
 end user	utenti finali
+adjective	aggittivu
+all hands	picciotti
+noun	sustantivu
+alternate text	testu autirnativu
