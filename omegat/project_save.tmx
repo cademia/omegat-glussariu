@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All Hands</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200614T222121Z" creationid="Melo46" creationdate="20200614T222121Z">
+        <seg>Picciotti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Anonymized user data like&lt;s0/&gt;age, sex, and accent helps improve the audio data used to train the accuracy of speech recognition engines.</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200613T183355Z" creationid="Melo46" creationdate="20200613T183355Z">
@@ -426,6 +434,14 @@
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200613T073920Z" creationid="David Paleino" creationdate="20200612T142752Z">
         <seg>agghiuncitina		</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>alternate text</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200614T222238Z" creationid="Melo46" creationdate="20200614T222238Z">
+        <seg>Testu autirnativu</seg>
       </tuv>
     </tu>
     <tu>
