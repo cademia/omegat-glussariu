@@ -99,3 +99,5 @@ alternate text	testu autirnativu
 verb	verbu
 bookmark	agghiunci ê nzingalibbra
 breakpoint	puntu di stagghiatura
+format	furmatu
+average	nurmali
