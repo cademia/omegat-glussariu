@@ -191,3 +191,8 @@ open	ràpiri
 this one	chist'autra
 a copy	na copia
 is	è
+account settings	mpustazziuna dû cuntu
+settings	mpustazziuna
+we promise to	prumittemu di
+handle with care	stari accura
+handle your information with care	stari accura ê to dati
