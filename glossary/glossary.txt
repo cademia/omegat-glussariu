@@ -161,4 +161,4 @@ frequently	friquenti
 questions	dumanni
 glossary	glussariu
 goals	ubbittivi
-week	sittimana
+week	simana
