@@ -137,3 +137,9 @@ for the	pû
 public domain	duminiu pùbblicu
 public	pùbblicu
 domain	duminiu
+above	cca supra
+plus	cu
+data	i dati
+other	l'autri
+voice datasets	dati vucali
+datasets	dati
