@@ -107,3 +107,8 @@ valid	vàlita
 when	quannu
 a user	n'utenti
 gives it a Yes vote	l'appruva dànnuci un Se
+back to top	torna supra
+not attempt	nun pruvari
+determine	stabbiliri
+the identity	l'idintità
+speakers	parranti
