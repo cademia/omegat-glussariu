@@ -162,3 +162,8 @@ questions	dumanni
 glossary	glussariu
 goals	ubbittivi
 week	simana
+recorded	riggistrati
+now	ora
+speak	parra
+contribute	cuntribbuisci
+about	a prupòsitu di
