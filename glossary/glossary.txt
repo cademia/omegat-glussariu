@@ -147,3 +147,5 @@ Mozilla's initiative	un pruggettu di Mozilla
 to help teach	pi nzignàrici
 machines	màchini
 how real people speak	comu pàrranu i genti nnâ vita vera
+Common Voice	Common Voice
+delete	cancella
