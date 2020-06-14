@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Account Settings</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200614T234241Z" creationid="Melo46" creationdate="20200614T234241Z">
+        <seg>Mpustazziuna dû cuntu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Action</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200614T233403Z" creationid="Melo46" creationdate="20200614T233403Z">
@@ -770,6 +778,14 @@
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200613T182239Z" creationid="Melo46" creationdate="20200613T182239Z">
         <seg>Picchì serbi nu nnirizzu e-mail? Putìssimu aviri bisognu di cuntattàriti 'n futuru pi canciamenti nnî dati, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We promise to handle your information with care.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200614T234514Z" creationid="Melo46" creationdate="20200614T234514Z">
+        <seg>Prumittemu di stari accura ê to dati.</seg>
       </tuv>
     </tu>
     <tu>
