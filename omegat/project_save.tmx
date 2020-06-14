@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Active Logins</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200614T233557Z" creationid="Melo46" creationdate="20200614T233557Z">
+        <seg>Accessi attivi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Actual Size</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200614T233509Z" creationid="Melo46" creationdate="20200614T233509Z">
@@ -738,6 +746,14 @@
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200614T232837Z" creationid="Melo46" creationdate="20200614T232837Z">
         <seg>Parra, cuntribbuisci!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The running copy of %S will quit in order to open this one.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200614T233854Z" creationid="Melo46" creationdate="20200614T233854Z">
+        <seg>A copia chi sta firrijannu di %S sarà chiujuta pi ràpiri chist'autra.</seg>
       </tuv>
     </tu>
     <tu>
