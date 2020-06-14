@@ -568,8 +568,16 @@
       <tuv lang="en-US">
         <seg>How many clips a week?</seg>
       </tuv>
-      <tuv lang="scn" changeid="Melo46" changedate="20200614T230831Z" creationid="Melo46" creationdate="20200614T230831Z">
-        <seg>Quanti riggistrazziuna a sittimana?</seg>
+      <tuv lang="scn" changeid="Melo46" changedate="20200614T232614Z" creationid="Melo46" creationdate="20200614T232614Z">
+        <seg>Quanti riggistrazziuna a simana?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>How many clips per day?</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200614T232453Z" creationid="Melo46" creationdate="20200614T232453Z">
+        <seg>Quanti riggistrazziuna per day?</seg>
       </tuv>
     </tu>
     <tu>
