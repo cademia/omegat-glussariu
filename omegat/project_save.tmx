@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Common Voice data plus all other voice datasets above.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200614T225426Z" creationid="Melo46" creationdate="20200614T225426Z">
+        <seg>I dati di Common Voice cu tutti l'autri dati vucali cca supra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Easy</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200613T234109Z" creationid="Melo46" creationdate="20200613T234109Z">
