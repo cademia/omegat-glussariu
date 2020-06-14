@@ -122,3 +122,8 @@ you	tu
 submit	manni
 to	a
 more useful	cchiù ùtili
+cancel	sfai
+submission	mmìu
+Chinese	cinisi
+China	Cina
+click	ammacca
