@@ -126,6 +126,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Access browser tabs</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200614T233105Z" creationid="Melo46" creationdate="20200614T233105Z">
+        <seg>Accèdiri ê schedi dû navigaturi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Access browsing history</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200614T233147Z" creationid="Melo46" creationdate="20200614T233147Z">
+        <seg>Accèdiri â cronuluggìa di navigazziuni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Access your location</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200614T233229Z" creationid="Melo46" creationdate="20200614T233229Z">
+        <seg>Accèdiri â to pusizziuni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Active</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200613T235222Z" creationid="Melo46" creationdate="20200613T235222Z">
