@@ -149,3 +149,7 @@ machines	màchini
 how real people speak	comu pàrranu i genti nnâ vita vera
 Common Voice	Common Voice
 delete	cancella
+different	diversa
+difficult	diffìcili
+donate	dùnani
+do you want	vo'
