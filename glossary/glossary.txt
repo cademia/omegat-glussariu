@@ -112,3 +112,13 @@ not attempt	nun pruvari
 determine	stabbiliri
 the identity	l'idintità
 speakers	parranti
+dy providing	dànnuni
+by providing	dànnuni
+some information	nfurmazziuni
+about	ncapu di
+about yourself	ncapu di tia
+the audio data	i dati vucali
+you	tu
+submit	manni
+to	a
+more useful	cchiù ùtili
