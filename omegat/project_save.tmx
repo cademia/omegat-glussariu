@@ -406,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Delete Profile</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200614T225915Z" creationid="Melo46" creationdate="20200614T225915Z">
+        <seg>Cancella prufilu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Easy</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200613T234109Z" creationid="Melo46" creationdate="20200613T234109Z">
@@ -490,6 +498,14 @@
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200613T234722Z" creationid="Melo46" creationdate="20200613T234722Z">
         <seg>Parru a lingua ma 'un sugnu matrilingua, vuliti macari a me vuci?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In addition to the Common Voice dataset, we’re also building an open source speech recognition engine called Deep Speech.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200614T225845Z" creationid="Melo46" creationdate="20200614T225845Z">
+        <seg>Nnâ addition a the Common Voice dataset, we’re also building an open source ricanuscimentu vucali engine called Deep Speech.</seg>
       </tuv>
     </tu>
     <tu>
