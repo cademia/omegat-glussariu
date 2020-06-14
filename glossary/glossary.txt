@@ -1,5 +1,55 @@
-﻿keep it up	cuntinua accussì
+﻿gives it a Yes vote	l'appruva dànnuci un Se
+by opting in to	scigghiennu di
+we may need to	putìssimu aviri bisognu di
+from the public domain	dû duminiu pùbblicu
+how real people speak	comu pàrranu i genti nnâ vita vera
+keep it up	cuntinua accussì
 did they speak	liggeru
+in the future	'n futuru
+our free app	a nostra app a gratis
+do you want	vo'
+back to top	torna supra
+do you want	vuliti
+helps improve the	ajuta ad ammigghiurari a qualità dî
+speech recognition engines	mutura di ricanuscimentu vucali
+does it work	funziona
+the audio data	i dati vucali
+writing new ones	scrivìrini novi
+to the dataset	nnî dati
+let us know	fannillu sapiri
+to Speak	parrari
+how many	quanti
+free app	app a gratis
+an email	nu nnirizzu e-mail
+about changes	pi canciamenti
+we may	putìssimu
+contact you	cuntattàriti
+a user	n'utenti
+all hands	picciotti
+my voice	a me vuci
+I speak	parru
+send me	mànnami
+thank you	grazzi
+end user	utenti finali
+alternate text	testu autirnativu
+voice clip	riggistrazziuni vucali
+is marked	veni marcata comu
+not attempt	nun pruvari
+this info	sti nfurmazziuni
+privacy policy	nfurmativa dâ privatizza
+audio data	dati vucali
+speech recognition	ricanuscimentu vucali
+artificial intelligence	ntiliggenza artificiali
+clips recorded	riggistrazziuna
+your email	u to nnirizzu e-mail
+I agree	sugnu d'accordu
+the identity	l'idintità
+by providing	dànnuni
+some information	nfurmazziuni
+about yourself	ncapu di tia
+more useful	cchiù ùtili
+for the	pû
+public domain	duminiu pùbblicu
 when done	quannu finisci
 when ready	quannu sì prontu
 your voice	a to vuci
@@ -25,31 +75,18 @@ yes	se
 about	nfurmazziuna
 accent	accentu
 accurately	bonu
-free app	app a gratis
 users	l'utenti
 can	ponnu
 download	scàrricari
-our free app	a nostra app a gratis
 build	crea
 profile	prufilu
-an email	nu nnirizzu e-mail
-in the future	'n futuru
-about changes	pi canciamenti
-to the dataset	nnî dati
-we may need to	putìssimu aviri bisognu di
-we may	putìssimu
-contact you	cuntattàriti
-by opting in to	scigghiennu di
 receive	ricìviri
 emails	posta elittrònica
-you state that you are okay with	accetti
 Mozilla	Mozilla
 handling	po usari
-this info	sti nfurmazziuni
 as	comu
 explained	schicatu
 in	nnâ
-privacy policy	nfurmativa dâ privatizza
 privacy	privatizza
 like	comu
 sex	gèniri
@@ -57,71 +94,41 @@ and	e
 helps	ajuta
 helps	ajuta ad
 improve	ammigghiurari
-helps improve the	ajuta ad ammigghiurari a qualità dî
-audio data	dati vucali
-speech recognition engines	mutura di ricanuscimentu vucali
 engines	mutura
-speech recognition	ricanuscimentu vucali
-artificial intelligence	ntiliggenza artificiali
 avatar	fotu prufilu
 intelligence	ntiliggenza
 close	chiuji
-clips recorded	riggistrazziuna
 uploaded	carricati
 validated	validati
 comment	cummentu
 easy	fàcili
 English	ngrisi
-your email	u to nnirizzu e-mail
 enter	metti
 everyone	tutti
 female	fìmmina
 French	francisi
 how	comu
-does it work	funziona
 Hungarian	unghirisi
-I agree	sugnu d'accordu
 still	macari
-my voice	a me vuci
-do you want	vuliti
-I speak	parru
 name	nomu
-send me	mànnami
-thank you	grazzi
 minute	minuto
 minutes	minuti
 active	attiva
-end user	utenti finali
 adjective	aggittivu
-all hands	picciotti
 noun	sustantivu
-alternate text	testu autirnativu
 verb	verbu
 bookmark	agghiunci ê nzingalibbra
 breakpoint	puntu di stagghiatura
 format	furmatu
 average	nurmali
-voice clip	riggistrazziuni vucali
-is marked	veni marcata comu
 valid	vàlita
 when	quannu
-a user	n'utenti
-gives it a Yes vote	l'appruva dànnuci un Se
-back to top	torna supra
-not attempt	nun pruvari
 determine	stabbiliri
-the identity	l'idintità
 speakers	parranti
-dy providing	dànnuni
-by providing	dànnuni
-some information	nfurmazziuni
 about	ncapu di
-about yourself	ncapu di tia
-the audio data	i dati vucali
 you	tu
 submit	manni
 to	a
-more useful	cchiù ùtili
 cancel	sfai
 submission	mmìu
 Chinese	cinisi
@@ -130,11 +137,7 @@ click	ammacca
 you've validated	chi validasti
 collecting	ricògghiri
 sentences	frasi
-from the public domain	dû duminiu pùbblicu
 or	o
-writing new ones	scrivìrini novi
-for the	pû
-public domain	duminiu pùbblicu
 public	pùbblicu
 domain	duminiu
 above	cca supra
@@ -146,15 +149,16 @@ datasets	dati
 Mozilla's initiative	un pruggettu di Mozilla
 to help teach	pi nzignàrici
 machines	màchini
-how real people speak	comu pàrranu i genti nnâ vita vera
 Common Voice	Common Voice
 delete	cancella
 different	diversa
 difficult	diffìcili
 donate	dùnani
-do you want	vo'
 on	nne
-let us know	fannillu sapiri
-to Speak	parrari
 listen	ascutari
 both	tutti du'
+frequently	friquenti
+questions	dumanni
+glossary	glussariu
+goals	ubbittivi
+week	sittimana
