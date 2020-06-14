@@ -166,10 +166,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Audio Format</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200614T223129Z" creationid="Melo46" creationdate="20200614T223129Z">
+        <seg>Furmatu audiu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Avatar</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200613T183515Z" creationid="Melo46" creationdate="20200613T183515Z">
         <seg>Fotu prufilu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Average</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200614T223153Z" creationid="Melo46" creationdate="20200614T223153Z">
+        <seg>Nurmali</seg>
       </tuv>
     </tu>
     <tu>
