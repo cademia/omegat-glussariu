@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Common Voice is Mozilla's initiative to help teach machines how real people speak.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200614T225659Z" creationid="Melo46" creationdate="20200614T225659Z">
+        <seg>Common Voice è un pruggettu di Mozilla pi nzignàrici ê màchini comu pàrranu i genti nnâ vita vera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Easy</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200613T234109Z" creationid="Melo46" creationdate="20200613T234109Z">
