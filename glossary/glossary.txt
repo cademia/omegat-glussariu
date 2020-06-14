@@ -167,3 +167,12 @@ now	ora
 speak	parra
 contribute	cuntribbuisci
 about	a prupòsitu di
+access	accèdiri ê
+browser tabs	schedi dû navigaturi
+tabs	schedi
+browser	navigaturi
+browsing history	cronuluggìa di navigazziuni
+browsing	navigazziuni
+history	cronuluggìa
+your	to
+location	pusizziuni
