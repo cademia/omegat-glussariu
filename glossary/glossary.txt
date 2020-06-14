@@ -176,3 +176,9 @@ browsing	navigazziuni
 history	cronuluggìa
 your	to
 location	pusizziuni
+account	cuntu
+not verified	nun è virificatu
+action	azziuni
+size	grannizza
+actual size	grannizza riali
+actual	riali
