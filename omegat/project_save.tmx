@@ -774,6 +774,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We don't have anything to validate in this language, help us fill the queue.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200614T234754Z" creationid="Melo46" creationdate="20200614T234754Z">
+        <seg>Nun cci sunnu riggistrazziuna d'appruvari nna sta lingua, ajùtani a jìnchiri sta lista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We may need to contact you in the future about changes to the dataset, an email provides us a point of contact.</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200613T182239Z" creationid="Melo46" creationdate="20200613T182239Z">
@@ -786,6 +794,22 @@
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200614T234514Z" creationid="Melo46" creationdate="20200614T234514Z">
         <seg>Prumittemu di stari accura ê to dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Weekly</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200614T234551Z" creationid="Melo46" creationdate="20200614T234551Z">
+        <seg>Pâ simana</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Welsh</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200614T234521Z" creationid="Melo46" creationdate="20200614T234521Z">
+        <seg>Gallisi</seg>
       </tuv>
     </tu>
     <tu>
