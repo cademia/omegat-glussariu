@@ -196,3 +196,7 @@ settings	mpustazziuna
 we promise to	prumittemu di
 handle with care	stari accura
 handle your information with care	stari accura ê to dati
+weekly	pâ simana
+in this language	nna sta lingua
+help us	ajùtani a
+fill	jìnchiri
