@@ -1,4 +1,4 @@
-﻿keep it up	cuntinua accussì
+keep it up	cuntinua accussì
 did they speak	liggeru
 when done	quannu finisci
 when ready	quannu sì prontu
@@ -87,3 +87,7 @@ do you want	vuliti
 I speak	parru
 name	nomu
 send me	mànnami
+thank you	grazzi
+minute	minuto
+minutes	minuti
+active	attiva
