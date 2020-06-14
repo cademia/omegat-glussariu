@@ -101,3 +101,9 @@ bookmark	agghiunci ê nzingalibbra
 breakpoint	puntu di stagghiatura
 format	furmatu
 average	nurmali
+voice clip	riggistrazziuni vucali
+is marked	veni marcata comu
+valid	vàlita
+when	quannu
+a user	n'utenti
+gives it a Yes vote	l'appruva dànnuci un Se
