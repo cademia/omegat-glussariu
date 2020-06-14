@@ -1,4 +1,4 @@
-keep it up	cuntinua accussì
+﻿keep it up	cuntinua accussì
 did they speak	liggeru
 when done	quannu finisci
 when ready	quannu sì prontu
@@ -127,3 +127,13 @@ submission	mmìu
 Chinese	cinisi
 China	Cina
 click	ammacca
+you've validated	chi validasti
+collecting	ricògghiri
+sentences	frasi
+from the public domain	dû duminiu pùbblicu
+or	o
+writing new ones	scrivìrini novi
+for the	pû
+public domain	duminiu pùbblicu
+public	pùbblicu
+domain	duminiu
