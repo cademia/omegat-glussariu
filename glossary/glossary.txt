@@ -91,3 +91,4 @@ thank you	grazzi
 minute	minuto
 minutes	minuti
 active	attiva
+end user	utenti finali
