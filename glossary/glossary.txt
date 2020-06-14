@@ -182,3 +182,10 @@ action	azziuni
 size	grannizza
 actual size	grannizza riali
 actual	riali
+active logins	accessi attivi
+the copy	a copia
+running	chi sta firrijannu
+of	di
+in order to	pi
+open	ràpiri
+this one	chist'autra
