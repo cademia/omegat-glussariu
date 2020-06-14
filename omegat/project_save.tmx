@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>About { -brand-full-name }</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200614T232924Z" creationid="Melo46" creationdate="20200614T232924Z">
+        <seg>A prupòsitu di { -brand-full-name }</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Accent</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200613T180005Z" creationid="Melo46" creationdate="20200613T180005Z">
@@ -558,6 +566,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hours Recorded</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200614T232706Z" creationid="Melo46" creationdate="20200614T232706Z">
+        <seg>Uri riggistrati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>How ?</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200614T232622Z" creationid="Melo46" creationdate="20200614T232622Z">
+        <seg>Comu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>How does it work?</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200613T234415Z" creationid="Melo46" creationdate="20200613T234415Z">
@@ -634,6 +658,30 @@
       </tuv>
       <tuv lang="scn" changeid="David Paleino" changedate="20200612T144303Z" creationid="David Paleino" creationdate="20200612T144303Z">
         <seg>Sustantivu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Speak</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200614T232743Z" creationid="Melo46" creationdate="20200614T232743Z">
+        <seg>Parra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Speak now</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200614T232724Z" creationid="Melo46" creationdate="20200614T232724Z">
+        <seg>Parra ora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Speak up, contribute here!</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200614T232837Z" creationid="Melo46" creationdate="20200614T232837Z">
+        <seg>Parra, cuntribbuisci!</seg>
       </tuv>
     </tu>
     <tu>
