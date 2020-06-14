@@ -414,6 +414,46 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Different language</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200614T225941Z" creationid="Melo46" creationdate="20200614T225941Z">
+        <seg>Lingua diversa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Difficult</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200614T230012Z" creationid="Melo46" creationdate="20200614T230012Z">
+        <seg>Diffìcili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Do you want to continue?</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200614T230155Z" creationid="Melo46" creationdate="20200614T230155Z">
+        <seg>Vo' cuntinuari?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Donate your voice</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200614T230045Z" creationid="Melo46" creationdate="20200614T230045Z">
+        <seg>Dùnani a to voci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Download</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200614T230104Z" creationid="Melo46" creationdate="20200614T230104Z">
+        <seg>Scàrricari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Easy</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200613T234109Z" creationid="Melo46" creationdate="20200613T234109Z">
