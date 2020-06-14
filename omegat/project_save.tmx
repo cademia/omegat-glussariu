@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;t0/&gt;Let us know on Discourse</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200614T230356Z" creationid="Melo46" creationdate="20200614T230356Z">
+        <seg>&lt;t0/&gt;Fannillu sapiri nne Discourse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;t0/&gt;Thank you.</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200613T235108Z" creationid="Melo46" creationdate="20200613T235108Z">
@@ -426,6 +434,22 @@
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200614T230012Z" creationid="Melo46" creationdate="20200614T230012Z">
         <seg>Diffìcili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Do you have ideas on how we can make the Common Voice dataset better?</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200614T230256Z" creationid="Melo46" creationdate="20200614T230256Z">
+        <seg>Ài suggirimenti supra a comu ammigghiurari i dati di Common Voice?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Do you want to Speak, Listen or both?</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200614T230518Z" creationid="Melo46" creationdate="20200614T230518Z">
+        <seg>Vo' parrari, ascutari o tutti du'?</seg>
       </tuv>
     </tu>
     <tu>
