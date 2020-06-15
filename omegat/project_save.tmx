@@ -1118,6 +1118,38 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Library</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T232044Z" creationid="Melo46" creationdate="20200615T232044Z">
+        <seg>Libbrarìa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Links</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T232125Z" creationid="Melo46" creationdate="20200615T232125Z">
+        <seg>Lijami</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Loading</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T232137Z" creationid="Melo46" creationdate="20200615T232137Z">
+        <seg>Staju carricannu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Month</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T232203Z" creationid="Melo46" creationdate="20200615T232203Z">
+        <seg>Misi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Name</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200613T234814Z" creationid="Melo46" creationdate="20200613T234758Z">
@@ -1146,6 +1178,22 @@
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200615T225003Z" creationid="Melo46" creationdate="20200615T225003Z">
         <seg>L'autri a putirannu ascutari purtànnucci supra u mouse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Proceed with Caution</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T232240Z" creationid="Melo46" creationdate="20200615T232240Z">
+        <seg>Stai accura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Proceeding will:</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T232233Z" creationid="Melo46" creationdate="20200615T232233Z">
+        <seg>Comu si voli prucèdiri:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1434,6 +1482,14 @@
       </tuv>
       <tuv lang="scn" changeid="David Paleino" changedate="20200612T144903Z" creationid="David Paleino" creationdate="20200612T144903Z">
         <seg>nzitamentu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>link</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T232059Z" creationid="Melo46" creationdate="20200615T232059Z">
+        <seg>lijami</seg>
       </tuv>
     </tu>
     <tu>
