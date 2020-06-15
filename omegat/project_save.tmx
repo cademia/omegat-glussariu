@@ -558,6 +558,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Close %S</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T231425Z" creationid="Melo46" creationdate="20200615T231425Z">
+        <seg>Chiuji %S</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Close All Container Tabs?</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200615T231342Z" creationid="Melo46" creationdate="20200615T231342Z">
@@ -566,10 +574,66 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Close Sidebar</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T231457Z" creationid="Melo46" creationdate="20200615T231457Z">
+        <seg>Chiuji a sbarra di ciancu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Close Tabs</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T231602Z" creationid="Melo46" creationdate="20200615T231602Z">
+        <seg>Chiuji schedi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Close Window</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T231625Z" creationid="Melo46" creationdate="20200615T231625Z">
+        <seg>Chiuji finestra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Close button</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200615T231421Z" creationid="Melo46" creationdate="20200615T231421Z">
         <seg>Buttuni pi chiùjiri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Close sidebar</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T231447Z" creationid="Melo46" creationdate="20200615T231447Z">
+        <seg>Chiuji a sbarra di ciancu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Close tab</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T231522Z" creationid="Melo46" creationdate="20200615T231522Z">
+        <seg>Chiuji scheda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Close tab (%S)</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T231543Z" creationid="Melo46" creationdate="20200615T231543Z">
+        <seg>Chiuji scheda (%S)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Close { $tabCount } Container Tabs</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T231526Z" creationid="Melo46" creationdate="20200615T231526Z">
+        <seg>Chiuji { $tabCount } schedi cuntinituri</seg>
       </tuv>
     </tu>
     <tu>
@@ -602,6 +666,14 @@
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200614T225659Z" creationid="Melo46" creationdate="20200614T225659Z">
         <seg>Common Voice è un pruggettu di Mozilla pi nzignàrici ê màchini comu pàrranu i genti nnâ vita vera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Compact</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T231653Z" creationid="Melo46" creationdate="20200615T231653Z">
+        <seg>Cumpattu</seg>
       </tuv>
     </tu>
     <tu>
@@ -862,6 +934,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Get the App</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T231759Z" creationid="Melo46" creationdate="20200615T231759Z">
+        <seg>Nzìtati l'App</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Glossary</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200614T230637Z" creationid="Melo46" creationdate="20200614T230637Z">
@@ -874,6 +954,14 @@
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200614T230704Z" creationid="Melo46" creationdate="20200614T230704Z">
         <seg>Ubbittivi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hours</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T231822Z" creationid="Melo46" creationdate="20200615T231822Z">
+        <seg>Uri</seg>
       </tuv>
     </tu>
     <tu>
@@ -922,6 +1010,14 @@
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200613T234415Z" creationid="Melo46" creationdate="20200613T234415Z">
         <seg>Comu funziona?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>How it works</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T231842Z" creationid="Melo46" creationdate="20200615T231842Z">
+        <seg>Comu funziona</seg>
       </tuv>
     </tu>
     <tu>
@@ -986,6 +1082,38 @@
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200615T225850Z" creationid="Melo46" creationdate="20200615T225850Z">
         <seg>Cchiù nfurmazziuna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Learn More.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T231936Z" creationid="Melo46" creationdate="20200615T231936Z">
+        <seg>Cchiú nfurmazzioni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Learn More…</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T231944Z" creationid="Melo46" creationdate="20200615T231944Z">
+        <seg>Cchiù nfurmazziuna…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Learn more</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T231912Z" creationid="Melo46" creationdate="20200615T231912Z">
+        <seg>Cchiù nfurmazziuna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Learn more…</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T231923Z" creationid="Melo46" creationdate="20200615T231923Z">
+        <seg>Cchiù nfurmazziuna…</seg>
       </tuv>
     </tu>
     <tu>
@@ -1210,6 +1338,14 @@
       </tuv>
       <tuv lang="scn" changeid="David Paleino" changedate="20200612T144714Z" creationid="David Paleino" creationdate="20200612T144714Z">
         <seg>pitazzu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>configurable</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T231648Z" creationid="Melo46" creationdate="20200615T231648Z">
+        <seg>cunfijuràbbili</seg>
       </tuv>
     </tu>
     <tu>
