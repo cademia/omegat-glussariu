@@ -209,3 +209,8 @@ a	na
 part	parti
 create	crea
 will be able	putirannu
+for	pi
+a different	n'autru
+already	già
+used	usata
+subscriptions	iscrizziuna
