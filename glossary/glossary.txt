@@ -200,3 +200,7 @@ weekly	pâ simana
 in this language	nna sta lingua
 help us	ajùtani a
 fill	jìnchiri
+contact	cuntatti
+contact form	mòdulu di cuntattu
+continue	cuntinua
+contribution activity	cuntribbuti
