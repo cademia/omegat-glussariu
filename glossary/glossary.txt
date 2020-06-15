@@ -228,3 +228,6 @@ on sites	nnê siti
 experience	spirienza
 because	picchì
 programs	prugrammi
+contents	cuntinuti
+up to date	attualizzatu
+simplified	simplificatu
