@@ -246,3 +246,11 @@ recent history	cronuluggìa ricenti
 all	tutti i
 container	cuntinituri
 close button	buttuni pi chiùjiri
+sidebar	a sbarra di ciancu
+tabs	schedi
+window	finestra
+configurable	cunfijuràbbili
+compact	cumpattu
+the app	l'app
+hours	uri
+it works	funziona
