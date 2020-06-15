@@ -790,6 +790,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>How do you ensure anonymity and privacy of the people who donated their voices?</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T225734Z" creationid="Melo46" creationdate="20200615T225734Z">
+        <seg>Comu garantiti l'anonimatu e a privatizza di chi??i ca dònanu a so vuci?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>How does Common Voice calculate hours?</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200615T225624Z" creationid="Melo46" creationdate="20200615T225624Z">
@@ -850,6 +858,22 @@
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200614T225845Z" creationid="Melo46" creationdate="20200614T225845Z">
         <seg>Nnâ addition a the Common Voice dataset, we’re also building an open source ricanuscimentu vucali engine called Deep Speech.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Japanese</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T225803Z" creationid="Melo46" creationdate="20200615T225803Z">
+        <seg>giappunisi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Learn More</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T225850Z" creationid="Melo46" creationdate="20200615T225850Z">
+        <seg>Cchiù nfurmazziuna</seg>
       </tuv>
     </tu>
     <tu>
@@ -1202,6 +1226,14 @@
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200613T180402Z" creationid="Melo46" creationdate="20200613T180402Z">
         <seg>quannu finisci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{ -brand-short-name } blocked this page because it might try to trick you into installing programs that harm your browsing experience (for example, by changing your homepage or showing extra ads on sites you visit).</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T230341Z" creationid="Melo46" creationdate="20200615T230341Z">
+        <seg>{ -brand-short-name } bluccò sta pòggina picchì ti putissi fari nzitari prugrammi chi ponnu canciari a to spirienza di navigazziuni (p'asempiu, canciannu a to pàggina mastra o mustrànnuti pubblicità nnê siti chi vìsiti).</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
