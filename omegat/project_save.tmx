@@ -462,10 +462,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Clear Recent History</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T231208Z" creationid="Melo46" creationdate="20200615T231208Z">
+        <seg>Cancella cronuluggìa ricenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Clear Recent History…</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T231210Z" creationid="Melo46" creationdate="20200615T231210Z">
+        <seg>Cancella cronuluggìa ricenti…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Clear navigation data on shutdown.</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200615T230956Z" creationid="Melo46" creationdate="20200615T230956Z">
         <seg>Cancella i dati di navigazziuni chiujennu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Clear recent browsing history, cookies, and related data</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T231132Z" creationid="Melo46" creationdate="20200615T231132Z">
+        <seg>Cancillari a cronuluggìa di navigazziuni ricenti, i cookie e i nfurmazziuna rilativi</seg>
       </tuv>
     </tu>
     <tu>
@@ -530,6 +554,22 @@
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200613T233833Z" creationid="Melo46" creationdate="20200613T233833Z">
         <seg>Chiuji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Close All Container Tabs?</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T231342Z" creationid="Melo46" creationdate="20200615T231342Z">
+        <seg>Vo' chiùjiri tutti i schedi cuntinituri?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Close button</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T231421Z" creationid="Melo46" creationdate="20200615T231421Z">
+        <seg>Buttuni pi chiùjiri</seg>
       </tuv>
     </tu>
     <tu>
