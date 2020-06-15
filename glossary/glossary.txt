@@ -204,3 +204,8 @@ contact	cuntatti
 contact form	mòdulu di cuntattu
 continue	cuntinua
 contribution activity	cuntribbuti
+cornish	còrnicu
+a	na
+part	parti
+create	crea
+will be able	putirannu
