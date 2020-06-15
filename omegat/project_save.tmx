@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Chinese, Simplified</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T230517Z" creationid="Melo46" creationdate="20200615T230517Z">
+        <seg>Cinisi simplificatu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Click</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200614T224652Z" creationid="Melo46" creationdate="20200614T224652Z">
@@ -974,6 +982,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Website contents may not display properly.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T230431Z" creationid="Melo46" creationdate="20200615T230431Z">
+        <seg>Certi siti o cuntinuti si putìssiru carricari mali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Weekly</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200614T234551Z" creationid="Melo46" creationdate="20200614T234551Z">
@@ -1234,6 +1250,14 @@
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200615T230341Z" creationid="Melo46" creationdate="20200615T230341Z">
         <seg>{ -brand-short-name } bluccò sta pòggina picchì ti putissi fari nzitari prugrammi chi ponnu canciari a to spirienza di navigazziuni (p'asempiu, canciannu a to pàggina mastra o mustrànnuti pubblicità nnê siti chi vìsiti).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{ -brand-short-name } is up to date</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T230459Z" creationid="Melo46" creationdate="20200615T230459Z">
+        <seg>{ -brand-short-name } è attualizzatu</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
