@@ -241,3 +241,8 @@ on shutdown	chiujennu
 navigation	navigazziuni
 navigation data	i dati di navigazziuni
 clear	annetta
+related	rilativi
+recent history	cronuluggìa ricenti
+all	tutti i
+container	cuntinituri
+close button	buttuni pi chiùjiri
