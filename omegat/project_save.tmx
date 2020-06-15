@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Check your spelling as you type</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T230617Z" creationid="Melo46" creationdate="20200615T230617Z">
+        <seg>Cuntrolla l'ortugrafìa mentri dìggiti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Chinese (China)</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200614T224624Z" creationid="Melo46" creationdate="20200614T224624Z">
@@ -402,6 +410,30 @@
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200615T230517Z" creationid="Melo46" creationdate="20200615T230517Z">
         <seg>Cinisi simplificatu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Chinese, Traditional</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T230725Z" creationid="Melo46" creationdate="20200615T230725Z">
+        <seg>Cinisi, Tradizziunali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Clear</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T230755Z" creationid="Melo46" creationdate="20200615T230755Z">
+        <seg>Cancella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Clear All History</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T230834Z" creationid="Melo46" creationdate="20200615T230834Z">
+        <seg>Cancella tutta a cronuluggìa</seg>
       </tuv>
     </tu>
     <tu>
