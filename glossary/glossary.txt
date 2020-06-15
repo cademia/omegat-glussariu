@@ -231,3 +231,8 @@ programs	prugrammi
 contents	cuntinuti
 up to date	attualizzatu
 simplified	simplificatu
+spelling	l'ortugrafìa
+check	cuntrolla
+traditional	tradizziunali
+clear	cancella
+all history	tutta a cronuluggìa
