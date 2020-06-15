@@ -638,6 +638,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Download Common Voice Data</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T225048Z" creationid="Melo46" creationdate="20200615T225048Z">
+        <seg>Scàrrica i dati di Common Voice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Download Data</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T225052Z" creationid="Melo46" creationdate="20200615T225052Z">
+        <seg>Scàrrica i dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Download Dataset Bundle</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T225125Z" creationid="Melo46" creationdate="20200615T225125Z">
+        <seg>Scàrrica u pacchettu dî dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Easy</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200613T234109Z" creationid="Melo46" creationdate="20200613T234109Z">
@@ -650,6 +674,22 @@
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200613T234127Z" creationid="Melo46" creationdate="20200613T234127Z">
         <seg>Nnirizzu di posta elittrònica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Email Subscriptions</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T225312Z" creationid="Melo46" creationdate="20200615T225312Z">
+        <seg>Iscrizziuna â posta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Email is already used for a different account</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T225228Z" creationid="Melo46" creationdate="20200615T225228Z">
+        <seg>E-mail già usata pi n'autru cuntu</seg>
       </tuv>
     </tu>
     <tu>
