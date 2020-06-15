@@ -217,3 +217,14 @@ subscriptions	iscrizziuna
 enter	metti
 how can I get	comu pozzu scarricari
 does calculate hours	càrcula l'uri
+do you ensure	garantiti l'anonimatu
+privacy	a privatizza
+Japanese	giappunisi
+learn more	cchiù nfurmazziuna
+homepage	pàggina mastra
+blocked	bluccò
+page	pàggina
+on sites	nnê siti
+experience	spirienza
+because	picchì
+programs	prugrammi
