@@ -494,6 +494,70 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Contact</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T224436Z" creationid="Melo46" creationdate="20200615T224436Z">
+        <seg>Cuntatti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contact Form</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T224514Z" creationid="Melo46" creationdate="20200615T224514Z">
+        <seg>Mòdulu di cuntattu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Continue</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T224539Z" creationid="Melo46" creationdate="20200615T224539Z">
+        <seg>Cuntinua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contribute</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T224552Z" creationid="Melo46" creationdate="20200615T224552Z">
+        <seg>Cuntribbuisci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contribute Your Voice</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T224636Z" creationid="Melo46" creationdate="20200615T224636Z">
+        <seg>Cuntribbuisci câ to vuci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contribute sentences</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T224605Z" creationid="Melo46" creationdate="20200615T224605Z">
+        <seg>Cuntribbuisci cu autri frasi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contribute to { $lang }</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T224614Z" creationid="Melo46" creationdate="20200615T224614Z">
+        <seg>Cuntribbuisci cû { $lang }</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contribution Activity</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T224707Z" creationid="Melo46" creationdate="20200615T224707Z">
+        <seg>Cuntribbuti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Delete Profile</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200614T225915Z" creationid="Melo46" creationdate="20200614T225915Z">
