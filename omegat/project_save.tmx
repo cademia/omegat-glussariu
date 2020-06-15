@@ -702,6 +702,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Enter Email to Download</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T225317Z" creationid="Melo46" creationdate="20200615T225317Z">
+        <seg>Metti nu nnirizzu e-mail pi scarricari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Enter your email</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200613T234237Z" creationid="Melo46" creationdate="20200613T234237Z">
@@ -770,6 +778,22 @@
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200614T232622Z" creationid="Melo46" creationdate="20200614T232622Z">
         <seg>Comu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>How can I get the Common Voice data?</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T225517Z" creationid="Melo46" creationdate="20200615T225517Z">
+        <seg>Comu pozzu scarricari i dati di Common Voice?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>How does Common Voice calculate hours?</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200615T225624Z" creationid="Melo46" creationdate="20200615T225624Z">
+        <seg>Comu càrcula l'uri Common Voice?</seg>
       </tuv>
     </tu>
     <tu>
