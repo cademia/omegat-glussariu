@@ -236,3 +236,8 @@ check	cuntrolla
 traditional	tradizziunali
 clear	cancella
 all history	tutta a cronuluggìa
+clear	pulizzìa
+on shutdown	chiujennu
+navigation	navigazziuni
+navigation data	i dati di navigazziuni
+clear	annetta
