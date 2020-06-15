@@ -214,3 +214,6 @@ a different	n'autru
 already	già
 used	usata
 subscriptions	iscrizziuna
+enter	metti
+how can I get	comu pozzu scarricari
+does calculate hours	càrcula l'uri
