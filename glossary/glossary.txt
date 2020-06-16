@@ -258,3 +258,5 @@ library	libbrarìa
 link	lijami
 Links	Lijami
 month	misi
+native language	lingua matri
+next goals	pròssimi ubbittivi
