@@ -263,3 +263,10 @@ next goals	pròssimi ubbittivi
 microphone	micròfunu
 not found	nun u truvai
 thanks	grazzi
+you can donate	ni po' dunari
+to help us	pi ajutàrini a
+build	criari
+an	un
+open-source voice database	database vucali lìbbiru
+that	ca
+anyone can use	po èssiri usatu di cu' è-è
