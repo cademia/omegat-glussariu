@@ -275,3 +275,6 @@ for the web	pâ riti
 for devices	pî dispusitivi
 to	pi
 read a sentence	liggi na frasi
+number	nùmmaru
+of voices	dî vuci
+offensive language	linguaggiu uffinzivu
