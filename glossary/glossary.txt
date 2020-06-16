@@ -314,3 +314,9 @@ to Common Voice Datasets	ê dati Common Voice
 Common Voice Datasets	dati Common Voice
 to	ê
 languages	lingui
+review	senti arrè
+Russian	russu
+sardinian	sardu
+see more	vidi cchiù assai
+more	cchiù assai
+see	vidi
