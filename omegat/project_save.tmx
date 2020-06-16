@@ -1334,10 +1334,42 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Read More</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200616T080246Z" creationid="Melo46" creationdate="20200616T080246Z">
+        <seg>Cchiù nfurmazziuna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Read a sentence to help machines learn how real people speak.</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200616T074917Z" creationid="Melo46" creationdate="20200616T074917Z">
         <seg>Liggi na frasi p'ajutàrini a nzignàrici ê màchini comu pàrranu i genti nnâ vita vera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Record your voice</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200616T080509Z" creationid="Melo46" creationdate="20200616T080509Z">
+        <seg>Riggistra a to vuci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Recorded Clips</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200616T080336Z" creationid="Melo46" creationdate="20200616T080336Z">
+        <seg>Riggistrazziuna fatti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Recorded Hours</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200616T080421Z" creationid="Melo46" creationdate="20200616T080421Z">
+        <seg>Uri riggistrati</seg>
       </tuv>
     </tu>
     <tu>
