@@ -1,4 +1,4 @@
-﻿gives it a Yes vote	l'appruva dànnuci un Se
+gives it a Yes vote	l'appruva dànnuci un Se
 by opting in to	scigghiennu di
 we may need to	putìssimu aviri bisognu di
 from the public domain	dû duminiu pùbblicu
@@ -254,3 +254,7 @@ compact	cumpattu
 the app	l'app
 hours	uri
 it works	funziona
+library	libbrarìa
+link	lijami
+Links	Lijami
+month	misi
