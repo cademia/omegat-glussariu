@@ -1254,6 +1254,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Optionally join on our email list for updates and new information about the project.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200616T075545Z" creationid="Melo46" creationdate="20200616T075545Z">
+        <seg>Si voi, ti po' iscrìviri â nostra lista e-mail pi ricìviri l'attualizzazziuna e l'ùrtimi nfurmazziuna supra u pruggettu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Other</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200616T075616Z" creationid="Melo46" creationdate="20200616T075616Z">
+        <seg>Autru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Others will be able to hover and listen to your clip.</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200615T225003Z" creationid="Melo46" creationdate="20200615T225003Z">
