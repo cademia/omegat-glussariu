@@ -1190,6 +1190,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No Thanks</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200616T073748Z" creationid="Melo46" creationdate="20200616T073748Z">
+        <seg>No, grazzi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No microphone found.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200616T073652Z" creationid="Melo46" creationdate="20200616T073652Z">
+        <seg>Nun attruvai nu??u micròfunu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Not found</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200616T073727Z" creationid="Melo46" creationdate="20200616T073727Z">
+        <seg>Nun u truvai</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Noun.</seg>
       </tuv>
       <tuv lang="scn" changeid="David Paleino" changedate="20200612T144303Z" creationid="David Paleino" creationdate="20200612T144303Z">
