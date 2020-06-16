@@ -278,3 +278,10 @@ read a sentence	liggi na frasi
 number	nùmmaru
 of voices	dî vuci
 offensive language	linguaggiu uffinzivu
+optionally	si voi
+join on our email list	iscrìviri â nostra lista e-mail
+updates	l'attualizzazziuna
+new information	l'ùrtimi nfurmazziuna
+about	supra
+the project	u pruggettu
+other	autru
