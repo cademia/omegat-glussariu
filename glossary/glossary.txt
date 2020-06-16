@@ -260,3 +260,6 @@ Links	Lijami
 month	misi
 native language	lingua matri
 next goals	pròssimi ubbittivi
+microphone	micròfunu
+not found	nun u truvai
+thanks	grazzi
