@@ -390,6 +390,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Check the work of other</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200616T075008Z" creationid="Melo46" creationdate="20200616T075008Z">
+        <seg>Cuntrolla the work di l'autri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Check your spelling as you type</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200615T230617Z" creationid="Melo46" creationdate="20200615T230617Z">
@@ -1250,6 +1258,14 @@
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200615T232233Z" creationid="Melo46" creationdate="20200615T232233Z">
         <seg>Comu si voli prucèdiri:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Read a sentence to help machines learn how real people speak.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200616T074917Z" creationid="Melo46" creationdate="20200616T074917Z">
+        <seg>Liggi na frasi p'ajutàrini a nzignàrici ê màchini comu pàrranu i genti nnâ vita vera.</seg>
       </tuv>
     </tu>
     <tu>
