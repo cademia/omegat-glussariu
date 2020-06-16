@@ -670,6 +670,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Common Voice is part of Mozilla's initiative to help teach machines how real people speak.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200616T073248Z" creationid="Melo46" creationdate="20200616T073248Z">
+        <seg>Common Voice è un pruggettu di Mozilla pi nzignàrici ê màchini comu pàrranu i genti nnâ vita vera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Compact</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200615T231653Z" creationid="Melo46" creationdate="20200615T231653Z">
@@ -1152,8 +1160,24 @@
       <tuv lang="en-US">
         <seg>Name</seg>
       </tuv>
-      <tuv lang="scn" changeid="Melo46" changedate="20200613T234814Z" creationid="Melo46" creationdate="20200613T234758Z">
-        <seg>Name</seg>
+      <tuv lang="scn" changeid="Melo46" changedate="20200616T073347Z" creationid="Melo46" creationdate="20200616T073347Z">
+        <seg>Nomu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Native Language</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200616T073432Z" creationid="Melo46" creationdate="20200616T073432Z">
+        <seg>Lingua matri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Next Goals: { $goal }</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200616T073622Z" creationid="Melo46" creationdate="20200616T073622Z">
+        <seg>Pròssimi ubbittivi: { $goal }</seg>
       </tuv>
     </tu>
     <tu>
