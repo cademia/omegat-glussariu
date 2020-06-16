@@ -1406,6 +1406,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Return to Common Voice</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200616T080907Z" creationid="Melo46" creationdate="20200616T080907Z">
+        <seg>Torna a Common Voice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Return to Common Voice Datasets</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200616T081042Z" creationid="Melo46" creationdate="20200616T081042Z">
+        <seg>Torna ê dati Common Voice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Return to Languages</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200616T081116Z" creationid="Melo46" creationdate="20200616T081116Z">
+        <seg>Torna ê lingui</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Speak</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200614T232743Z" creationid="Melo46" creationdate="20200614T232743Z">
