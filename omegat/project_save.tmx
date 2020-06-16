@@ -1454,10 +1454,50 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>See Less</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200616T081521Z" creationid="Melo46" creationdate="20200616T081521Z">
+        <seg>Vidi cchiù picca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>See More</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200616T081431Z" creationid="Melo46" creationdate="20200616T081431Z">
         <seg>Vidi cchiù assai</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select a Language...</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200616T081552Z" creationid="Melo46" creationdate="20200616T081552Z">
+        <seg>Scegghi na lingua…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sentence Collection</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200616T081644Z" creationid="Melo46" creationdate="20200616T081644Z">
+        <seg>Ricota di frasi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sentences</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200616T081650Z" creationid="Melo46" creationdate="20200616T081650Z">
+        <seg>Frasi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Serbian</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200616T081715Z" creationid="Melo46" creationdate="20200616T081715Z">
+        <seg>Serbu</seg>
       </tuv>
     </tu>
     <tu>
