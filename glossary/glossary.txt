@@ -1,8 +1,12 @@
+﻿handle your information with care	stari accura ê to dati
 gives it a Yes vote	l'appruva dànnuci un Se
 by opting in to	scigghiennu di
 we may need to	putìssimu aviri bisognu di
 from the public domain	dû duminiu pùbblicu
 how real people speak	comu pàrranu i genti nnâ vita vera
+to Common Voice Datasets	ê dati Common Voice
+Common Voice Datasets	dati Common Voice
+set a goal	mposta n'ubbittivu
 keep it up	cuntinua accussì
 did they speak	liggeru
 in the future	'n futuru
@@ -10,6 +14,12 @@ our free app	a nostra app a gratis
 do you want	vo'
 back to top	torna supra
 do you want	vuliti
+we promise to	prumittemu di
+handle with care	stari accura
+in order to	pi
+to help teach	pi nzignàrici
+in this language	nna sta lingua
+help us	ajùtani a
 helps improve the	ajuta ad ammigghiurari a qualità dî
 speech recognition engines	mutura di ricanuscimentu vucali
 does it work	funziona
@@ -18,6 +28,13 @@ writing new ones	scrivìrini novi
 to the dataset	nnî dati
 let us know	fannillu sapiri
 to Speak	parrari
+a goal	n'ubbittivu
+my visibility	a me visibbilità
+sentence collection	ricota di frasi
+a language	na lingua
+read more	cchiù nfurmazziuna
+recorded clips	riggistrazziuna fatti
+recorded hours	uri riggistrati
 how many	quanti
 free app	app a gratis
 an email	nu nnirizzu e-mail
@@ -30,6 +47,17 @@ my voice	a me vuci
 I speak	parru
 send me	mànnami
 thank you	grazzi
+Mozilla's initiative	un pruggettu di Mozilla
+Common Voice	Common Voice
+browser tabs	schedi dû navigaturi
+browsing history	cronuluggìa di navigazziuni
+not verified	nun è virificatu
+actual size	grannizza riali
+active logins	accessi attivi
+the copy	a copia
+this one	chist'autra
+a copy	na copia
+account settings	mpustazziuna dû cuntu
 end user	utenti finali
 alternate text	testu autirnativu
 voice clip	riggistrazziuni vucali
@@ -146,10 +174,7 @@ data	i dati
 other	l'autri
 voice datasets	dati vucali
 datasets	dati
-Mozilla's initiative	un pruggettu di Mozilla
-to help teach	pi nzignàrici
 machines	màchini
-Common Voice	Common Voice
 delete	cancella
 different	diversa
 difficult	diffìcili
@@ -168,37 +193,22 @@ speak	parra
 contribute	cuntribbuisci
 about	a prupòsitu di
 access	accèdiri ê
-browser tabs	schedi dû navigaturi
 tabs	schedi
 browser	navigaturi
-browsing history	cronuluggìa di navigazziuni
 browsing	navigazziuni
 history	cronuluggìa
 your	to
 location	pusizziuni
 account	cuntu
-not verified	nun è virificatu
 action	azziuni
 size	grannizza
-actual size	grannizza riali
 actual	riali
-active logins	accessi attivi
-the copy	a copia
 running	chi sta firrijannu
 of	di
-in order to	pi
 open	ràpiri
-this one	chist'autra
-a copy	na copia
 is	è
-account settings	mpustazziuna dû cuntu
 settings	mpustazziuna
-we promise to	prumittemu di
-handle with care	stari accura
-handle your information with care	stari accura ê to dati
 weekly	pâ simana
-in this language	nna sta lingua
-help us	ajùtani a
 fill	jìnchiri
 contact	cuntatti
 contact form	mòdulu di cuntattu
@@ -252,66 +262,53 @@ window	finestra
 configurable	cunfijuràbbili
 compact	cumpattu
 the app	l'app
-hours	uri
-it works	funziona
-library	libbrarìa
-link	lijami
-Links	Lijami
-month	misi
 native language	lingua matri
 next goals	pròssimi ubbittivi
-microphone	micròfunu
 not found	nun u truvai
-thanks	grazzi
 you can donate	ni po' dunari
 to help us	pi ajutàrini a
-build	criari
-an	un
 open-source voice database	database vucali lìbbiru
-that	ca
 anyone can use	po èssiri usatu di cu' è-è
 innovative apps	app nnuvativi
 for the web	pâ riti
-for devices	pî dispusitivi
-to	pi
-read a sentence	liggi na frasi
-number	nùmmaru
-of voices	dî vuci
-offensive language	linguaggiu uffinzivu
-optionally	si voi
 join on our email list	iscrìviri â nostra lista e-mail
-updates	l'attualizzazziuna
-new information	l'ùrtimi nfurmazziuna
-about	supra
-the project	u pruggettu
-other	autru
-other language	autra lingua
-overall accuracy	pricisiuni glubbali
-accuracy	pricisiuni
-overall	glubbali
 overall project status	statu ginirali dû pruggettu
 overall status	statu ginirali
+other language	autra lingua
+overall accuracy	pricisiuni glubbali
+the project	u pruggettu
+new information	l'ùrtimi nfurmazziuna
+of voices	dî vuci
+offensive language	linguaggiu uffinzivu
+read a sentence	liggi na frasi
+thanks	grazzi
+build	criari
+an	un
+that	ca
+for devices	pî dispusitivi
+to	pi
+number	nùmmaru
+updates	l'attualizzazziuna
+optionally	si voi
+about	supra
+other	autru
+accuracy	pricisiuni
+overall	glubbali
 overall	ginirali
 total	tutali
 profile information	i nfurmazziuna dû prufilu
 improves	fannu crìsciri
 accuracy	a qualità
 progress	prugressu
-read more	cchiù nfurmazziuna
-recorded clips	riggistrazziuna fatti
-recorded hours	uri riggistrati
 record	riggistra
 stop	ferma
 remove	cancella
-a language	na lingua
 request	addumanna
 anytime	quannu voi
 edit	canciari
 return here	torna cca
 return	torna
 here	cca
-to Common Voice Datasets	ê dati Common Voice
-Common Voice Datasets	dati Common Voice
 to	ê
 languages	lingui
 review	senti arrè
@@ -323,6 +320,14 @@ see	vidi
 see less	vidi cchiù picca
 less	cchiù picca
 select	scegghi
-sentence collection	ricota di frasi
 collection	ricota
 serbian	serbu
+set	mposta
+share	sparti
+hours	uri
+it works	funziona
+library	libbrarìa
+link	lijami
+links	lijami
+month	misi
+microphone	micròfunu
