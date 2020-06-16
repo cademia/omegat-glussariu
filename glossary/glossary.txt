@@ -285,3 +285,15 @@ new information	l'ùrtimi nfurmazziuna
 about	supra
 the project	u pruggettu
 other	autru
+other language	autra lingua
+overall accuracy	pricisiuni glubbali
+accuracy	pricisiuni
+overall	glubbali
+overall project status	statu ginirali dû pruggettu
+overall status	statu ginirali
+overall	ginirali
+total	tutali
+profile information	i nfurmazziuna dû prufilu
+improves	fannu crìsciri
+accuracy	a qualità
+progress	prugressu
