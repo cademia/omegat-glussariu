@@ -301,3 +301,12 @@ read more	cchiù nfurmazziuna
 recorded clips	riggistrazziuna fatti
 recorded hours	uri riggistrati
 record	riggistra
+stop	ferma
+remove	cancella
+a language	na lingua
+request	addumanna
+anytime	quannu voi
+edit	canciari
+return here	torna cca
+return	torna
+here	cca
