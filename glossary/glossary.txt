@@ -274,3 +274,4 @@ innovative apps	app nnuvativi
 for the web	pâ riti
 for devices	pî dispusitivi
 to	pi
+read a sentence	liggi na frasi
