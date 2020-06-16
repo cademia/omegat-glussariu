@@ -1358,6 +1358,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Record/Stop</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200616T080546Z" creationid="Melo46" creationdate="20200616T080546Z">
+        <seg>Riggistra/Ferma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Recorded Clips</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200616T080336Z" creationid="Melo46" creationdate="20200616T080336Z">
@@ -1370,6 +1378,30 @@
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200616T080421Z" creationid="Melo46" creationdate="20200616T080421Z">
         <seg>Uri riggistrati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Remove</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200616T080610Z" creationid="Melo46" creationdate="20200616T080610Z">
+        <seg>Cancella</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Request a Language</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200616T080705Z" creationid="Melo46" creationdate="20200616T080705Z">
+        <seg>Addumanna na lingua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Return here to edit your goal anytime.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200616T080831Z" creationid="Melo46" creationdate="20200616T080831Z">
+        <seg>Torna cca pi canciari i to ubbittivi quannu voi.</seg>
       </tuv>
     </tu>
     <tu>
