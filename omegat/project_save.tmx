@@ -1502,6 +1502,46 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Set a goal</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200616T081830Z" creationid="Melo46" creationdate="20200616T081830Z">
+        <seg>Mposta n'ubbittivu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Set my visibility</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200616T081855Z" creationid="Melo46" creationdate="20200616T081855Z">
+        <seg>Mposta a me visibbilità</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Settings</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200616T081902Z" creationid="Melo46" creationdate="20200616T081902Z">
+        <seg>Mpustazziuna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sex</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200616T081906Z" creationid="Melo46" creationdate="20200616T081906Z">
+        <seg>Gèniri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Share Common Voice</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200616T083110Z" creationid="Melo46" creationdate="20200616T083110Z">
+        <seg>Sparti Common Voice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Speak</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200614T232743Z" creationid="Melo46" creationdate="20200614T232743Z">
