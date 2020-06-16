@@ -320,3 +320,9 @@ sardinian	sardu
 see more	vidi cchiù assai
 more	cchiù assai
 see	vidi
+see less	vidi cchiù picca
+less	cchiù picca
+select	scegghi
+sentence collection	ricota di frasi
+collection	ricota
+serbian	serbu
