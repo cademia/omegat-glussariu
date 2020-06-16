@@ -310,3 +310,7 @@ edit	canciari
 return here	torna cca
 return	torna
 here	cca
+to Common Voice Datasets	ê dati Common Voice
+Common Voice Datasets	dati Common Voice
+to	ê
+languages	lingui
