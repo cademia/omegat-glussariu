@@ -341,3 +341,7 @@ issues	prubblemi
 are you experiencing	ài
 with	cu
 this	sta
+audio quality	qualità audiu
+is required	abbisugnati
+what’s	soccu cc'è
+inside the dataset	nnî dati
