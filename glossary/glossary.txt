@@ -345,3 +345,7 @@ audio quality	qualità audiu
 is required	abbisugnati
 what’s	soccu cc'è
 inside the dataset	nnî dati
+the source text	u testu d'urìggini
+come from	veni
+where from	d'unni
+why	picchì
