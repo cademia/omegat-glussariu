@@ -368,3 +368,4 @@ my language	a me lingua
 not included	nun cc'è
 yet	ancora
 should I sign up for	avissi a riggistrari
+would you like to	vo'
