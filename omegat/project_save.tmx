@@ -1662,10 +1662,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>What's Public?</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo" changedate="20200617T224853Z" creationid="Melo" creationdate="20200617T224853Z">
+        <seg>Quali dati su' pùbblici?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>What’s inside the Common Voice dataset?</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo" changedate="20200617T224831Z" creationid="Melo" creationdate="20200617T224831Z">
         <seg>Soccu cc'è nnî dati Common Voice?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Where does the source text come from?</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo" changedate="20200617T225049Z" creationid="Melo" creationdate="20200617T225049Z">
+        <seg>D'unni veni u testu d'urìggini?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Why ?</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo" changedate="20200617T225124Z" creationid="Melo" creationdate="20200617T225124Z">
+        <seg>Picchì?</seg>
       </tuv>
     </tu>
     <tu>
