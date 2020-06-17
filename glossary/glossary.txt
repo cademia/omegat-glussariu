@@ -1,4 +1,4 @@
-﻿handle your information with care	stari accura ê to dati
+handle your information with care	stari accura ê to dati
 gives it a Yes vote	l'appruva dànnuci un Se
 by opting in to	scigghiennu di
 we may need to	putìssimu aviri bisognu di
@@ -331,3 +331,7 @@ link	lijami
 links	lijami
 month	misi
 microphone	micròfunu
+thank you	grazzi
+minute	minuto
+minutes	minuti
+active	attiva
