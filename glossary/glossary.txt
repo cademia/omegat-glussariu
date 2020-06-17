@@ -349,3 +349,12 @@ the source text	u testu d'urìggini
 come from	veni
 where from	d'unni
 why	picchì
+a	un
+does this matter	è mpurtanti
+don’t you ask	nun addumannati ê
+people	genti
+books	libbra
+Wikipedia articles	artìculi di Wikipedia
+in	nnê
+different	diversi
+in different languages	nnê diversi lingui
