@@ -1734,6 +1734,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Why is it important?</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo" changedate="20200617T225837Z" creationid="Melo" creationdate="20200617T225837Z">
+        <seg>Picchì è mpurtanti?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Why is my language not included yet?</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo" changedate="20200617T225951Z" creationid="Melo" creationdate="20200617T225951Z">
+        <seg>Picchì a me lingua nun cc'è ancora?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Why should I sign up for an account?</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo" changedate="20200617T230056Z" creationid="Melo" creationdate="20200617T230056Z">
+        <seg>PIcchì avissi a riggistrari un cuntu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Yes</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200613T234843Z" creationid="Melo46" creationdate="20200613T234843Z">
