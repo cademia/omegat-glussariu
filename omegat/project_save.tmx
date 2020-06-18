@@ -1238,6 +1238,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It contains words or phrases that are hard to read or pronounce.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200618T140528Z" creationid="Melo46" creationdate="20200618T140528Z">
+        <seg>Cunteni palori o frasi chi sunnu diffìcili di lèggiri o prununciari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200618T140627Z" creationid="Melo46" creationdate="20200618T140627Z">
+        <seg>Si sapi di tempu chi a mpustazziuni dâ pàggina po distrarri u litturi dû so cuntinutu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is written in a language different than what I’m speaking.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200618T140743Z" creationid="Melo46" creationdate="20200618T140743Z">
+        <seg>È scritta nna na lingua diversa di chi??a chi parru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Italian</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200618T140411Z" creationid="Melo46" creationdate="20200618T140411Z">
