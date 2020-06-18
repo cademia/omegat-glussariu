@@ -1662,6 +1662,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Report</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200618T142250Z" creationid="Melo46" creationdate="20200618T142250Z">
+        <seg>Signala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Report was passed successfully</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200618T142222Z" creationid="Melo46" creationdate="20200618T142222Z">
@@ -1818,6 +1826,30 @@
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200616T083110Z" creationid="Melo46" creationdate="20200616T083110Z">
         <seg>Sparti Common Voice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Share my goal</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200618T142314Z" creationid="Melo46" creationdate="20200618T142314Z">
+        <seg>Sparti u me ubbittivu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Share your clip</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200618T142340Z" creationid="Melo46" creationdate="20200618T142340Z">
+        <seg>Sparti a to riggistrazziuni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Shortcuts</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200618T142402Z" creationid="Melo46" creationdate="20200618T142402Z">
+        <seg>Accurzi</seg>
       </tuv>
     </tu>
     <tu>
@@ -2282,6 +2314,14 @@
       </tuv>
       <tuv lang="scn" changeid="David Paleino" changedate="20200612T144948Z" creationid="David Paleino" creationdate="20200612T144948Z">
         <seg>prifirenza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>sign up for email updates</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200618T142514Z" creationid="Melo46" creationdate="20200618T142514Z">
+        <seg>Iscrìviti ê nutizzi nnall'e-mail</seg>
       </tuv>
     </tu>
     <tu>
