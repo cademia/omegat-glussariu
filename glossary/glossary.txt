@@ -374,3 +374,8 @@ download	scàrrica
 my data	i me dati
 drop	lassa
 drag	trascina
+with the next	cû pròssimu
+will continue	cuntinuarà
+during contribution	mentri cuntribbuisci
+after	doppu chi
+skipped	doppu chi
