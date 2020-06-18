@@ -379,3 +379,8 @@ will continue	cuntinuarà
 during contribution	mentri cuntribbuisci
 after	doppu chi
 skipped	doppu chi
+edit	cancia
+help	ajutu
+aelp teach	ajuta a nzignàrici ê
+help teach	ajuta a nzignàrici ê
+at	nne
