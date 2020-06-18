@@ -440,3 +440,9 @@ your clip	a to riggistrazziuni
 shortcuts	accurzi
 sign up	iscrìviti
 sign up for	iscrìviti ê
+finish recording	allesti a riggistrazziuni
+finish	allesti
+first	prima
+Finnish	fillannisi
+Frequently Asked Questions	Dumanni cchiù friquenti
+get involved	cullàbbura cu nuiautri
