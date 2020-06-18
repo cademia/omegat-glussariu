@@ -1,4 +1,4 @@
-handle your information with care	stari accura ê to dati
+﻿handle your information with care	stari accura ê to dati
 gives it a Yes vote	l'appruva dànnuci un Se
 by opting in to	scigghiennu di
 we may need to	putìssimu aviri bisognu di
@@ -400,3 +400,12 @@ you’re looking for	stai circannu
 Interlingua	ntirlingua
 the clip	a riggistrazziuni
 Italian	italianu
+words	palori
+phrases	frasi
+are	sunnu
+hard to	diffìcili di
+read	lèggiri
+pronounce	prununciari
+reader	litturi
+what I’m speaking	chi parru
+I’m speaking	parru
