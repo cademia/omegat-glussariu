@@ -1046,6 +1046,38 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Help us find more voices, share your goal</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200618T135718Z" creationid="Melo46" creationdate="20200618T135718Z">
+        <seg>Ajùtani ad attruvari cchiù vuci, sparti u to ubbittivu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Help us validate sentences!</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200618T135742Z" creationid="Melo46" creationdate="20200618T135742Z">
+        <seg>Ajùtani a cuntrullari i frasi!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Help us validate voices</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200618T135749Z" creationid="Melo46" creationdate="20200618T135749Z">
+        <seg>Ajùtani a cuntrullari i vuci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hidden</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200618T135810Z" creationid="Melo46" creationdate="20200618T135810Z">
+        <seg>Ammucciatu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hours</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200615T231822Z" creationid="Melo46" creationdate="20200615T231822Z">
