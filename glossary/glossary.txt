@@ -369,3 +369,8 @@ not included	nun cc'è
 yet	ancora
 should I sign up for	avissi a riggistrari
 would you like to	vo'
+download	scàrricari
+download	scàrrica
+my data	i me dati
+drop	lassa
+drag	trascina
