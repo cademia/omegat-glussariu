@@ -982,6 +982,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Finish recording</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200618T144927Z" creationid="Melo46" creationdate="20200618T144927Z">
+        <seg>Allesti a riggistrazziuni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Finish recording first?</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200618T144954Z" creationid="Melo46" creationdate="20200618T144954Z">
+        <seg>Vo' allèstiri sta riggistrazziuni prima?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Finnish</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200618T145012Z" creationid="Melo46" creationdate="20200618T145012Z">
+        <seg>Fillannisi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>French</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200613T234340Z" creationid="Melo46" creationdate="20200613T234340Z">
@@ -994,6 +1018,22 @@
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200614T230609Z" creationid="Melo46" creationdate="20200614T230609Z">
         <seg>Dumanni cchiù friquenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>German</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200618T145126Z" creationid="Melo46" creationdate="20200618T145126Z">
+        <seg>Tidiscu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Get involved</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200618T145114Z" creationid="Melo46" creationdate="20200618T145114Z">
+        <seg>Cullàbbura cu nuiautri</seg>
       </tuv>
     </tu>
     <tu>
