@@ -387,3 +387,6 @@ at	nne
 build	custruiri
 publicly open	dispunìbbili pubblicamenti
 high quality	d'alta qualità
+more	cchiù
+your goal	u to ubbittivu
+hidden	ammucciatu
