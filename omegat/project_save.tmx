@@ -750,6 +750,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Contribution will continue directly with the next set of 5 recordings or validations.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200618T134849Z" creationid="Melo46" creationdate="20200618T134849Z">
+        <seg>A prucidura cuntinuarà cû pròssimu nzemi di 5 riggistrazziuna o validazziuna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Cornish</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200615T224733Z" creationid="Melo46" creationdate="20200615T224733Z">
@@ -874,6 +882,14 @@
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200618T134645Z" creationid="Melo46" creationdate="20200618T134645Z">
         <seg>Trascina e lassa o &lt;browseWrap&gt;Scegghi&lt;/browseWrap&gt; &amp;lt;browseWrap&amp;gt;Browse&amp;lt;/browseWrap&amp;gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>During contribution submission feedback will be skipped after clicking 'Submit.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200618T134728Z" creationid="Melo46" creationdate="20200618T134728Z">
+        <seg>Mentri cuntribbuisci, u mmiu dî cummenti veni sautatu doppu chi ammacchi "Manna".</seg>
       </tuv>
     </tu>
     <tu>
