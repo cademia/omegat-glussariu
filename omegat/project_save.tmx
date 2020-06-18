@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.1.0_0_54fc30ee" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -850,6 +850,30 @@
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200615T225125Z" creationid="Melo46" creationdate="20200615T225125Z">
         <seg>Scàrrica u pacchettu dî dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Download My Data</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200618T134539Z" creationid="Melo46" creationdate="20200618T134539Z">
+        <seg>Scàrrica i me dati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Download { $language }</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200618T134450Z" creationid="Melo46" creationdate="20200618T134450Z">
+        <seg>Scàrrica { $language }</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Drag and drop or &amp;lt;browseWrap&amp;gt;Browse&amp;lt;/browseWrap&amp;gt;</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200618T134645Z" creationid="Melo46" creationdate="20200618T134645Z">
+        <seg>Trascina e lassa o &lt;browseWrap&gt;Scegghi&lt;/browseWrap&gt; &amp;lt;browseWrap&amp;gt;Browse&amp;lt;/browseWrap&amp;gt;</seg>
       </tuv>
     </tu>
     <tu>
