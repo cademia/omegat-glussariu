@@ -384,3 +384,6 @@ help	ajutu
 aelp teach	ajuta a nzignàrici ê
 help teach	ajuta a nzignàrici ê
 at	nne
+build	custruiri
+publicly open	dispunìbbili pubblicamenti
+high quality	d'alta qualità
