@@ -1318,6 +1318,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Keep track of your progress with a profile</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200618T141135Z" creationid="Melo46" creationdate="20200618T141135Z">
+        <seg>Vidi soccu facisti c'un prufilu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Keep track of your progress with a profile and help our voice data be more accurate.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200618T141205Z" creationid="Melo46" creationdate="20200618T141205Z">
+        <seg>C'un prufilu, po' tèniri trazza dî to prugressi e n'ajuti ad ammigghiurari a pricisiuni dî dati vucali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Language request successfully submitted, thank you.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200618T141218Z" creationid="Melo46" creationdate="20200618T141218Z">
+        <seg>Mannasti na richiesta pi na lingua, grazzi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Learn More</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200615T225850Z" creationid="Melo46" creationdate="20200615T225850Z">
@@ -1358,6 +1382,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Leaving now means you'll lose your progress</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200618T141253Z" creationid="Melo46" creationdate="20200618T141253Z">
+        <seg>Si nesci ora, pirdirai chi??u c'à' fattu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Library</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200615T232044Z" creationid="Melo46" creationdate="20200615T232044Z">
@@ -1386,6 +1418,14 @@
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200615T232203Z" creationid="Melo46" creationdate="20200615T232203Z">
         <seg>Misi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Most of the data used by large companies isn’t available to the majority of people.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200618T141514Z" creationid="Melo46" creationdate="20200618T141514Z">
+        <seg>A majuranza dî dati usati dî granni cumpagnìi nun è dispunìbbili ô pùbblicu. </seg>
       </tuv>
     </tu>
     <tu>
