@@ -1038,6 +1038,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Help us build a high quality, publicly open dataset</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200618T135614Z" creationid="Melo46" creationdate="20200618T135614Z">
+        <seg>Ajùtani a custruiri na basi di dati d'alta qualità e dispunìbbili pubblicamenti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hours</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200615T231822Z" creationid="Melo46" creationdate="20200615T231822Z">
