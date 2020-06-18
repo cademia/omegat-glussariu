@@ -1,4 +1,4 @@
-﻿handle your information with care	stari accura ê to dati
+handle your information with care	stari accura ê to dati
 gives it a Yes vote	l'appruva dànnuci un Se
 by opting in to	scigghiennu di
 we may need to	putìssimu aviri bisognu di
@@ -434,3 +434,9 @@ project	pruggettu
 so	pi stu mutivu
 was passed	mmiata
 report	a signalazziuni
+report	signala
+my	u me
+your clip	a to riggistrazziuni
+shortcuts	accurzi
+sign up	iscrìviti
+sign up for	iscrìviti ê
