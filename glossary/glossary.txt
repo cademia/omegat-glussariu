@@ -432,3 +432,5 @@ voice recognition	ricanuscimentu vucali
 recognition	ricanuscimentu
 project	pruggettu
 so	pi stu mutivu
+was passed	mmiata
+report	a signalazziuni
