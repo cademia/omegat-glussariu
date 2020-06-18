@@ -1662,6 +1662,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Report was passed successfully</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200618T142222Z" creationid="Melo46" creationdate="20200618T142222Z">
+        <seg>A signalazziuni fu mmiata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Request a Language</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200616T080705Z" creationid="Melo46" creationdate="20200616T080705Z">
@@ -1890,6 +1898,14 @@
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200614T234514Z" creationid="Melo46" creationdate="20200614T234514Z">
         <seg>Prumittemu di stari accura ê to dati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We think</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200618T142103Z" creationid="Melo46" creationdate="20200618T142103Z">
+        <seg>Pinzamu chi</seg>
       </tuv>
     </tu>
     <tu>
@@ -2282,6 +2298,14 @@
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200613T180451Z" creationid="Melo46" creationdate="20200613T180451Z">
         <seg>mmìa quannu sì prontu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>that stifles innovation.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200618T142123Z" creationid="Melo46" creationdate="20200618T142123Z">
+        <seg>chistu affuca a nnuvazziuni.</seg>
       </tuv>
     </tu>
     <tu>
