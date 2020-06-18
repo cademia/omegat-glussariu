@@ -446,3 +446,4 @@ first	prima
 Finnish	fillannisi
 Frequently Asked Questions	Dumanni cchiù friquenti
 get involved	cullàbbura cu nuiautri
+get started	accumincia
