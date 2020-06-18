@@ -409,3 +409,10 @@ pronounce	prununciari
 reader	litturi
 what I’m speaking	chi parru
 I’m speaking	parru
+mailing list	lista di nutizzi
+join the	jùnciti â
+the recordings	i riggistrazziuna
+keep	sarba
+keep track	teni trazza
+of your progress	dî to prugressi
+metrics	statìstichi
