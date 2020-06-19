@@ -1534,10 +1534,58 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Listen</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200619T073243Z" creationid="Melo46" creationdate="20200619T073243Z">
+        <seg>Ascuta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Listening</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200619T073314Z" creationid="Melo46" creationdate="20200619T073314Z">
+        <seg>Ascutari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Loading</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200615T232137Z" creationid="Melo46" creationdate="20200615T232137Z">
         <seg>Staju carricannu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Loading…</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200619T073343Z" creationid="Melo46" creationdate="20200619T073343Z">
+        <seg>Staju carricannu…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Localization</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200619T073403Z" creationid="Melo46" creationdate="20200619T073403Z">
+        <seg>Lucalizzazziuni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Localized</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200619T073410Z" creationid="Melo46" creationdate="20200619T073410Z">
+        <seg>Traduciuti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Login Identity</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200619T073509Z" creationid="Melo46" creationdate="20200619T073509Z">
+        <seg>Idintità d'accessu</seg>
       </tuv>
     </tu>
     <tu>
