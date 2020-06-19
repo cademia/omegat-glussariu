@@ -494,3 +494,4 @@ log in	trasi
 sign up	riggìstrati
 to get started	p'accuminciari
 log out	nesci
+by recording	riggistrànnu
