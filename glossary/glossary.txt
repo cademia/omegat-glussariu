@@ -14,10 +14,15 @@ open web authentication panel	rapi quatru d'autinticazziuni
 we may need to	putìssimu aviri bisognu di
 from the public domain	dû duminiu pùbblicu
 how real people speak	comu pàrranu i genti nnâ vita vera
+as rich as possible	cchiù ricchi pussìbbili
 to Common Voice Datasets	ê dati Common Voice
 
 3paroli
 Common Voice Datasets	dati Common Voice
+across all languages	'n tutti i lingui
+the average length	a lunghizza midiana
+stay in touch	arristari 'n cuntattu
+we would like	ni piacissi
 set a goal	mposta n'ubbittivu
 keep it up	cuntinua accussì
 did they speak	liggeru
@@ -71,6 +76,11 @@ profile information	i nfurmazziuna dû prufilu
 return here	torna cca
 see more	vidi cchiù assai
 see less	vidi cchiù picca
+data sources	funti di dati
+you're using	usi
+of each	d'ogni
+voice technology	tecnuluggìi vucali	tecnuluggìi vucali
+that number	stu nùmmaru
 it works	funziona
 thank you	grazzi
 what is	soccu è
@@ -501,10 +511,8 @@ identity	idintità
 login	accessu
 before	prima di
 make	fai
-as rich as possible	cchiù ricchi pussìbbili
 some	quarchi
 anonymous	anònimu
-voice technology	tecnuluggìi vucali	tecnuluggìi vucali
 technology	tecnuluggìi
 voice	vuci
 building	ricugghiennu
@@ -513,7 +521,5 @@ voice recording	riggistrazziuni vucali
 online	'n linia
 change	canciari
 want	vo'
-stay in touch	arristari 'n cuntattu
-data sources	funti di dati
-you're using	usi
-we would like	ni piacissi
+estimating	stimannu
+multiplying	murtiplicannu
