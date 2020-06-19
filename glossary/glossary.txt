@@ -468,3 +468,8 @@ below	cchiù sutta
 I'm okay	Sugnu d'accordu
 handling	trattamentu di
 explain	schicatu
+field	campu
+in progress	'n cursu
+my account	u me cuntu
+public	pùbblichi
+information	nfurmazziuna
