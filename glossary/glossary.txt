@@ -455,3 +455,5 @@ keep	sarba
 metrics	statìstichi
 isn’t	nun è
 available	dispunìbbili
+have	ài
+feedback	suggirimenti
