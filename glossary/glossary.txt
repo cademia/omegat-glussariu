@@ -1,4 +1,6 @@
-﻿5paroli
+﻿it is a long established fact	si sapi di tempu
+
+5paroli
 join on our email list	iscrìviri â nostra lista e-mail
 should I sign up for	avissi a riggistrari
 handle your information with care	stari accura ê to dati
@@ -8,6 +10,7 @@ gives it a Yes vote	l'appruva dànnuci un Se
 I do not agree	Nun sugnu d'accordu
 would you like to	vo'
 by opting in to	scigghiennu di
+open web authentication panel	rapi quatru d'autinticazziuni
 we may need to	putìssimu aviri bisognu di
 from the public domain	dû duminiu pùbblicu
 how real people speak	comu pàrranu i genti nnâ vita vera
@@ -40,6 +43,9 @@ my progress updates	attualizzazziuna supra i me prugressi
 you’re looking for	stai circannu
 you can donate	ni po' dunari
 to help us	pi ajutàrini a
+have you read	liggisti
+to get started	p'accuminciari
+we’ve launched	abbiammu
 open-source voice database	database vucali lìbbiru
 anyone can use	po èssiri usatu di cu' è-è
 up to date	attualizzatu
@@ -143,6 +149,19 @@ recorded hours	uri riggistrati
 how many	quanti
 free app	app a gratis
 an email	nu nnirizzu e-mail
+I'm okay	Sugnu d'accordu
+our terms	nostri cunnizziuna d'usu
+is not	nun è
+in progress	'n cursu
+my account	u me cuntu
+voice assistant	assistenti vucali
+that are	chi sunnu
+login identity	idintità d'accessu
+log in	trasi
+sign up	riggìstrati
+log out	nesci
+by recording	riggistrànnu
+making public	pubblicari	pubblicari
 about changes	pi canciamenti
 we may	putìssimu
 contact you	cuntattàriti
@@ -457,27 +476,18 @@ isn’t	nun è
 available	dispunìbbili
 have	ài
 feedback	suggirimenti
-have you read	liggisti
-our terms	nostri cunnizziuna d'usu
-is not	nun è
 required	ubbligatoriu
 contribute	cuntribbuiri
 though	ma
 why	picchì
 below	cchiù sutta
-I'm okay	Sugnu d'accordu
 handling	trattamentu di
 explain	schicatu
 field	campu
-in progress	'n cursu
-my account	u me cuntu
 public	pùbblichi
 information	nfurmazziuna
 assistant	assistenti
-voice assistant	assistenti vucali
 contains	cunteni
-that are	chi sunnu
-it is a long established fact	si sapi di tempu
 audiobooks	audiulibbra
 from	dû
 approximately	circa
@@ -485,20 +495,12 @@ copied	cupiatu
 link	ligami
 listen	ascuta
 listening	ascutari
-loading…	staju carricannu…
+loading	staju carricannu
 localization	lucalizzazziuni
-login identity	idintità d'accessu
 identity	idintità
 login	accessu
-log in	trasi
-sign up	riggìstrati
-to get started	p'accuminciari
-log out	nesci
-by recording	riggistrànnu
-making public	pubblicari	pubblicari
 before	prima di
 make	fai
 as rich as possible	cchiù ricchi pussìbbili
 some	quarchi
 anonymous	anònimu
-we’ve launched	abbiammu
