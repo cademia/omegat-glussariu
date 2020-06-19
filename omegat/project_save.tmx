@@ -1510,6 +1510,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>LibriSpeech is a corpus of approximately 1000 hours of 16Khz read English speech derived from read audiobooks from the LibriVox project.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200619T073129Z" creationid="Melo46" creationdate="20200619T073129Z">
+        <seg>LibriSpeech è un corpus cu circa 1000 uri di riggistrazziuna 'n ingrisi a 16kHz di audiulibbra dû pruggettu LibriVox.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Link Copied</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200619T073220Z" creationid="Melo46" creationdate="20200619T073220Z">
+        <seg>Ligami cupiatu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Links</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200615T232125Z" creationid="Melo46" creationdate="20200615T232125Z">
