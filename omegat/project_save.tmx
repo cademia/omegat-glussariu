@@ -1078,6 +1078,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Have you read our Terms?</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200619T070339Z" creationid="Melo46" creationdate="20200619T070339Z">
+        <seg>Liggisti i nostri cunnizziuna d'usu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Having a profile is not required to contribute though it is helpful, see why below.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200619T070534Z" creationid="Melo46" creationdate="20200619T070534Z">
+        <seg>Aviri un prufilu nun è ubbligatoriu pi cuntribbuiri, ma po èssiri ùtili: vidi picchì cchiù sutta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Help</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200618T135157Z" creationid="Melo46" creationdate="20200618T135157Z">
