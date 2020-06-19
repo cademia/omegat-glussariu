@@ -1286,6 +1286,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I'm okay with you handling this info as you explain in Mozilla's &amp;lt;privacyLink&amp;gt;Privacy Policy&amp;lt;/privacyLink&amp;gt;</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200619T071158Z" creationid="Melo46" creationdate="20200619T071158Z">
+        <seg>Sugnu d'accordu cû trattamentu di sti nfurmazziuna comu schicatu nnall'&amp;lt;privacyLink&amp;gt;abbisu di privatizza&amp;lt;/privacyLink&amp;gt; di Mozilla</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In addition to the Common Voice dataset, we’re also building an open source speech recognition engine called Deep Speech.</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200614T225845Z" creationid="Melo46" creationdate="20200614T225845Z">
