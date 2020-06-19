@@ -483,3 +483,10 @@ from	dû
 approximately	circa
 copied	cupiatu
 link	ligami
+listen	ascuta
+listening	ascutari
+loading…	staju carricannu…
+localization	lucalizzazziuni
+login identity	idintità d'accessu
+identity	idintità
+login	accessu
