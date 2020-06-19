@@ -490,3 +490,7 @@ localization	lucalizzazziuni
 login identity	idintità d'accessu
 identity	idintità
 login	accessu
+log in	trasi
+sign up	riggìstrati
+to get started	p'accuminciari
+log out	nesci
