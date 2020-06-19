@@ -2159,6 +2159,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Voices Online Now</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200619T082547Z" creationid="Melo46" creationdate="20200619T082547Z">
+        <seg>Vuci 'n linia ora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Want to change your voice clip?</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200619T082629Z" creationid="Melo46" creationdate="20200619T082629Z">
+        <seg>Vo' canciari a riggistrazziuni vucali?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We at Mozilla are building a community around voice technology.</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200619T082353Z" creationid="Melo46" creationdate="20200619T082353Z">
@@ -2211,6 +2227,14 @@
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200618T141546Z" creationid="Melo46" creationdate="20200618T141530Z">
         <seg>Pinzamu chi chistu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We would like to stay in touch with updates, new data sources and to hear more about how you're using this data.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200619T082856Z" creationid="Melo46" creationdate="20200619T082856Z">
+        <seg>Ni piacissi arristari 'n cuntattu cu tia pi nfurmàriti dî nuvità e dî novi funti di dati, ma macari pi sapiri comu usi i dati di Common Voice.</seg>
       </tuv>
     </tu>
     <tu>
