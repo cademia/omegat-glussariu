@@ -1070,6 +1070,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Have Feedback?</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200619T070230Z" creationid="Melo46" creationdate="20200619T070230Z">
+        <seg>Ài suggirimenti?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Help</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200618T135157Z" creationid="Melo46" creationdate="20200618T135157Z">
