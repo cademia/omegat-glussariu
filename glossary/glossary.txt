@@ -501,3 +501,4 @@ make	fai
 as rich as possible	cchiù ricchi pussìbbili
 some	quarchi
 anonymous	anònimu
+we’ve launched	abbiammu
