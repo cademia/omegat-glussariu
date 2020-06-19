@@ -504,3 +504,9 @@ make	fai
 as rich as possible	cchiù ricchi pussìbbili
 some	quarchi
 anonymous	anònimu
+voice technology	tecnuluggìi vucali	tecnuluggìi vucali
+technology	tecnuluggìi
+voice	vuci
+building	ricugghiennu
+a community	na cumunità
+voice recording	riggistrazziuni vucali
