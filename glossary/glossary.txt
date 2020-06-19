@@ -473,3 +473,5 @@ in progress	'n cursu
 my account	u me cuntu
 public	pùbblichi
 information	nfurmazziuna
+assistant	assistenti
+voice assistant	assistenti vucali
