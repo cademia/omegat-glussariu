@@ -1,10 +1,19 @@
+﻿5paroli
+join on our email list	iscrìviri â nostra lista e-mail
+should I sign up for	avissi a riggistrari
 handle your information with care	stari accura ê to dati
 gives it a Yes vote	l'appruva dànnuci un Se
+
+4paroli
+I do not agree	Nun sugnu d'accordu
+would you like to	vo'
 by opting in to	scigghiennu di
 we may need to	putìssimu aviri bisognu di
 from the public domain	dû duminiu pùbblicu
 how real people speak	comu pàrranu i genti nnâ vita vera
 to Common Voice Datasets	ê dati Common Voice
+
+3paroli
 Common Voice Datasets	dati Common Voice
 set a goal	mposta n'ubbittivu
 keep it up	cuntinua accussì
@@ -19,6 +28,102 @@ handle with care	stari accura
 in order to	pi
 to help teach	pi nzignàrici
 in this language	nna sta lingua
+we think that	pinzamu chi chistu
+Frequently Asked Questions	Dumanni cchiù friquenti
+with a profile	c'un prufilu
+of your progress	dî to prugressi
+most of the	a majuranza dî
+by large companies	dî granni cumpagnì
+sign up for	iscrìviti ê
+what I’m speaking	chi parru
+my progress updates	attualizzazziuna supra i me prugressi
+you’re looking for	stai circannu
+you can donate	ni po' dunari
+to help us	pi ajutàrini a
+open-source voice database	database vucali lìbbiru
+anyone can use	po èssiri usatu di cu' è-è
+up to date	attualizzatu
+how can I get	comu pozzu scarricari
+does calculate hours	càrcula l'uri
+do you ensure	garantiti l'anonimatu
+will be able	putirannu
+read a sentence	liggi na frasi
+for the web	pâ riti
+with the next	cû pròssimu
+does this matter	è mpurtanti
+don’t you ask	nun addumannati ê
+in different languages	nnê diversi lingui
+do you need	abbisugnati di
+why is it	picchì è
+inside the dataset	nnî dati
+the source text	u testu d'urìggini
+are you experiencing	ài
+
+2paroli
+for devices	pî dispusitivi
+profile information	i nfurmazziuna dû prufilu
+return here	torna cca
+see more	vidi cchiù assai
+see less	vidi cchiù picca
+it works	funziona
+thank you	grazzi
+what is	soccu è
+audio quality	qualità audiu
+is required	abbisugnati
+come from	veni
+where from	d'unni
+so many	tutti sti
+Wikipedia articles	artìculi di Wikipedia
+my language	a me lingua
+not included	nun cc'è
+will continue	cuntinuarà
+during contribution	mentri cuntribbuisci
+help teach	ajuta a nzignàrici ê
+publicly open	dispunìbbili pubblicamenti
+high quality	d'alta qualità
+your goal	u to ubbittivu
+overall project status	statu ginirali dû pruggettu
+overall status	statu ginirali
+other language	autra lingua
+overall accuracy	pricisiuni glubbali
+the project	u pruggettu
+my data	i me dati
+new information	l'ùrtimi nfurmazziuna
+of voices	dî vuci
+offensive language	linguaggiu uffinzivu
+contact form	mòdulu di cuntattu
+contribution activity	cuntribbuti
+a different	n'autru
+keep track	teni trazza
+learn more	cchiù nfurmazziuna
+on sites	nnê siti
+all history	tutta a cronuluggìa
+goal reminders	prumimoria di l'ubbittivi
+on shutdown	chiujennu
+navigation data	i dati di navigazziuni
+close button	buttuni pi chiùjiri
+the app	l'app
+native language	lingua matri
+the clip	a riggistrazziuni
+such as	comu
+hard to	diffìcili di
+next goals	pròssimi ubbittivi
+not found	nun u truvai
+innovative apps	app nnuvativi
+I’m speaking	parru
+mailing list	lista di nutizzi
+join the	jùnciti â
+the recordings	i riggistrazziuna
+your clip	a to riggistrazziuni
+finish recording	allesti a riggistrazziuni
+get involved	cullàbbura
+get started	accumincia
+sign up	iscrìviti
+to the	ô
+we think	pinzamu chi
+was passed	mmiata
+to everyone	pi tutti
+voice recognition	ricanuscimentu vucali
 help us	ajùtani a
 helps improve the	ajuta ad ammigghiurari a qualità dî
 speech recognition engines	mutura di ricanuscimentu vucali
@@ -82,6 +187,15 @@ when done	quannu finisci
 when ready	quannu sì prontu
 your voice	a to vuci
 the sentence	a frasi
+
+
+1parola
+that	chistu
+stifles	affuca
+innovation	a nnuvazziuni
+recognition	ricanuscimentu
+project	pruggettu
+so	pi stu mutivu
 aloud	a vuci auta
 read	leggi
 submit	mmìa
@@ -211,81 +325,46 @@ settings	mpustazziuna
 weekly	pâ simana
 fill	jìnchiri
 contact	cuntatti
-contact form	mòdulu di cuntattu
 continue	cuntinua
-contribution activity	cuntribbuti
 cornish	còrnicu
 a	na
 part	parti
 create	crea
-will be able	putirannu
 for	pi
-a different	n'autru
 already	già
 used	usata
 subscriptions	iscrizziuna
 enter	metti
-how can I get	comu pozzu scarricari
-does calculate hours	càrcula l'uri
-do you ensure	garantiti l'anonimatu
 privacy	a privatizza
 Japanese	giappunisi
-learn more	cchiù nfurmazziuna
 homepage	pàggina mastra
 blocked	bluccò
 page	pàggina
-on sites	nnê siti
 experience	spirienza
 because	picchì
 programs	prugrammi
 contents	cuntinuti
-up to date	attualizzatu
 simplified	simplificatu
 spelling	l'ortugrafìa
 check	cuntrolla
 traditional	tradizziunali
 clear	cancella
-all history	tutta a cronuluggìa
 clear	pulizzìa
-on shutdown	chiujennu
 navigation	navigazziuni
-navigation data	i dati di navigazziuni
 clear	annetta
 related	rilativi
 recent history	cronuluggìa ricenti
 all	tutti i
 container	cuntinituri
-close button	buttuni pi chiùjiri
 sidebar	a sbarra di ciancu
 tabs	schedi
 window	finestra
 configurable	cunfijuràbbili
 compact	cumpattu
-the app	l'app
-native language	lingua matri
-next goals	pròssimi ubbittivi
-not found	nun u truvai
-you can donate	ni po' dunari
-to help us	pi ajutàrini a
-open-source voice database	database vucali lìbbiru
-anyone can use	po èssiri usatu di cu' è-è
-innovative apps	app nnuvativi
-for the web	pâ riti
-join on our email list	iscrìviri â nostra lista e-mail
-overall project status	statu ginirali dû pruggettu
-overall status	statu ginirali
-other language	autra lingua
-overall accuracy	pricisiuni glubbali
-the project	u pruggettu
-new information	l'ùrtimi nfurmazziuna
-of voices	dî vuci
-offensive language	linguaggiu uffinzivu
-read a sentence	liggi na frasi
 thanks	grazzi
 build	criari
 an	un
 that	ca
-for devices	pî dispusitivi
 to	pi
 number	nùmmaru
 updates	l'attualizzazziuna
@@ -296,7 +375,6 @@ accuracy	pricisiuni
 overall	glubbali
 overall	ginirali
 total	tutali
-profile information	i nfurmazziuna dû prufilu
 improves	fannu crìsciri
 accuracy	a qualità
 progress	prugressu
@@ -306,7 +384,6 @@ remove	cancella
 request	addumanna
 anytime	quannu voi
 edit	canciari
-return here	torna cca
 return	torna
 here	cca
 to	ê
@@ -314,10 +391,8 @@ languages	lingui
 review	senti arrè
 Russian	russu
 sardinian	sardu
-see more	vidi cchiù assai
 more	cchiù assai
 see	vidi
-see less	vidi cchiù picca
 less	cchiù picca
 select	scegghi
 collection	ricota
@@ -325,125 +400,58 @@ serbian	serbu
 set	mposta
 share	sparti
 hours	uri
-it works	funziona
 library	libbrarìa
 link	lijami
 links	lijami
 month	misi
 microphone	micròfunu
-thank you	grazzi
 minute	minuto
 minutes	minuti
 active	attiva
-what is	soccu è
 what	chi
 issues	prubblemi
-are you experiencing	ài
 with	cu
 this	sta
-audio quality	qualità audiu
-is required	abbisugnati
 what’s	soccu cc'è
-inside the dataset	nnî dati
-the source text	u testu d'urìggini
-come from	veni
-where from	d'unni
 why	picchì
 a	un
-does this matter	è mpurtanti
-don’t you ask	nun addumannati ê
 people	genti
 books	libbra
-Wikipedia articles	artìculi di Wikipedia
 in	nnê
 different	diversi
-in different languages	nnê diversi lingui
-do you need	abbisugnati di
-so many	tutti sti
 speakers	parranti
 per	p'ogni
-why is it	picchì è
 important	mpurtanti
-my language	a me lingua
-not included	nun cc'è
 yet	ancora
-should I sign up for	avissi a riggistrari
-would you like to	vo'
 download	scàrricari
 download	scàrrica
-my data	i me dati
 drop	lassa
 drag	trascina
-with the next	cû pròssimu
-will continue	cuntinuarà
-during contribution	mentri cuntribbuisci
 after	doppu chi
 skipped	doppu chi
 edit	cancia
 help	ajutu
-aelp teach	ajuta a nzignàrici ê
-help teach	ajuta a nzignàrici ê
 at	nne
 build	custruiri
-publicly open	dispunìbbili pubblicamenti
-high quality	d'alta qualità
 more	cchiù
-your goal	u to ubbittivu
+report	a signalazziuni
+report	signala
+my	u me
+shortcuts	accurzi
+finish	allesti
+first	prima
+Finnish	fillannisi
 hidden	ammucciatu
-I do not agree	Nun sugnu d'accordu
-I'd like to	Vulissi
-such as	comu
-goal reminders	prumimoria di l'ubbittivi
-my progress updates	attualizzazziuna supra i me prugressi
 newsletters	nutizzi
-you’re looking for	stai circannu
 Interlingua	ntirlingua
-the clip	a riggistrazziuni
 Italian	italianu
 words	palori
 phrases	frasi
 are	sunnu
-hard to	diffìcili di
 read	lèggiri
 pronounce	prununciari
 reader	litturi
-what I’m speaking	chi parru
-I’m speaking	parru
-mailing list	lista di nutizzi
-join the	jùnciti â
-the recordings	i riggistrazziuna
 keep	sarba
-keep track	teni trazza
-of your progress	dî to prugressi
 metrics	statìstichi
-with a profile	c'un prufilu
-most of the	a majuranza dî
-by large companies	dî granni cumpagnì
 isn’t	nun è
 available	dispunìbbili
-to the	ô
-we think	pinzamu chi
-we think that	pinzamu chi chistu
-that	chistu
-stifles	affuca
-innovation	a nnuvazziuni
-to everyone	pi tutti
-voice recognition	ricanuscimentu vucali
-recognition	ricanuscimentu
-project	pruggettu
-so	pi stu mutivu
-was passed	mmiata
-report	a signalazziuni
-report	signala
-my	u me
-your clip	a to riggistrazziuni
-shortcuts	accurzi
-sign up	iscrìviti
-sign up for	iscrìviti ê
-finish recording	allesti a riggistrazziuni
-finish	allesti
-first	prima
-Finnish	fillannisi
-Frequently Asked Questions	Dumanni cchiù friquenti
-get involved	cullàbbura cu nuiautri
-get started	accumincia
