@@ -910,6 +910,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>E.g. Open web authentication panel.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200619T082025Z" creationid="Melo46" creationdate="20200619T081113Z">
+        <seg>Rapi quatru d'autinticazziuni pî riti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Easy</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200613T234109Z" creationid="Melo46" creationdate="20200613T234109Z">
