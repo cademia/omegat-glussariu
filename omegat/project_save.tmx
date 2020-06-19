@@ -1342,6 +1342,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Is the goal of Common Voice to build a voice assistant?</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200619T072706Z" creationid="Melo46" creationdate="20200619T072706Z">
+        <seg>L'ubbittivu di Common Voice è chi??u di custrujiri n'assistenti vucali?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It contains words or phrases that are hard to read or pronounce.</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200618T140528Z" creationid="Melo46" creationdate="20200618T140528Z">
