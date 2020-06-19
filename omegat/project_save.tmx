@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>&lt;t0/&gt;Help us fill the queue by recording some now.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200619T074150Z" creationid="Melo46" creationdate="20200619T074150Z">
+        <seg> Ajùtani riggistrànnunni quarcuna ora. Ajùtani a jìnchiri the queue by recording some ora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>&lt;t0/&gt;Let us know on Discourse</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200614T230356Z" creationid="Melo46" creationdate="20200614T230356Z">
