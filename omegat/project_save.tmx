@@ -2183,6 +2183,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We calculate hours by estimating the average length of each recording, and then multiplying that number by the total number of recordings across all languages.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200619T083535Z" creationid="Melo46" creationdate="20200619T083535Z">
+        <seg>Carcùlamu l'uri stimannu a lunghizza midiana d'ogni riggistrazziuni, e murtiplicannu stu nùmmaru pû nùmmaru tutali di riggistrazziuna 'n tutti i lingui.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We de-identify all demographic data before making it public.</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200619T074349Z" creationid="Melo46" creationdate="20200619T074349Z">
