@@ -1630,6 +1630,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Make your submitted data as rich as possible by providing some anonymous demographic data.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200619T075940Z" creationid="Melo46" creationdate="20200619T074206Z">
+        <seg>Fai cchiù ricchi pussìbbili i dati chi manni dànnuni quarchi nfurmazziuni dimugràfica anònima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Month</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200615T232203Z" creationid="Melo46" creationdate="20200615T232203Z">
@@ -2122,6 +2130,14 @@
       </tuv>
       <tuv lang="scn" changeid="David Paleino" changedate="20200612T144341Z" creationid="David Paleino" creationdate="20200612T144341Z">
         <seg>Verbu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We de-identify all demographic data before making it public.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200619T074349Z" creationid="Melo46" creationdate="20200619T074349Z">
+        <seg>Sti nfurmazziuna sarannu cancillati prima di pubblicari i dati.</seg>
       </tuv>
     </tu>
     <tu>
