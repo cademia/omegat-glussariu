@@ -510,3 +510,10 @@ voice	vuci
 building	ricugghiennu
 a community	na cumunità
 voice recording	riggistrazziuni vucali
+online	'n linia
+change	canciari
+want	vo'
+stay in touch	arristari 'n cuntattu
+data sources	funti di dati
+you're using	usi
+we would like	ni piacissi
