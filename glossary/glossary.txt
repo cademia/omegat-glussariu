@@ -478,3 +478,8 @@ voice assistant	assistenti vucali
 contains	cunteni
 that are	chi sunnu
 it is a long established fact	si sapi di tempu
+audiobooks	audiulibbra
+from	dû
+approximately	circa
+copied	cupiatu
+link	ligami
