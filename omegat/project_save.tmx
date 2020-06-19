@@ -2151,6 +2151,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Voice recording in progress</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200619T082520Z" creationid="Melo46" creationdate="20200619T082520Z">
+        <seg>Riggistrazziuni vucali 'n cursu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We at Mozilla are building a community around voice technology.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200619T082353Z" creationid="Melo46" creationdate="20200619T082353Z">
+        <seg>Mozilla sta ricugghiennu na cumunità di genti ntirissati ê tecnuluggìi vucali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We de-identify all demographic data before making it public.</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200619T074349Z" creationid="Melo46" creationdate="20200619T074349Z">
