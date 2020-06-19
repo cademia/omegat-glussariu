@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>* Indicates required field</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200619T071222Z" creationid="Melo46" creationdate="20200619T071222Z">
+        <seg>* campu ubbligatoriu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>1.</seg>
       </tuv>
       <tuv lang="scn" changeid="David Paleino" changedate="20200612T144354Z" creationid="David Paleino" creationdate="20200612T144354Z">
@@ -1294,6 +1302,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In Progress</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200619T071259Z" creationid="Melo46" creationdate="20200619T071259Z">
+        <seg>'N cursu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In addition to the Common Voice dataset, we’re also building an open source speech recognition engine called Deep Speech.</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200614T225845Z" creationid="Melo46" creationdate="20200614T225845Z">
@@ -1306,6 +1322,14 @@
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200618T140300Z" creationid="Melo46" creationdate="20200618T140300Z">
         <seg>Ntirlingua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Is my account information public?</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200619T071419Z" creationid="Melo46" creationdate="20200619T071419Z">
+        <seg>I nfurmazziuna supra u me cuntu sunnu pùbblichi?</seg>
       </tuv>
     </tu>
     <tu>
