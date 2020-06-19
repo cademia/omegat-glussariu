@@ -1582,10 +1582,42 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Log In / Sign Up</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200619T073637Z" creationid="Melo46" creationdate="20200619T073637Z">
+        <seg>Trasi / Riggìstrati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Log Out</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200619T073759Z" creationid="Melo46" creationdate="20200619T073759Z">
+        <seg>Nesci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Log in or sign up to get started</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200619T073725Z" creationid="Melo46" creationdate="20200619T073725Z">
+        <seg>Trasi o riggìstrati p'accuminciari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Login Identity</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200619T073509Z" creationid="Melo46" creationdate="20200619T073509Z">
         <seg>Idintità d'accessu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Looks like there aren't any clips to listen to in this language.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200619T073842Z" creationid="Melo46" creationdate="20200619T073842Z">
+        <seg>Parissi ca nun cci sunnu frasi riggistrati nna sta lingua.</seg>
       </tuv>
     </tu>
     <tu>
