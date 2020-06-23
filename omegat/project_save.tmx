@@ -862,10 +862,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Days</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200623T083015Z" creationid="Melo46" creationdate="20200623T083015Z">
+        <seg>Jorna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Delete Profile</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200614T225915Z" creationid="Melo46" creationdate="20200614T225915Z">
         <seg>Cancella prufilu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Delete my recordings</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200623T083037Z" creationid="Melo46" creationdate="20200623T083037Z">
+        <seg>Cancella i me riggistrazziuna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dhivehi</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200623T083052Z" creationid="Melo46" creationdate="20200623T083052Z">
+        <seg>Maldivianu</seg>
       </tuv>
     </tu>
     <tu>
@@ -882,6 +906,14 @@
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200614T230012Z" creationid="Melo46" creationdate="20200614T230012Z">
         <seg>Diffìcili</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Difficult to pronounce</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200623T083112Z" creationid="Melo46" creationdate="20200623T083112Z">
+        <seg>Diffìcili di prununciari</seg>
       </tuv>
     </tu>
     <tu>
@@ -910,10 +942,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Don't see your language on Common Voice yet?</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200623T083135Z" creationid="Melo46" creationdate="20200623T083135Z">
+        <seg>A to lingua nun cc'è ancora nne Common Voice?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Donate your voice</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200614T230045Z" creationid="Melo46" creationdate="20200614T230045Z">
         <seg>Dùnani a to voci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Don’t see your language reflected in the Dataset?</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200623T083228Z" creationid="Melo46" creationdate="20200623T083228Z">
+        <seg>Don’t vidi to lingua reflected nnâ a Dataset?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2211,6 +2259,14 @@
       </tuv>
       <tuv lang="scn" changeid="Melo" changedate="20200623T070840Z" creationid="Melo" creationdate="20200623T070840Z">
         <seg>Sta means donations dû non-native parranti sunnu particularly mpurtanti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To request a language head over to our Languages page.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200623T083347Z" creationid="Melo46" creationdate="20200623T083347Z">
+        <seg>P'addumannari na lingua nova, vai nnâ pàggina dî Lingui.</seg>
       </tuv>
     </tu>
     <tu>
