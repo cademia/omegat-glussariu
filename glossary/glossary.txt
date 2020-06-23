@@ -551,3 +551,8 @@ Croatian	cruatu
 Czech	cecu
 Danish	danisi
 datasets	archivi di dati
+days	jorna
+my	i me
+Dhivehi	maldivianu
+don’t	nun
+head over page	vai nnâ pàggina
