@@ -2135,6 +2135,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This means donations from non-native speakers are particularly important.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo" changedate="20200623T070840Z" creationid="Melo" creationdate="20200623T070840Z">
+        <seg>Sta means donations dû non-native parranti sunnu particularly mpurtanti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Total</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200616T075959Z" creationid="Melo46" creationdate="20200616T075959Z">
@@ -2451,6 +2459,14 @@
       </tuv>
       <tuv lang="scn" changeid="Melo" changedate="20200623T070710Z" creationid="Melo" creationdate="20200623T070710Z">
         <seg>Se, we especially vo' a to vuci!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You must allow microphone access.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo" changedate="20200623T070953Z" creationid="Melo" creationdate="20200623T070953Z">
+        <seg>Hâ pirmèttiri l'usu dû micròfunu.</seg>
       </tuv>
     </tu>
     <tu>
