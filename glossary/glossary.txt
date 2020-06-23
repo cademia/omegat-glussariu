@@ -545,3 +545,9 @@ goal	ubbittivu
 content	cuntinutu
 under	cu
 license	licenza
+contribution	cuntribbutu
+cookies	cookie
+Croatian	cruatu
+Czech	cecu
+Danish	danisi
+datasets	archivi di dati
