@@ -2471,6 +2471,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You've successfully signed up for contributing to { $language }.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo" changedate="20200623T071828Z" creationid="Melo" creationdate="20200623T071828Z">
+        <seg>Ti riggistrasti comu cullabburaturi pâ lingua { $language }. Grazzi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Your Languages</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200613T235056Z" creationid="Melo46" creationdate="20200613T235056Z">
@@ -2499,6 +2507,14 @@
       </tuv>
       <tuv lang="scn" changeid="Melo" changedate="20200623T071543Z" creationid="Melo" creationdate="20200623T071543Z">
         <seg>U to nomu utenti e u to nnirizzu e-mail nun sarannu assuciati chî dati pubblicati.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your weekly goal has been created</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo" changedate="20200623T071630Z" creationid="Melo" creationdate="20200623T071630Z">
+        <seg>Criasti u to ubbittivu pâ simana</seg>
       </tuv>
     </tu>
     <tu>
