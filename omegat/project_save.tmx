@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.1.0_0_54fc30ee" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2307,6 +2307,14 @@
       </tuv>
       <tuv lang="scn" changeid="Melo" changedate="20200617T224831Z" creationid="Melo" creationdate="20200617T224831Z">
         <seg>Soccu cc'è nnî dati Common Voice?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What’s the difference between Common Voice and Deep Speech?</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo" changedate="20200623T070033Z" creationid="Melo" creationdate="20200623T070033Z">
+        <seg>Qual'è a diffirenza ntra Common Voice e Deep Speech?</seg>
       </tuv>
     </tu>
     <tu>
