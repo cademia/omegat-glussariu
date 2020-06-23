@@ -523,3 +523,6 @@ change	canciari
 want	vo'
 estimating	stimannu
 multiplying	murtiplicannu
+the	a
+what’s	qual'è
+between	ntra
