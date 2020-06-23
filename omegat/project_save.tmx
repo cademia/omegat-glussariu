@@ -2383,6 +2383,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Why is 10,000 validated hours the per language goal for capturing audio?</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo" changedate="20200623T070503Z" creationid="Melo" creationdate="20200623T070503Z">
+        <seg>Picchì l'ubbittivu di riggistrazziuni p'ogni lingua è di 10.000 uri validati?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Why is Common Voice part of the Mozilla mission?</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo" changedate="20200623T070618Z" creationid="Melo" creationdate="20200623T070618Z">
+        <seg>Picchì Common Voice fa parti dâ missiuni di Mozilla?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Why is it important?</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo" changedate="20200617T225837Z" creationid="Melo" creationdate="20200617T225837Z">
@@ -2427,6 +2443,14 @@
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200613T234941Z" creationid="Melo46" creationdate="20200613T234941Z">
         <seg>Se, mànnami posta elittrònica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Yes, we especially want your voice!</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo" changedate="20200623T070710Z" creationid="Melo" creationdate="20200623T070710Z">
+        <seg>Se, we especially vo' a to vuci!</seg>
       </tuv>
     </tu>
     <tu>
