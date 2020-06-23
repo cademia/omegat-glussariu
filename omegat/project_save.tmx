@@ -2319,6 +2319,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>When will you release Common Voice data in other languages?</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo" changedate="20200623T070349Z" creationid="Melo" creationdate="20200623T070349Z">
+        <seg>Quannu pubblicariti i dati di Common Voice nnall'autri lingui?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Where does the source text come from?</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo" changedate="20200617T225049Z" creationid="Melo" creationdate="20200617T225049Z">
