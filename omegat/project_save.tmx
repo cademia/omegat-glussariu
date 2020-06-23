@@ -1462,10 +1462,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Indonesian</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200623T084302Z" creationid="Melo46" creationdate="20200623T084302Z">
+        <seg>Nnunisianu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Interlingua</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200618T140300Z" creationid="Melo46" creationdate="20200618T140300Z">
         <seg>Ntirlingua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Irish</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200623T084322Z" creationid="Melo46" creationdate="20200623T084322Z">
+        <seg>Irlannisi</seg>
       </tuv>
     </tu>
     <tu>
@@ -1522,6 +1538,14 @@
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200618T140411Z" creationid="Melo46" creationdate="20200618T140411Z">
         <seg>Italianu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Izhorian</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200623T084357Z" creationid="Melo46" creationdate="20200623T084357Z">
+        <seg>Izzurianu</seg>
       </tuv>
     </tu>
     <tu>
@@ -1586,6 +1610,22 @@
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200618T141205Z" creationid="Melo46" creationdate="20200618T141205Z">
         <seg>C'un prufilu, po' tèniri trazza dî to prugressi e n'ajuti ad ammigghiurari a pricisiuni dî dati vucali.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Language</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200623T084407Z" creationid="Melo46" creationdate="20200623T084407Z">
+        <seg>Lingua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Language Request</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200623T084436Z" creationid="Melo46" creationdate="20200623T084436Z">
+        <seg>Richiesta lingua</seg>
       </tuv>
     </tu>
     <tu>
@@ -2915,6 +2955,14 @@
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200613T180402Z" creationid="Melo46" creationdate="20200613T180402Z">
         <seg>quannu finisci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>{ $hours } validated hours so far!</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200623T084244Z" creationid="Melo46" creationdate="20200623T084244Z">
+        <seg>{ $hours } uri validati nzinu a ora!</seg>
       </tuv>
     </tu>
     <tu>
