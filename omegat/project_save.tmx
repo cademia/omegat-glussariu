@@ -782,10 +782,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Contribution Experience</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200623T082757Z" creationid="Melo46" creationdate="20200623T082757Z">
+        <seg>Spirienza di cuntribbuti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Contribution will continue directly with the next set of 5 recordings or validations.</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200618T134849Z" creationid="Melo46" creationdate="20200618T134849Z">
         <seg>A prucidura cuntinuarà cû pròssimu nzemi di 5 riggistrazziuna o validazziuna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cookies</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200623T082829Z" creationid="Melo46" creationdate="20200623T082829Z">
+        <seg>Cookie</seg>
       </tuv>
     </tu>
     <tu>
@@ -802,6 +818,46 @@
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200615T224914Z" creationid="Melo46" creationdate="20200615T224914Z">
         <seg>Crea na prisintazziuni vucali comu parti dâ to fotu prufilu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Croatian</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200623T082847Z" creationid="Melo46" creationdate="20200623T082847Z">
+        <seg>Cruatu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Czech</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200623T082904Z" creationid="Melo46" creationdate="20200623T082904Z">
+        <seg>cecu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Danish</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200623T082920Z" creationid="Melo46" creationdate="20200623T082920Z">
+        <seg>danisi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dashboard</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200623T082926Z" creationid="Melo46" creationdate="20200623T082926Z">
+        <seg>Panne??u</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Datasets</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200623T082953Z" creationid="Melo46" creationdate="20200623T082953Z">
+        <seg>Archivi di dati</seg>
       </tuv>
     </tu>
     <tu>
