@@ -526,3 +526,6 @@ multiplying	murtiplicannu
 the	a
 what’s	qual'è
 between	ntra
+in other	nnall'autri
+languages	lingui
+in other languages	nnall'autri lingui
