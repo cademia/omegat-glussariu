@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.1.0_0_54fc30ee" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -702,6 +702,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Confirm Goal</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200623T082458Z" creationid="Melo46" creationdate="20200623T082458Z">
+        <seg>Cunferma ubbittivu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Contact</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200615T224436Z" creationid="Melo46" creationdate="20200615T224436Z">
@@ -714,6 +722,14 @@
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200615T224514Z" creationid="Melo46" creationdate="20200615T224514Z">
         <seg>Mòdulu di cuntattu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Content available under a &amp;lt;licenseLink&amp;gt;Creative Commons license&amp;lt;/licenseLink&amp;gt;</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200623T082700Z" creationid="Melo46" creationdate="20200623T082700Z">
+        <seg>Cuntinutu dispunìbbili cu na &lt;licenseLink&gt;licenza Creative Commons&lt;/licenseLink&gt;</seg>
       </tuv>
     </tu>
     <tu>
