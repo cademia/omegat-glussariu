@@ -540,3 +540,8 @@ with the	dati
 published	pubblicati
 weekly	pâ simana
 you've signed	ti riggistrasti
+confirm	cunferma
+goal	ubbittivu
+content	cuntinutu
+under	cu
+license	licenza
