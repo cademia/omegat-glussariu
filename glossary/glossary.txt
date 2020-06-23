@@ -531,3 +531,10 @@ languages	lingui
 in other languages	nnall'autri lingui
 is part	fa parti
 you must allow	hâ pirmèttiri
+you started	accuminciasti
+username	nomu utenti
+your	u to
+email	nnirizzu e-mail
+associated	assuciati
+with the	dati
+published	pubblicati
