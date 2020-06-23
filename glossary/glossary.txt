@@ -1,12 +1,8 @@
-﻿it is a long established fact	si sapi di tempu
-
-5paroli
+it is a long established fact	si sapi di tempu
 join on our email list	iscrìviri â nostra lista e-mail
 should I sign up for	avissi a riggistrari
 handle your information with care	stari accura ê to dati
 gives it a Yes vote	l'appruva dànnuci un Se
-
-4paroli
 I do not agree	Nun sugnu d'accordu
 would you like to	vo'
 by opting in to	scigghiennu di
@@ -16,8 +12,6 @@ from the public domain	dû duminiu pùbblicu
 how real people speak	comu pàrranu i genti nnâ vita vera
 as rich as possible	cchiù ricchi pussìbbili
 to Common Voice Datasets	ê dati Common Voice
-
-3paroli
 Common Voice Datasets	dati Common Voice
 across all languages	'n tutti i lingui
 the average length	a lunghizza midiana
@@ -69,8 +63,6 @@ why is it	picchì è
 inside the dataset	nnî dati
 the source text	u testu d'urìggini
 are you experiencing	ài
-
-2paroli
 for devices	pî dispusitivi
 profile information	i nfurmazziuna dû prufilu
 return here	torna cca
@@ -216,9 +208,6 @@ when done	quannu finisci
 when ready	quannu sì prontu
 your voice	a to vuci
 the sentence	a frasi
-
-
-1parola
 that	chistu
 stifles	affuca
 innovation	a nnuvazziuni
@@ -557,3 +546,8 @@ Dhivehi	maldivianu
 don’t	nun
 head over page	vai nnâ pàggina
 help us find	ajùtani ad attruvari
+so far	nzinu a ora
+validated hours	uri validati
+Indonesian	nnunisianu
+Irish	irlannisi
+Izhorian	izzurianu
