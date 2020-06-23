@@ -529,3 +529,4 @@ between	ntra
 in other	nnall'autri
 languages	lingui
 in other languages	nnall'autri lingui
+is part	fa parti
