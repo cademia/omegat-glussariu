@@ -2190,6 +2190,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Polish</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo" changedate="20200624T223627Z" creationid="Melo" creationdate="20200624T223627Z">
+        <seg>Pulaccu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Portuguese</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo" changedate="20200624T223715Z" creationid="Melo" creationdate="20200624T223715Z">
+        <seg>Purtughisi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Proceed with Caution</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200615T232240Z" creationid="Melo46" creationdate="20200615T232240Z">
@@ -2234,6 +2250,14 @@
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200616T074917Z" creationid="Melo46" creationdate="20200616T074917Z">
         <seg>Liggi na frasi p'ajutàrini a nzignàrici ê màchini comu pàrranu i genti nnâ vita vera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Read more on our About page</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo" changedate="20200624T223808Z" creationid="Melo" creationdate="20200624T223808Z">
+        <seg>Cchiù nfurmazziuna nne our Nfurmazziuna pàggina</seg>
       </tuv>
     </tu>
     <tu>
