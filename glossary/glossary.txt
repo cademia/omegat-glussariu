@@ -573,3 +573,5 @@ off	disattiva
 on	attiva
 never	mai
 play	ripruduci
+polish	pulaccu
+portuguese	purtughisi
