@@ -551,3 +551,7 @@ validated hours	uri validati
 Indonesian	nnunisianu
 Irish	irlannisi
 Izhorian	izzurianu
+launched	partuti
+visibility	visibbilità
+leaderboard	classìfica
+Ligurian	lìguri
