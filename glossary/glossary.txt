@@ -564,3 +564,7 @@ manage	gistisci
 message	missaggiu
 mixed	ammiscata
 more	autru
+found	attruvatu
+note	nota
+contribution type	tipu di cuntribbutu
+type	tipu
