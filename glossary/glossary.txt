@@ -555,3 +555,8 @@ launched	partuti
 visibility	visibbilità
 leaderboard	classìfica
 Ligurian	lìguri
+lithuanian	lituanu
+Luganda	lugannisi
+Macedonian	macèduni
+demographic	dimugràfica
+Maltese	martisi
