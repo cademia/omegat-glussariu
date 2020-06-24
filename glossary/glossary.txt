@@ -568,3 +568,6 @@ found	attruvatu
 note	nota
 contribution type	tipu di cuntribbutu
 type	tipu
+Occitan	uccitanu
+off	disattiva
+on	attiva
