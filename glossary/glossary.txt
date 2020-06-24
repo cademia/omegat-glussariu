@@ -560,3 +560,7 @@ Luganda	lugannisi
 Macedonian	macèduni
 demographic	dimugràfica
 Maltese	martisi
+manage	gistisci
+message	missaggiu
+mixed	ammiscata
+more	autru
