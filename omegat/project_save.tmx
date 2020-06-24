@@ -1790,6 +1790,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Lithuanian</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo" changedate="20200624T222104Z" creationid="Melo" creationdate="20200624T222104Z">
+        <seg>Lituanu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Loading</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200615T232137Z" creationid="Melo46" creationdate="20200615T232137Z">
@@ -1830,6 +1838,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Log In / Sign Up with { $company } email</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo" changedate="20200624T222121Z" creationid="Melo" creationdate="20200624T222121Z">
+        <seg>Trasi / Iscrìviti cu { $company } nnirizzu e-mail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Log Out</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200619T073759Z" creationid="Melo46" creationdate="20200619T073759Z">
@@ -1862,10 +1878,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Luganda</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo" changedate="20200624T222143Z" creationid="Melo" creationdate="20200624T222143Z">
+        <seg>Lugannisi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Macedonian</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo" changedate="20200624T222209Z" creationid="Melo" creationdate="20200624T222209Z">
+        <seg>Macèduni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Make your submitted data as rich as possible by providing some anonymous demographic data.</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200619T075940Z" creationid="Melo46" creationdate="20200619T074206Z">
         <seg>Fai cchiù ricchi pussìbbili i dati chi manni dànnuni quarchi nfurmazziuni dimugràfica anònima.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Maltese</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo" changedate="20200624T222320Z" creationid="Melo" creationdate="20200624T222320Z">
+        <seg>Martisi</seg>
       </tuv>
     </tu>
     <tu>
