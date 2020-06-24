@@ -406,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Check the work of other</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo" changedate="20200624T222942Z" creationid="Melo" creationdate="20200624T222942Z">
+        <seg>Cuntrolla a work di l'autri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Check your spelling as you type</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200615T230617Z" creationid="Melo46" creationdate="20200615T230617Z">
@@ -2006,6 +2014,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No gravatar found for your email</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo" changedate="20200624T222704Z" creationid="Melo" creationdate="20200624T222704Z">
+        <seg>Nu??u Gravatar attruvatu pû to nnirizzu e-mail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No microphone found.</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200616T073652Z" creationid="Melo46" creationdate="20200616T073652Z">
@@ -2018,6 +2034,14 @@
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200616T073727Z" creationid="Melo46" creationdate="20200616T073727Z">
         <seg>Nun u truvai</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Note: You will still need to select between Speak or Listen to change contribution type.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo" changedate="20200624T222851Z" creationid="Melo" creationdate="20200624T222851Z">
+        <seg>Nota: hâ ammaccari sempri Parra o Ascuta pi canciari tipu di cuntribbutu.</seg>
       </tuv>
     </tu>
     <tu>
