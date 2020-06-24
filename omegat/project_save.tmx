@@ -1910,10 +1910,50 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Manage Email Subscriptions</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo" changedate="20200624T222412Z" creationid="Melo" creationdate="20200624T222412Z">
+        <seg>Gistisci l'iscrizziuna e-mail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Manage Subscriptions</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo" changedate="20200624T222431Z" creationid="Melo" creationdate="20200624T222431Z">
+        <seg>Gistisci l'iscrizziuna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Message</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo" changedate="20200624T222456Z" creationid="Melo" creationdate="20200624T222456Z">
+        <seg>Missaggiu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mixed</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo" changedate="20200624T222525Z" creationid="Melo" creationdate="20200624T222525Z">
+        <seg>Ammiscata</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Month</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200615T232203Z" creationid="Melo46" creationdate="20200615T232203Z">
         <seg>Misi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>More</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo" changedate="20200624T222616Z" creationid="Melo" creationdate="20200624T222616Z">
+        <seg>Autru</seg>
       </tuv>
     </tu>
     <tu>
