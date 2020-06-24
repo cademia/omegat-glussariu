@@ -571,3 +571,5 @@ type	tipu
 Occitan	uccitanu
 off	disattiva
 on	attiva
+never	mai
+play	ripruduci
