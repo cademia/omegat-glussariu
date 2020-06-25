@@ -632,3 +632,5 @@ open	lìbbiru
 make	criari
 for the web	pâ riti
 for the	pâ
+to help	p'ajutàrini a
+machines learn	nzignàrici ê màchini
