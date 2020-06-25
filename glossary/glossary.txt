@@ -590,3 +590,6 @@ would say	dicìssiru
 some	certi
 recreate	ricrea
 voicewave	prisintazziuni vucali
+romanian	rumenu
+save	sarba
+saved	sarbatu
