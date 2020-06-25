@@ -1,4 +1,4 @@
-it is a long established fact	si sapi di tempu
+﻿it is a long established fact	si sapi di tempu
 join on our email list	iscrìviri â nostra lista e-mail
 should I sign up for	avissi a riggistrari
 handle your information with care	stari accura ê to dati
@@ -9,12 +9,15 @@ by opting in to	scigghiennu di
 open web authentication panel	rapi quatru d'autinticazziuni
 we may need to	putìssimu aviri bisognu di
 from the public domain	dû duminiu pùbblicu
+I’d like to stay	vulissi arristari
 how real people speak	comu pàrranu i genti nnâ vita vera
 as rich as possible	cchiù ricchi pussìbbili
 to Common Voice Datasets	ê dati Common Voice
 Common Voice Datasets	dati Common Voice
 across all languages	'n tutti i lingui
 the average length	a lunghizza midiana
+Common Voice Project	pruggettu Common Voice
+We at Mozilla	Mozilla
 stay in touch	arristari 'n cuntattu
 we would like	ni piacissi
 set a goal	mposta n'ubbittivu
@@ -171,6 +174,13 @@ login identity	idintità d'accessu
 log in	trasi
 sign up	riggìstrati
 log out	nesci
+about the	supra u
+are building	sta ricugghiennu
+the difference	a diffirenza
+I’d like	Vulissi
+that’s why	pi chistu
+we’re fascinated	ni ncanta
+voice technology	tecnuluggìa vucali
 by recording	riggistrànnu
 making public	pubblicari	pubblicari
 about changes	pi canciamenti
@@ -567,6 +577,10 @@ Macedonian	macèduni
 demographic	dimugràfica
 Maltese	martisi
 manage	gistisci
+natural	naturali
+human	umana
+usable	usàbbili
+creating	criari
 message	missaggiu
 mixed	ammiscata
 more	autru
@@ -602,11 +616,4 @@ answers	risposti
 compares	'n cunfruntu
 contributors	cullabburatura
 using	usari
-the difference	a diffirenza
-I’d like	Vulissi
-I’d like to stay	vulissi arristari
 informed	nfurmatu
-about the	supra u
-Common Voice Project	pruggettu Common Voice
-We at Mozilla	Mozilla
-are building	sta ricugghiennu
