@@ -637,3 +637,5 @@ machines learn	nzignàrici ê màchini
 work	travagghiu
 to improve	p'ammigghiurari
 the quality	a qualità
+It’s that simple	è sìmplici
+simple	sìmplici
