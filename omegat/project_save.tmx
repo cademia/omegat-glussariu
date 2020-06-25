@@ -2374,6 +2374,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Recording voice clips is an integral part of building our open dataset; some would say it's the fun part too.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo" changedate="20200625T010331Z" creationid="Melo" creationdate="20200625T010331Z">
+        <seg>Riggistrari i frasi è na parti ntigranti pâ custruzziuni dû nostru pruggettu: certi dicìssiru chi è puru a parti cchiù divirtenti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Recordings</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo" changedate="20200625T010052Z" creationid="Melo" creationdate="20200625T010052Z">
+        <seg>Riggistrazziuna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Remove</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200616T080610Z" creationid="Melo46" creationdate="20200616T080610Z">
