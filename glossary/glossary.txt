@@ -1,4 +1,4 @@
-it is a long established fact	si sapi di tempu
+﻿it is a long established fact	si sapi di tempu
 join on our email list	iscrìviri â nostra lista e-mail
 should I sign up for	avissi a riggistrari
 handle your information with care	stari accura ê to dati
@@ -62,6 +62,8 @@ do you need	abbisugnati di
 why is it	picchì è
 inside the dataset	nnî dati
 the source text	u testu d'urìggini
+head over page	vai nnâ pàggina
+help us find	ajùtani ad attruvari
 are you experiencing	ài
 for devices	pî dispusitivi
 profile information	i nfurmazziuna dû prufilu
@@ -124,8 +126,15 @@ join the	jùnciti â
 the recordings	i riggistrazziuna
 your clip	a to riggistrazziuni
 finish recording	allesti a riggistrazziuni
+user name	nomu utenti
 get involved	cullàbbura
 get started	accumincia
+so far	nzinu a ora
+integral part	parti ntigranti
+all over	'n tuttu
+the world	u munnu
+our	nostru
+would say	dicìssiru
 sign up	iscrìviti
 to the	ô
 we think	pinzamu chi
@@ -544,9 +553,6 @@ days	jorna
 my	i me
 Dhivehi	maldivianu
 don’t	nun
-head over page	vai nnâ pàggina
-help us find	ajùtani ad attruvari
-so far	nzinu a ora
 validated hours	uri validati
 Indonesian	nnunisianu
 Irish	irlannisi
@@ -584,9 +590,6 @@ more	n'autri
 updates	attualizzazziuna
 recording	riggistrazziuni
 recordings	riggistrazziuna
-integral part	parti ntigranti
-our	nostru
-would say	dicìssiru
 some	certi
 recreate	ricrea
 voicewave	prisintazziuni vucali
@@ -598,5 +601,3 @@ search for	cerca pi
 answers	risposti
 compares	'n cunfruntu
 contributors	cullabburatura
-all over	'n tuttu
-the world	u munnu
