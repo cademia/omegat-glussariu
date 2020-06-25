@@ -669,3 +669,10 @@ like	a tipu
 real-time translators	traduttura 'n tempu riali
 digital assistants	assistenti diggitali
 voice-enabled	ca capìscinu soccu dici
+right now	ora comu ora
+most of the voice data	a majuranza dî dati vucali
+required to	nicissari pi
+required to build	nicissari pi custrujiri
+these kinds of apps	st'appricazziuna
+expensive	custusa
+proprietary	prupitaria
