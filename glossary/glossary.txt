@@ -17,6 +17,11 @@ Common Voice Datasets	dati Common Voice
 across all languages	'n tutti i lingui
 the average length	a lunghizza midiana
 Common Voice Project	pruggettu Common Voice
+extremely large amount	granni quantità
+of voice data	di dati di vuci
+by large companies	dî granni cumpagnìi
+open to everyone	lìbbiru pi tutti
+for the web	pâ riti
 We at Mozilla	Mozilla
 stay in touch	arristari 'n cuntattu
 we would like	ni piacissi
@@ -78,6 +83,19 @@ you're using	usi
 of each	d'ogni
 voice technology	tecnuluggìi vucali	tecnuluggìi vucali
 that number	stu nùmmaru
+for the	pâ
+to help	p'ajutàrini a
+It’s that simple	è sìmplici
+to improve	p'ammigghiurari
+the quality	a qualità
+a project	un pruggettu
+contribution type	tipu di cuntribbutu
+play mode	mudalità di ripruduzziuni
+ready to	sì prontu pi
+machines learn	nzignàrici ê màchini
+voice systems	sistemi vucali
+is required	abbisugnamu
+is required	abbisugnamu di
 it works	funziona
 thank you	grazzi
 what is	soccu è
@@ -586,7 +604,6 @@ mixed	ammiscata
 more	autru
 found	attruvatu
 note	nota
-contribution type	tipu di cuntribbutu
 type	tipu
 Occitan	uccitanu
 off	disattiva
@@ -597,9 +614,7 @@ polish	pulaccu
 portuguese	purtughisi
 press	ammacca
 toggle	passari â
-play mode	mudalità di ripruduzziuni
 mode	mudalità
-ready to	sì prontu pi
 more	n'autri
 updates	attualizzazziuna
 recording	riggistrazziuni
@@ -618,24 +633,9 @@ contributors	cullabburatura
 using	usari
 informed	nfurmatu
 but	ma
-voice systems	sistemi vucali
-is required	abbisugnamu
-is required	abbisugnamu di
-extremely large amount	granni quantità
-of voice data	di dati di vuci
 used	usati
-by large companies	dî granni cumpagnìi
 majority	majuranza
-a project	un pruggettu
-open to everyone	lìbbiru pi tutti
+work	travagghiu
 open	lìbbiru
 make	criari
-for the web	pâ riti
-for the	pâ
-to help	p'ajutàrini a
-machines learn	nzignàrici ê màchini
-work	travagghiu
-to improve	p'ammigghiurari
-the quality	a qualità
-It’s that simple	è sìmplici
 simple	sìmplici
