@@ -2759,6 +2759,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Validated Hours</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200625T133123Z" creationid="Melo46" creationdate="20200625T133123Z">
+        <seg>Uri validati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Verb.</seg>
       </tuv>
       <tuv lang="scn" changeid="David Paleino" changedate="20200612T144341Z" creationid="David Paleino" creationdate="20200612T144341Z">
