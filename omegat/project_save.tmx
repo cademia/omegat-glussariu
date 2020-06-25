@@ -2094,6 +2094,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now you can donate your voice to help us build an open-source voice database that anyone can use to make innovative apps for devices and the web.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200625T152434Z" creationid="Melo46" creationdate="20200625T152434Z">
+        <seg>Ora ni po' dunari a to vuci pi ajutàrini a criari un database vucali lìbbiru ca po èssiri usatu di cu' è-è pi criari app nnuvativi pâ riti e pî dispusitivi mòbbili.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Number of Voices</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200616T075204Z" creationid="Melo46" creationdate="20200616T075204Z">
@@ -2695,6 +2703,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>So we’ve launched Project Common Voice, a project to help make voice recognition open to everyone.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200625T151847Z" creationid="Melo46" creationdate="20200625T151847Z">
+        <seg>Pi stu mutivu abbiamu Common Voice, un pruggettu di ricanuscimentu vucali lìbbiru pi tutti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Speak</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200614T232743Z" creationid="Melo46" creationdate="20200614T232743Z">
@@ -2892,6 +2908,14 @@
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200618T141546Z" creationid="Melo46" creationdate="20200618T141530Z">
         <seg>Pinzamu chi chistu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We think that stifles innovation.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200625T151628Z" creationid="Melo46" creationdate="20200625T151628Z">
+        <seg>Pinzamu chi chistu affuca a nnuvazziuni.</seg>
       </tuv>
     </tu>
     <tu>
