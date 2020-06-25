@@ -2266,6 +2266,14 @@ Cuntrolla u travagghiu di l'autri cullabburatura p'ammigghiurari a qualità. È 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Our source text is made up of original contributor donations as well as dialogue from public domain movie scripts like &lt;italic&gt;It’s a Wonderful Life&lt;/italic&gt;.¶ ¶ You can view our source sentences in this &lt;githubLink&gt;GitHub folder&lt;/githubLink&gt;.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200625T173806Z" creationid="Melo46" creationdate="20200625T173806Z">
+        <seg>U nostru testu d'urìggini è crijatu di cuntribbuti  urigginali e macari di dialoghi di duminiu pùbblicu, scritti di film comu &lt;italic&gt;It’s a Wonderful Life&lt;/italic&gt;.¶ ¶ Tu po' vìdiri i nostri frasi d'urìggini nnâ stu &lt;githubLink&gt;pricu di GitHub&lt;/githubLink&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Overall Accuracy</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200616T075805Z" creationid="Melo46" creationdate="20200616T075805Z">
