@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>*required</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo" changedate="20200625T010835Z" creationid="Melo" creationdate="20200625T010835Z">
+        <seg>*ubbligatoriu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>1.</seg>
       </tuv>
       <tuv lang="scn" changeid="David Paleino" changedate="20200612T144354Z" creationid="David Paleino" creationdate="20200612T144354Z">
@@ -2470,6 +2478,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Review &amp;amp; re-record clips if needed</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo" changedate="20200625T010911Z" creationid="Melo" creationdate="20200625T010911Z">
+        <seg>Senti arrè &amp;amp; re-record riggistrazziuna if needed</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Romanian</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo" changedate="20200625T010955Z" creationid="Melo" creationdate="20200625T010955Z">
+        <seg>Rumenu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Russian</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200616T081216Z" creationid="Melo46" creationdate="20200616T081216Z">
@@ -2482,6 +2506,22 @@
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200616T081239Z" creationid="Melo46" creationdate="20200616T081239Z">
         <seg>Sardu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Save</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo" changedate="20200625T011029Z" creationid="Melo" creationdate="20200625T011029Z">
+        <seg>sarba</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Saved</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo" changedate="20200625T011043Z" creationid="Melo" creationdate="20200625T011043Z">
+        <seg>Sarbatu</seg>
       </tuv>
     </tu>
     <tu>
