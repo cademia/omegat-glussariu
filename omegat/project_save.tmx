@@ -2711,6 +2711,15 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>That’s why we’re fascinated with creating usable voice technology for our machines.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200625T150845Z" creationid="Melo46" creationdate="20200625T150845Z">
+        <seg>Pi chistu a pussibbilità di criari na tecnuluggìa vucali usàbbili di nostri màchini ni ncanta.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The running copy of %S will quit in order to open this one.</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200614T233854Z" creationid="Melo46" creationdate="20200614T233854Z">
@@ -2779,6 +2788,14 @@
       </tuv>
       <tuv lang="scn" changeid="David Paleino" changedate="20200612T144341Z" creationid="David Paleino" creationdate="20200612T144341Z">
         <seg>Verbu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Voice is natural, voice is human.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200625T150040Z" creationid="Melo46" creationdate="20200625T150040Z">
+        <seg>A vuci è naturali, a vuci è umana.</seg>
       </tuv>
     </tu>
     <tu>
