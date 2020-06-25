@@ -704,3 +704,4 @@ entrepreneurs	mprinnitura
 address	arrisòrbiri
 gap	mancanza
 speech communities	cumunità di parranti
+where does come from	d'unni veni
