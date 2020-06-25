@@ -1,4 +1,5 @@
-it is a long established fact	si sapi di tempu
+﻿it is a long established fact	si sapi di tempu
+most of the voice data	a majuranza dî dati vucali
 join on our email list	iscrìviri â nostra lista e-mail
 should I sign up for	avissi a riggistrari
 handle your information with care	stari accura ê to dati
@@ -8,11 +9,31 @@ would you like to	vo'
 by opting in to	scigghiennu di
 open web authentication panel	rapi quatru d'autinticazziuni
 we may need to	putìssimu aviri bisognu di
+where does come from	d'unni veni
+in widely spoken languages	nnê lingui cchiù parrati
+smaller population of speakers	pupulazziuni di parranti cchiù nica
+the most natural way	a manera cchiù naturali
+an extremely large amount	na granni quantità
+we want to empower	ci vulemu dari a pussibbilità
+these kinds of apps	st'appricazziuna
+in their own language	pâ so lingua
+what they need to	chi??u c'abbisògnanu
 from the public domain	dû duminiu pùbblicu
 I’d like to stay	vulissi arristari
 how real people speak	comu pàrranu i genti nnâ vita vera
 as rich as possible	cchiù ricchi pussìbbili
 to Common Voice Datasets	ê dati Common Voice
+will give developers	ci putissi dari ê diviluppatura
+by commercial services	dî sirbizza cummirciali
+dataset of voices	nzemi di dati dî vuci
+what they need	chi??u c'abbisògnanu
+even more universal	ancora cchiù univirsali
+as well as	e macari
+required to build	nicissari pi custrujiri
+you can view	tu po' vìdiri
+our source sentences	i nostri frasi d'urìggini
+to our computers	ê nostri computer
+an integral part	na parti ntigranti
 Common Voice Datasets	dati Common Voice
 across all languages	'n tutti i lingui
 the average length	a lunghizza midiana
@@ -126,6 +147,32 @@ contact form	mòdulu di cuntattu
 contribution activity	cuntribbuti
 a different	n'autru
 keep track	teni trazza
+but to	ma pi
+real-time translators	traduttura 'n tempu riali
+digital assistants	assistenti diggitali
+right now	ora comu ora
+required to	nicissari pi
+looks like	parissi ca
+there aren't	nun cci sunnu
+fun part	parti divirtenti
+voice technologies	i tecnuluggìi vucali
+are bringing	stannu purtannu
+that convenience	sta cummidità
+mobile devices	dispusitivi mòbbili
+underserved	nun sunnu cunzidirati
+will empower	ci vulemu dari a pussibbilità
+source sentences	frasi d'urìggini
+speech communities	cumunità di parranti
+source text	testu d'urìggini
+even more	ancora cchiù
+we hope	spiramu ca
+search for	cerca pi
+make available	rènniri dispunìbbili
+speech technology	a tecnuluggìa dû ricanuscimentu vucali
+with a	cu na
+to make	pi fari
+we're collecting	stamu arricugghiennu
+voice samples	campiuna vucali
 learn more	cchiù nfurmazziuna
 on sites	nnê siti
 all history	tutta a cronuluggìa
@@ -623,10 +670,11 @@ some	certi
 recreate	ricrea
 voicewave	prisintazziuni vucali
 romanian	rumenu
+universal	univirsali
+those	chi??i
 save	sarba
 saved	sarbatu
 search	cerca
-search for	cerca pi
 answers	risposti
 compares	'n cunfruntu
 contributors	cullabburatura
@@ -640,74 +688,26 @@ open	lìbbiru
 make	criari
 simple	sìmplici
 we’re excited	ni ncanta
-but to	ma pi
 create	criari
 developers	i diviluppatura
+entrepreneurs	mprinnitura
+address	arrisòrbiri
+gap	mancanza
+original	urigginali
+our	i nostri
+themselves	i??i stissi
 need	ànnu bisognu di
-an extremely large amount	na granni quantità
-looks like	parissi ca
-there aren't	nun cci sunnu
-an integral part	na parti ntigranti
 building	custruzziuni dû
 too	puru
-fun part	parti divirtenti
 it's	chi è
 speech	parrari
 often	spissu
 most	cchiù
-the most natural way	a manera cchiù naturali
 communicate	cumunicari
-voice technologies	i tecnuluggìi vucali
-are bringing	stannu purtannu
-that convenience	sta cummidità
-mobile devices	dispusitivi mòbbili
-to our computers	ê nostri computer
-we want to empower	ci vulemu dari a pussibbilità
 build	custrujiri
 applications	appricazziuna
 like	a tipu
-real-time translators	traduttura 'n tempu riali
-digital assistants	assistenti diggitali
 voice-enabled	ca capìscinu soccu dici
-right now	ora comu ora
-most of the voice data	a majuranza dî dati vucali
-required to	nicissari pi
-required to build	nicissari pi custrujiri
-these kinds of apps	st'appricazziuna
 expensive	custusa
 proprietary	prupitaria
-we hope	spiramu ca
-will give developers	ci putissi dari ê diviluppatura
-what they need to	chiḍḍu c'abbisògnanu
-what they need	chiḍḍu c'abbisògnanu
 innovate	fari nnuvazziuni
-make available	rènniri dispunìbbili
-speech technology	a tecnuluggìa dû ricanuscimentu vucali
-in their own language	pâ so lingua
-to make	pi fari
-even more universal	ancora cchiù univirsali
-even more	ancora cchiù
-universal	univirsali
-those	chiḍḍi
-we're collecting	stamu arricugghiennu
-voice samples	campiuna vucali
-in widely spoken languages	nnê lingui cchiù parrati
-as well as	e macari
-with a	cu na
-smaller population of speakers	pupulazziuni di parranti cchiù nica
-underserved	nun sunnu cunzidirati
-by commercial services	dî sirbizza cummirciali
-themselves	iḍḍi stissi
-dataset of voices	nzemi di dati dî vuci
-will empower	ci vulemu dari a pussibbilità
-entrepreneurs	mprinnitura
-address	arrisòrbiri
-gap	mancanza
-speech communities	cumunità di parranti
-where does come from	d'unni veni
-source text	testu d'urìggini
-original	urigginali
-you can view	tu po' vìdiri
-our source sentences	i nostri frasi d'urìggini
-our	i nostri
-source sentences	frasi d'urìggini
