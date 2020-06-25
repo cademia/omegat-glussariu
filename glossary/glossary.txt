@@ -623,3 +623,6 @@ is required	abbisugnamu
 is required	abbisugnamu di
 extremely large amount	granni quantità
 of voice data	di dati di vuci
+used	usati
+by large companies	dî granni cumpagnìi
+majority	majuranza
