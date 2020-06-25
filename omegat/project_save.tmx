@@ -1514,6 +1514,14 @@ Cuntrolla u travagghiu di l'autri cullabburatura p'ammigghiurari a qualità. È 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>If you would like to help us bring Common Voice to new languages, go check out the &lt;sentenceCollectorLink&gt;Sentence Collection Tool&lt;/sentenceCollectorLink&gt; for adding new sentences to the dataset, and Mozilla &lt;pontoonLink&gt;Pontoon&lt;/pontoonLink&gt; for translating the website itself.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200625T163352Z" creationid="Melo46" creationdate="20200625T163352Z">
+        <seg>If tu would comu pi ajutàrini a bring Common Voice a new lingui, go cuntrolla out a &lt;sentenceCollectorLink&gt;Ricota di frasi Tool&lt;/sentenceCollectorLink&gt; pi adding new frasi ô dataset, e Mozilla &lt;pontoonLink&gt;Pontoon&lt;/pontoonLink&gt; pi translating a website itself.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In Progress</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200619T071259Z" creationid="Melo46" creationdate="20200619T071259Z">
@@ -2050,6 +2058,14 @@ Cuntrolla u travagghiu di l'autri cullabburatura p'ammigghiurari a qualità. È 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mozilla is dedicated to keeping the web open and accessible for everyone.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200625T163448Z" creationid="Melo46" creationdate="20200625T163448Z">
+        <seg>Mozilla è dedicated a keeping a web ràpiri e accessible pi tutti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Name</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200616T073347Z" creationid="Melo46" creationdate="20200616T073347Z">
@@ -2062,6 +2078,14 @@ Cuntrolla u travagghiu di l'autri cullabburatura p'ammigghiurari a qualità. È 
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200616T073432Z" creationid="Melo46" creationdate="20200616T073432Z">
         <seg>Lingua matri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New languages are added to Common Voice for voice contribution when 5000 approved sentences have been collected.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200625T163414Z" creationid="Melo46" creationdate="20200625T163414Z">
+        <seg>New lingui sunnu added a Common Voice pi vuci cuntribbutu quannu 5000 approved frasi ài been collected.</seg>
       </tuv>
     </tu>
     <tu>
