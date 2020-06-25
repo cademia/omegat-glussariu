@@ -2390,6 +2390,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Recreate Voicewave</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo" changedate="20200625T010721Z" creationid="Melo" creationdate="20200625T010721Z">
+        <seg>Ricrea prisintazziuni vucali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Remove</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200616T080610Z" creationid="Melo46" creationdate="20200616T080610Z">
