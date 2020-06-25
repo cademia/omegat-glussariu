@@ -575,3 +575,4 @@ never	mai
 play	ripruduci
 polish	pulaccu
 portuguese	purtughisi
+press	ammacca
