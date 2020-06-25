@@ -588,3 +588,5 @@ integral part	parti ntigranti
 our	nostru
 would say	dicìssiru
 some	certi
+recreate	ricrea
+voicewave	prisintazziuni vucali
