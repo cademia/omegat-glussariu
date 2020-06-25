@@ -382,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>But to create voice systems, an extremely large amount of voice data is required.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200625T151344Z" creationid="Melo46" creationdate="20200625T151344Z">
+        <seg>Ma pi criari sistemi vucali, abbisugnamu di na granni quantità di dati di vuci diversi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>By opting in to receive emails you state that you are okay with Mozilla handling this info as explained in Mozilla’s &amp;lt;privacyLink&amp;gt;Privacy Policy&amp;lt;privacyLink&amp;gt;.</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200614T223652Z" creationid="Melo46" creationdate="20200614T223652Z">
