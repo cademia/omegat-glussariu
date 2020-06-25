@@ -2214,10 +2214,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Press { shortcut-play-toggle } to toggle play mode</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo" changedate="20200625T005402Z" creationid="Melo" creationdate="20200625T005402Z">
+        <seg>Ammacca { shortcut-play-toggle } pi passari â mudalità di ripruduzziuni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Privacy</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo" changedate="20200625T005239Z" creationid="Melo" creationdate="20200625T005239Z">
         <seg>Privatizza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Privacy Policy</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo" changedate="20200625T005415Z" creationid="Melo" creationdate="20200625T005415Z">
+        <seg>Nfurmativa dâ privatizza</seg>
       </tuv>
     </tu>
     <tu>
@@ -2234,6 +2250,14 @@
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200615T232233Z" creationid="Melo46" creationdate="20200615T232233Z">
         <seg>Comu si voli prucèdiri:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Profile</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo" changedate="20200625T005437Z" creationid="Melo" creationdate="20200625T005437Z">
+        <seg>Prufilu</seg>
       </tuv>
     </tu>
     <tu>
@@ -2274,6 +2298,14 @@
       </tuv>
       <tuv lang="scn" changeid="Melo" changedate="20200624T223808Z" creationid="Melo" creationdate="20200624T223808Z">
         <seg>Cchiù nfurmazziuna nne our Nfurmazziuna pàggina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ready to do { $count } more?</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo" changedate="20200625T005555Z" creationid="Melo" creationdate="20200625T005555Z">
+        <seg>Sì prontu pi n'autri { $count }?</seg>
       </tuv>
     </tu>
     <tu>
