@@ -3439,6 +3439,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>{ -brand-short-name } stopped a social network from tracking you here</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200625T133455Z" creationid="Melo46" creationdate="20200625T133455Z">
+        <seg>{ -brand-short-name } stopped na social network dû tracking tu cca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>{ NUMBER($count) } clips</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo" changedate="20200624T223036Z" creationid="Melo" creationdate="20200624T223024Z">
