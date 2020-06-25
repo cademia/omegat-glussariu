@@ -382,6 +382,16 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>But right now most of the voice data required to build these kinds of apps is expensive and proprietary.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200625T160736Z" creationid="Melo46" creationdate="20200625T160736Z">
+        <seg>Ma right ora a majuranza dî vuci i dati ubbligatoriu a crea these kinds di apps è expensive e proprietary.
+
+Ora comu ora, a majuranza dî dati vucali nicissari pi custrujiri st'appricazziuna è custusa e prupitaria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>But to create voice systems, an extremely large amount of voice data is required.</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200625T151344Z" creationid="Melo46" creationdate="20200625T151344Z">
