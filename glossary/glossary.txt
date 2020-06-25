@@ -576,3 +576,8 @@ play	ripruduci
 polish	pulaccu
 portuguese	purtughisi
 press	ammacca
+toggle	passari â
+play mode	mudalità di ripruduzziuni
+mode	mudalità
+ready to	sì prontu pi
+more	n'autri
