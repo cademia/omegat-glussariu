@@ -2206,6 +2206,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Press play, listen &amp;amp; tell us: did they accurately speak the sentence below?</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo" changedate="20200625T005232Z" creationid="Melo" creationdate="20200625T005232Z">
+        <seg>Ammacca u buttuni dâ ripruduzziuni, ascuta e vàluta: a frasi fu prununciata bonu?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Privacy</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo" changedate="20200625T005239Z" creationid="Melo" creationdate="20200625T005239Z">
+        <seg>Privatizza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Proceed with Caution</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200615T232240Z" creationid="Melo46" creationdate="20200615T232240Z">
