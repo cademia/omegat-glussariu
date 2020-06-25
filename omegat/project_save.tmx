@@ -1574,6 +1574,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I’d like to stay informed about the Common Voice Project.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200625T145441Z" creationid="Melo46" creationdate="20200625T145441Z">
+        <seg>Vulissi arristari nfurmatu supra u pruggettu Common Voice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>I’m afraid I don’t know what you’re looking for.</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200618T140228Z" creationid="Melo46" creationdate="20200618T140228Z">
