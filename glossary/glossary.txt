@@ -705,3 +705,9 @@ address	arrisòrbiri
 gap	mancanza
 speech communities	cumunità di parranti
 where does come from	d'unni veni
+source text	testu d'urìggini
+original	urigginali
+you can view	tu po' vìdiri
+our source sentences	i nostri frasi d'urìggini
+our	i nostri
+source sentences	frasi d'urìggini
