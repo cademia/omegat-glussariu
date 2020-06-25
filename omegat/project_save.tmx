@@ -2777,6 +2777,16 @@ Cuntrolla u travagghiu di l'autri cullabburatura p'ammigghiurari a qualità. È 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Speech is often the most natural way we communicate with each other and voice technologies are bringing that convenience to our computers and mobile devices.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200625T155849Z" creationid="Melo46" creationdate="20200625T155849Z">
+        <seg>Speech è often a most naturali way we communicate cu each l'autri e vuci technologies sunnu bringing chistu convenience a nostru computers e mobile devices.
+Parrari è spissu a manera cchiù naturali pi cumunicari, e i tecnuluggìi vucali stannu purtannu sta cummidità ê nostri computer e dispusitivi mòbbili.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>That’s why we’re excited about creating usable voice technology for our machines.</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200625T153833Z" creationid="Melo46" creationdate="20200625T153833Z">
@@ -2974,6 +2984,16 @@ Cuntrolla u travagghiu di l'autri cullabburatura p'ammigghiurari a qualità. È 
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200625T154255Z" creationid="Melo46" creationdate="20200625T154255Z">
         <seg>Pinzamu chi chistu affuca a nnuvazziuni.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We want to empower developers to build amazing voice recognition applications like real-time translators and voice-enabled digital assistants.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200625T160323Z" creationid="Melo46" creationdate="20200625T160323Z">
+        <seg>We vo' a empower i diviluppatura a crea amazing ricanuscimentu vucali applications comu real-time translators e voice-enabled digital assistants.
+
+Ci vulemu dari a pussibbilità ê diviluppatura di custrujiri appricazziuna ncridìbbili di ricanuscimentu vucali, a tipu traduttura 'n tempu riali o assistenti diggitali ca capìscinu soccu dici.</seg>
       </tuv>
     </tu>
     <tu>
