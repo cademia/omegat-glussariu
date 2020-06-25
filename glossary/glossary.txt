@@ -593,3 +593,10 @@ voicewave	prisintazziuni vucali
 romanian	rumenu
 save	sarba
 saved	sarbatu
+search	cerca
+search for	cerca pi
+answers	risposti
+compares	'n cunfruntu
+contributors	cullabburatura
+all over	'n tuttu
+the world	u munnu
