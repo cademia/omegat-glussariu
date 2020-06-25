@@ -617,3 +617,9 @@ compares	'n cunfruntu
 contributors	cullabburatura
 using	usari
 informed	nfurmatu
+but	ma
+voice systems	sistemi vucali
+is required	abbisugnamu
+is required	abbisugnamu di
+extremely large amount	granni quantità
+of voice data	di dati di vuci
