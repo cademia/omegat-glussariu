@@ -581,3 +581,5 @@ play mode	mudalità di ripruduzziuni
 mode	mudalità
 ready to	sì prontu pi
 more	n'autri
+updates	attualizzazziuna
+recording	riggistrazziuni
