@@ -2824,6 +2824,14 @@ Parrari è spissu a manera cchiù naturali pi cumunicari, e i tecnuluggìi vucal
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The multi-language version of the Common Voice dataset is currently undergoing community supported bundling and cleaning.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200625T163337Z" creationid="Melo46" creationdate="20200625T163337Z">
+        <seg>A multi-language version di a Common Voice dataset è currently undergoing community supported bundling e cleaning.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The running copy of %S will quit in order to open this one.</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200614T233854Z" creationid="Melo46" creationdate="20200614T233854Z">
