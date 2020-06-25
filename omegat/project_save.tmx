@@ -2310,6 +2310,30 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Ready to donate your voice?</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo" changedate="20200625T005608Z" creationid="Melo" creationdate="20200625T005608Z">
+        <seg>Sì prontu pi dùnani a to vuci?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ready to help validate sentences?</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo" changedate="20200625T005657Z" creationid="Melo" creationdate="20200625T005657Z">
+        <seg>Sì prontu pi ajutu validate frasi?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Receive emails such as challenge and goal reminders, progress updates, and newsletters about Common Voice.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo" changedate="20200625T005826Z" creationid="Melo" creationdate="20200625T005826Z">
+        <seg>Ricivi posta elittrònica comu prumimoria di l'ubbittivi, attualizzazziuna supra i prugressi e nutizzi supra Common Voice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Record your voice</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200616T080509Z" creationid="Melo46" creationdate="20200616T080509Z">
@@ -2338,6 +2362,14 @@
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200616T080421Z" creationid="Melo46" creationdate="20200616T080421Z">
         <seg>Uri riggistrati</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Recording</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo" changedate="20200625T005922Z" creationid="Melo" creationdate="20200625T005922Z">
+        <seg>Riggistrazziuni</seg>
       </tuv>
     </tu>
     <tu>
