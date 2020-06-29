@@ -711,3 +711,5 @@ voice-enabled	ca capìscinu soccu dici
 expensive	custusa
 proprietary	prupitaria
 innovate	fari nnuvazziuni
+to do	pi fari
+we need to	avemu bisognu di
