@@ -1,4 +1,4 @@
-it is a long established fact	si sapi di tempu
+﻿it is a long established fact	si sapi di tempu
 most of the voice data	a majuranza dî dati vucali
 join on our email list	iscrìviri â nostra lista e-mail
 should I sign up for	avissi a riggistrari
@@ -26,6 +26,8 @@ to Common Voice Datasets	ê dati Common Voice
 will give developers	ci putissi dari ê diviluppatura
 by commercial services	dî sirbizza cummirciali
 dataset of voices	nzemi di dati dî vuci
+on your profile	nnô to prufilu
+we need to	avemu bisognu di
 what they need	chi??u c'abbisògnanu
 even more universal	ancora cchiù univirsali
 as well as	e macari
@@ -99,6 +101,10 @@ profile information	i nfurmazziuna dû prufilu
 return here	torna cca
 see more	vidi cchiù assai
 see less	vidi cchiù picca
+we’re excited	ni ncanta
+to do	pi fari
+we release	pubbricamu
+our newsletter	nostra littra di nutizzi
 data sources	funti di dati
 you're using	usi
 of each	d'ogni
@@ -687,7 +693,6 @@ work	travagghiu
 open	lìbbiru
 make	criari
 simple	sìmplici
-we’re excited	ni ncanta
 create	criari
 developers	i diviluppatura
 entrepreneurs	mprinnitura
@@ -711,11 +716,8 @@ voice-enabled	ca capìscinu soccu dici
 expensive	custusa
 proprietary	prupitaria
 innovate	fari nnuvazziuni
-to do	pi fari
-we need to	avemu bisognu di
 de-identified	slazzati
-on your profile	nnô to prufilu
 newsletter	littra di nutizzi
-we release	pubbricamu
 new	nova
-version	versiuni
+subscribe	scrìviti
+version	virsiuni
