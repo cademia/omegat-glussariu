@@ -716,3 +716,6 @@ we need to	avemu bisognu di
 de-identified	slazzati
 on your profile	nnô to prufilu
 newsletter	littra di nutizzi
+we release	pubbricamu
+new	nova
+version	versiuni
