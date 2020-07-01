@@ -2066,6 +2066,14 @@ Cuntrolla u travagghiu di l'autri cullabburatura p'ammigghiurari a qualità. È 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mycroft runs anywhere - on a desktop computer, inside an automobile, or on a Raspberry Pi.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200701T073728Z" creationid="Melo46" creationdate="20200701T073728Z">
+        <seg>Mycroft runs anywhere - nne na desktop computer, inside un automobile, o nne na Raspberry Pi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Name</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200616T073347Z" creationid="Melo46" creationdate="20200616T073347Z">
