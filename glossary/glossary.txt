@@ -721,3 +721,7 @@ newsletter	littra di nutizzi
 new	nova
 subscribe	scrìviti
 version	virsiuni
+from a	di na
+by reading	liggennuli
+donated sentences	frasi dunati
+bank	bbanca
