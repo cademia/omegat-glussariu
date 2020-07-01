@@ -725,3 +725,8 @@ from a	di na
 by reading	liggennuli
 donated sentences	frasi dunati
 bank	bbanca
+voice clips	riggistrazziuni vucali
+entered	misi
+queue	cuda
+into	'n
+into	nnû
