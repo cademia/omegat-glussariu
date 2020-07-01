@@ -1,4 +1,4 @@
-﻿it is a long established fact	si sapi di tempu
+it is a long established fact	si sapi di tempu
 most of the voice data	a majuranza dî dati vucali
 join on our email list	iscrìviri â nostra lista e-mail
 should I sign up for	avissi a riggistrari
@@ -713,3 +713,5 @@ proprietary	prupitaria
 innovate	fari nnuvazziuni
 to do	pi fari
 we need to	avemu bisognu di
+de-identified	slazzati
+on your profile	nnô to prufilu
