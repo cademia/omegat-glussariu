@@ -317,7 +317,7 @@ read	leggi
 submit	mmìa
 language	lingua
 additional	addizziunali
-add	agghiunci
+add	junci	tr.
 age	età
 all	tutti
 benefits	binifici
@@ -326,7 +326,7 @@ clips	riggistrazziuna
 find	a 'ttruvari
 more	autri
 voices	vuci
-add-on	agghiuncitina	Sustantivu. A firefox-specific umbrella term that describes tools (including extensions and themes) that users can install to modify, customize, and extend the functionality of firefox. Avoid using "add-ons" and "extensions" interchangeably (see https://wiki.mozilla.org/add-ons/terminology#usage_guidelines). E.g. Your add-ons and customizations have been removed and your browser settings have been restored to their defaults.
+add-on	juncitina	f. Sustantivu. A firefox-specific umbrella term that describes tools (including extensions and themes) that users can install to modify, customize, and extend the functionality of firefox. Avoid using "add-ons" and "extensions" interchangeably (see https://wiki.mozilla.org/add-ons/terminology#usage_guidelines). E.g. Your add-ons and customizations have been removed and your browser settings have been restored to their defaults.
 votes	voti
 no	no
 yes	se
@@ -375,7 +375,7 @@ active	attiva
 adjective	aggittivu
 noun	sustantivu
 verb	verbu
-bookmark	agghiunci ê nzingalibbra
+bookmark	junci ê nzingalibbra	tr.
 breakpoint	puntu di stagghiatura
 format	furmatu
 average	nurmali
@@ -737,3 +737,4 @@ service	sirvìzziu
 system	sistima
 box	scàtula
 black	niura
+add	jùnciri
