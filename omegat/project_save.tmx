@@ -1106,6 +1106,14 @@ Cuntrolla u travagghiu di l'autri cullabburatura p'ammigghiurari a qualità. È 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>E.g. Warning: contains unauthenticated content.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200717T070931Z" creationid="Melo46" creationdate="20200717T070931Z">
+        <seg>E.g. Warning: cunteni unauthenticated cuntinutu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Easy</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200613T234109Z" creationid="Melo46" creationdate="20200613T234109Z">
@@ -2940,8 +2948,8 @@ Pi falla ancora cchiù univirsali, stamu arricugghiennu campiuna vucali nnê lin
       <tuv lang="en-US">
         <seg>User identity has been proven for access to a system or service.</seg>
       </tuv>
-      <tuv lang="scn" changeid="Melo46" changedate="20200717T070928Z" creationid="Melo46" creationdate="20200717T070928Z">
-        <seg>A idintità has been proven pi accèdiri ê a na system o service.</seg>
+      <tuv lang="scn" changeid="Melo46" changedate="20200717T071935Z" creationid="Melo46" creationdate="20200717T070928Z">
+        <seg>A idintità di l'utenti pi accèdiri a un sistima o sirvìzziu fu pruvata.</seg>
       </tuv>
     </tu>
     <tu>
