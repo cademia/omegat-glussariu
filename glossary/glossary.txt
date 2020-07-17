@@ -1,4 +1,4 @@
-it is a long established fact	si sapi di tempu
+﻿it is a long established fact	si sapi di tempu
 most of the voice data	a majuranza dî dati vucali
 join on our email list	iscrìviri â nostra lista e-mail
 should I sign up for	avissi a riggistrari
@@ -24,6 +24,7 @@ how real people speak	comu pàrranu i genti nnâ vita vera
 as rich as possible	cchiù ricchi pussìbbili
 to Common Voice Datasets	ê dati Common Voice
 will give developers	ci putissi dari ê diviluppatura
+has been proven	fu pruvata
 by commercial services	dî sirbizza cummirciali
 dataset of voices	nzemi di dati dî vuci
 on your profile	nnô to prufilu
@@ -113,6 +114,14 @@ that number	stu nùmmaru
 for the	pâ
 to help	p'ajutàrini a
 It’s that simple	è sìmplici
+for access	pi accèdiri
+user identity	idintità di l'utenti
+black box	scàtula niura
+from a	di na
+by reading	liggennuli
+donated sentences	frasi dunati
+voice clips	riggistrazziuni vucali
+entered	misi
 to improve	p'ammigghiurari
 the quality	a qualità
 a project	un pruggettu
@@ -121,7 +130,6 @@ play mode	mudalità di ripruduzziuni
 ready to	sì prontu pi
 machines learn	nzignàrici ê màchini
 voice systems	sistemi vucali
-is required	abbisugnamu
 is required	abbisugnamu di
 it works	funziona
 thank you	grazzi
@@ -721,20 +729,11 @@ newsletter	littra di nutizzi
 new	nova
 subscribe	scrìviti
 version	virsiuni
-from a	di na
-by reading	liggennuli
-donated sentences	frasi dunati
 bank	bbanca
-voice clips	riggistrazziuni vucali
-entered	misi
 queue	cuda
 into	'n
 into	nnû
-has been proven	fu pruvata
 service	sirvìzziu
 system	sistima
-for access	pi accèdiri
-user identity	idintità di l'utenti
 box	scàtula
 black	niura
-black box	scàtula niura
