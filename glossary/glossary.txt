@@ -737,3 +737,4 @@ for access	pi accèdiri
 user identity	idintità di l'utenti
 box	scàtula
 black	niura
+black box	scàtula niura
