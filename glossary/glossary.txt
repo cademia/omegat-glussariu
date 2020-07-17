@@ -735,3 +735,5 @@ service	sirvìzziu
 system	sistima
 for access	pi accèdiri
 user identity	idintità di l'utenti
+box	scàtula
+black	niura
