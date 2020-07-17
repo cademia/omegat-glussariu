@@ -1,4 +1,4 @@
-﻿it is a long established fact	si sapi di tempu
+it is a long established fact	si sapi di tempu
 most of the voice data	a majuranza dî dati vucali
 join on our email list	iscrìviri â nostra lista e-mail
 should I sign up for	avissi a riggistrari
@@ -730,3 +730,8 @@ entered	misi
 queue	cuda
 into	'n
 into	nnû
+has been proven	fu pruvata
+service	sirvìzziu
+system	sistima
+for access	pi accèdiri
+user identity	idintità di l'utenti
