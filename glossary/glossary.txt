@@ -766,3 +766,5 @@ select	scegghi
 which	quali
 items	elementi
 import	mpurtari
+home page	pàggina mastra
+home	mastra
