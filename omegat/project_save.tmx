@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.1.0_0_54fc30ee" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -42,6 +42,14 @@
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200614T223618Z" creationid="Melo46" creationdate="20200614T223618Z">
         <seg>&amp;lt;bold&amp;gt;iOS&amp;lt;/bold&amp;gt; l'utenti ponnu scàrricari a nostra app a gratis:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>(Private Browsing)</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200721T141334Z" creationid="Melo46" creationdate="20200721T141334Z">
+        <seg>(Navigazziuni privata)</seg>
       </tuv>
     </tu>
     <tu>
@@ -326,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Attack Site</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200721T105504Z" creationid="Melo46" creationdate="20200721T105504Z">
+        <seg>banna assartanti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Audio Format</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200614T223129Z" creationid="Melo46" creationdate="20200614T223129Z">
@@ -428,6 +444,14 @@ Ora comu ora, a majuranza dî dati vucali nicissari pi custrujiri st'appricazziu
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200614T224430Z" creationid="Melo46" creationdate="20200614T224430Z">
         <seg>Dànnuni nfurmazziuni ncapu di tia, i dati vucali chi manni a Common Voice sunnu cchiù ùtili pî mutura di ricanuscimentu vucali, chi ùsanu sti dati pi èssiri cchiù pricisi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>By using Common Voice, you agree to our &amp;lt;termsLink&amp;gt;Terms&amp;lt;/termsLink&amp;gt; and &amp;lt;privacyLink&amp;gt;Privacy Notice&amp;lt;/privacyLink&amp;gt;</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200721T133201Z" creationid="Melo46" creationdate="20200721T133201Z">
+        <seg>Usannu Common Voice, hai stisa ca nostra  a nostru &amp;lt;termsLink&amp;gt;Terms&amp;lt;/termsLink&amp;gt; e &amp;lt;privacyLink&amp;gt;Privatizza Notice&amp;lt;/privacyLink&amp;gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2346,6 +2370,14 @@ Cuntrolla u travagghiu di l'autri cullabburatura p'ammigghiurari a qualità. È 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Print Preview</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200721T141030Z" creationid="Melo46" creationdate="20200721T141030Z">
+        <seg>Antiprima di stampa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Privacy</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo" changedate="20200625T005239Z" creationid="Melo" creationdate="20200625T005239Z">
@@ -2354,10 +2386,50 @@ Cuntrolla u travagghiu di l'autri cullabburatura p'ammigghiurari a qualità. È 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Privacy &amp;amp; History</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200721T133316Z" creationid="Melo46" creationdate="20200721T133316Z">
+        <seg>Privatizza &amp;amp; Cronuluggìa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Privacy &amp;amp; Security</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200721T141327Z" creationid="Melo46" creationdate="20200721T141327Z">
+        <seg>Privatizza &amp;amp; Security</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Privacy Notice</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200721T133303Z" creationid="Melo46" creationdate="20200721T133303Z">
+        <seg>Abbisu di privatizza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Privacy Policy</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo" changedate="20200625T005415Z" creationid="Melo" creationdate="20200625T005415Z">
         <seg>Nfurmativa dâ privatizza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Privacy Protections</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200721T141059Z" creationid="Melo46" creationdate="20200721T141059Z">
+        <seg>Prutizziuna pâ privatizza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Private Browsing</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200721T141121Z" creationid="Melo46" creationdate="20200721T141121Z">
+        <seg>Navigazziuni Privata</seg>
       </tuv>
     </tu>
     <tu>
@@ -2464,6 +2536,14 @@ Pubblicannu stu nzemi di dati dî vuci, ci vulemu dari a pussibbilità ê divilu
       </tuv>
       <tuv lang="scn" changeid="Melo" changedate="20200625T005826Z" creationid="Melo" creationdate="20200625T005826Z">
         <seg>Ricivi posta elittrònica comu prumimoria di l'ubbittivi, attualizzazziuna supra i prugressi e nutizzi supra Common Voice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Recognition engines that use this data to improve their accuracy.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200721T132255Z" creationid="Melo46" creationdate="20200721T131945Z">
+        <seg>I mutura di ricanuscimentu chi ùsanu sti dati p'ammigghiurari a so pricisiuni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3446,10 +3526,34 @@ Ci vulemu dari a pussibbilità ê diviluppatura di custrujiri appricazziuna ncri
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>attack</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200721T105300Z" creationid="Melo46" creationdate="20200721T105300Z">
+        <seg>assartari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>attacker</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200721T105413Z" creationid="Melo46" creationdate="20200721T105413Z">
+        <seg>assartanti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>attendee</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200721T105702Z" creationid="Melo46" creationdate="20200721T105702Z">
+        <seg>participanti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>black box</seg>
       </tuv>
-      <tuv lang="scn" changeid="Melo46" changedate="20200717T073531Z" creationid="Melo46" creationdate="20200717T073531Z">
-        <seg>scàtula niura</seg>
+      <tuv lang="scn" changeid="Melo46" changedate="20200721T110422Z" creationid="Melo46" creationdate="20200717T073531Z">
+        <seg>mèttiri nta scàtula niura</seg>
       </tuv>
     </tu>
     <tu>
