@@ -756,3 +756,4 @@ security	sicurizza
 panel	quatru
 open	rapi
 authentication	autinticazziuni
+web authentication	autinticazziuni web
