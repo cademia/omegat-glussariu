@@ -759,3 +759,4 @@ authentication	autinticazziuni
 web authentication	autinticazziuni web
 validate	validari
 unsafe	non sicuru
+l10n	localizzaziuni
