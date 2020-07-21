@@ -1,4 +1,4 @@
-﻿it is a long established fact	si sapi di tempu
+it is a long established fact	si sapi di tempu
 most of the voice data	a majuranza dî dati vucali
 join on our email list	iscrìviri â nostra lista e-mail
 should I sign up for	avissi a riggistrari
@@ -738,3 +738,18 @@ system	sistima
 box	scàtula
 black	niura
 add	jùnciri
+appear	accumpariri
+attendee	participanti
+this data	sti dati
+their	a so
+by using	usannu
+notice	abbisu
+privacy notice	abbisu di privatizza
+print preview	antiprima di stampa
+print	stampa
+preview	antiprima
+protections	prutizziuna
+private	privata
+secure	sicuru
+safe	sicuru
+security	sicurizza
