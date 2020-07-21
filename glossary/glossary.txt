@@ -760,3 +760,9 @@ web authentication	autinticazziuni web
 validate	validari
 unsafe	non sicuru
 l10n	localizzaziuni
+insecure	insicuru
+innovations	nnuvazziuni
+select	scegghi
+which	quali
+items	elementi
+import	mpurtari
