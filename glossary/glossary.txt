@@ -753,3 +753,6 @@ private	privata
 secure	sicuru
 safe	sicuru
 security	sicurizza
+panel	quatru
+open	rapi
+authentication	autinticazziuni
