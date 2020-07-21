@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.1.0_0_54fc30ee" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3400,24 +3400,32 @@ Ci vulemu dari a pussibbilità ê diviluppatura di custrujiri appricazziuna ncri
       <tuv lang="en-US">
         <seg>abnormality	Noun.</seg>
       </tuv>
-      <tuv lang="scn" changeid="m" changedate="20200613T133933Z" creationid="m" creationdate="20200613T133933Z">
-        <seg>abnormality	Sustantivu.</seg>
+      <tuv lang="scn" changeid="Melo" changedate="20200721T090248Z" creationid="m" creationdate="20200613T133933Z">
+        <seg>abnormality	Sustantivu.z</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>add-on</seg>
       </tuv>
-      <tuv lang="scn" changeid="David Paleino" changedate="20200612T144309Z" creationid="David Paleino" creationdate="20200612T144309Z">
-        <seg>agghiuncitina</seg>
+      <tuv lang="scn" changeid="Melo" changedate="20200721T090429Z" creationid="David Paleino" creationdate="20200612T144309Z">
+        <seg>juncitina</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>add-on		Noun.</seg>
       </tuv>
-      <tuv lang="scn" changeid="Melo46" changedate="20200613T073920Z" creationid="David Paleino" creationdate="20200612T142752Z">
-        <seg>agghiuncitina		</seg>
+      <tuv lang="scn" changeid="Melo" changedate="20200721T090309Z" creationid="David Paleino" creationdate="20200612T142752Z">
+        <seg>juncitina		</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>aggregate	Noun.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo" changedate="20200721T090327Z" creationid="Melo" creationdate="20200721T090327Z">
+        <seg>aggregate	Sustantivu.</seg>
       </tuv>
     </tu>
     <tu>
