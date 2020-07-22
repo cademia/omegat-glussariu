@@ -829,3 +829,5 @@ recipe	ricetta
 passwords	i chiavi
 everywhere	unn'è-è
 you’re signed	ca trasisti
+task	attività
+manager	gisturi
