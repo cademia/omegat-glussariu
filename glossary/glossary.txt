@@ -823,3 +823,4 @@ voice data	dati vucali
 leaderboard visibility	visibbilità nnâ classìfica
 leaving now	nesciri ora
 means	voli diri chi
+on our page	nna nostra pàggina
