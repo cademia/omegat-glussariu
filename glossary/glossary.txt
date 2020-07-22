@@ -818,3 +818,5 @@ I'd like	Vulissi
 emails	posta elittrònica
 required field	campu ubbligatoriu
 my account information	i nfurmazziuna supra u me cuntu
+be more accurate	ammigghiurari a pricisiuni
+voice data	dati vucali
