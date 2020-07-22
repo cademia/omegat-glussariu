@@ -801,3 +801,6 @@ of the	dî
 after clicking	doppu chi ammacchi
 directly	ddrittu
 finish	finisci
+get started	accuminciari
+give	duna
+give	dari
