@@ -2418,6 +2418,14 @@ Cuntrolla u travagghiu di l'autri cullabburatura p'ammigghiurari a qualità. È 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Other Voice Datasets</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200722T140814Z" creationid="Melo46" creationdate="20200722T140814Z">
+        <seg>Autri dati vucali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Other voice datasets…</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo" changedate="20200624T223508Z" creationid="Melo" creationdate="20200624T223508Z">
@@ -3654,6 +3662,14 @@ Ci vulemu dari a pussibbilità ê diviluppatura di custrujiri appricazziuna ncri
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>and accessible to everyone.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200722T140632Z" creationid="Melo46" creationdate="20200722T140632Z">
+        <seg>e accessible pi tutti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>appear	Verb.</seg>
       </tuv>
       <tuv lang="scn" changeid="m" changedate="20200613T134009Z" creationid="m" creationdate="20200613T134009Z">
@@ -3880,8 +3896,8 @@ Ci vulemu dari a pussibbilità ê diviluppatura di custrujiri appricazziuna ncri
       <tuv lang="en-US">
         <seg>recognition open to everyone.</seg>
       </tuv>
-      <tuv lang="scn" changeid="Melo46" changedate="20200619T081002Z" creationid="Melo46" creationdate="20200619T081002Z">
-        <seg>ricanuscimentu ràpiri pi tutti.</seg>
+      <tuv lang="scn" changeid="Melo46" changedate="20200722T140712Z" creationid="Melo46" creationdate="20200619T081002Z">
+        <seg>ricanuscimentu lìbbiru pi tutti.</seg>
       </tuv>
     </tu>
     <tu>
