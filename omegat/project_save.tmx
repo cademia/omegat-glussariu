@@ -6,10 +6,34 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>Noun.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200722T182515Z" creationid="Melo46" creationdate="20200722T182515Z">
+        <seg>Sustantivu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Something that is unusual in an unwelcome or problematic way.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200722T200823Z" creationid="Melo46" creationdate="20200722T200823Z">
+        <seg>Acchiccosa ca è curiusu nnâ un modu unwelcome o problematic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Technical Details</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200722T141657Z" creationid="Melo46" creationdate="20200722T141657Z">
         <seg>Dittagghi tècnici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>abnormality	Noun.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200722T182448Z" creationid="Melo46" creationdate="20200722T182448Z">
+        <seg>abnormality	Sustantivu.</seg>
       </tuv>
     </tu>
     <tu>
