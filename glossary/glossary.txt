@@ -787,3 +787,5 @@ in the	nnô
 request	addumannari
 language	lingua
 languages page	pàggina dî lingui
+Common Voice Data	i dati di Common Voice
+reflected	rripurtata
