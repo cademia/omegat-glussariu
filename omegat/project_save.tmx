@@ -1402,6 +1402,22 @@ Cuntrolla u travagghiu di l'autri cullabburatura p'ammigghiurari a qualità. È 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Great!</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200722T062623Z" creationid="Melo46" creationdate="20200722T062623Z">
+        <seg>bbonu!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Great!&amp;lt;recordIcon&amp;gt;&amp;lt;/recordIcon&amp;gt; Record your next clip</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200722T062914Z" creationid="Melo46" creationdate="20200722T062914Z">
+        <seg>Bbonu!&amp;lt;recordIcon&amp;gt;&amp;lt;/recordIcon&amp;gt; Riggistra nàutra riggistrazziuni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Have Feedback?</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200619T070230Z" creationid="Melo46" creationdate="20200619T070230Z">
