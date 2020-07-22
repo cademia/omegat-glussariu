@@ -789,3 +789,9 @@ language	lingua
 languages page	pàggina dî lingui
 Common Voice Data	i dati di Common Voice
 reflected	rripurtata
+do you have	ài
+ideas	suggirimenti
+on	supra
+on how	supra a comu
+we can	putemu
+make better	ammigghiurari
