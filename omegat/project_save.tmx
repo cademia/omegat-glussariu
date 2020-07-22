@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A detailed record or account, most often in the case of a site crash or issue.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200722T021943Z" creationid="Melo46" creationdate="20200722T021943Z">
+        <seg>Na detailed riggistra o cuntu, cchiù spissu nnâ a case di na site crash o issue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>A specific code contribution by programmers submitted as a text file.</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200722T020058Z" creationid="Melo46" creationdate="20200722T020058Z">
@@ -1158,6 +1166,14 @@ Cuntrolla u travagghiu di l'autri cullabburatura p'ammigghiurari a qualità. È 
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200721T214830Z" creationid="Melo46" creationdate="20200721T214830Z">
         <seg>E.g. Scegghi quali elementi mpurtari.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>E.g. You have blocked pop-ups for this website.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200722T021128Z" creationid="Melo46" creationdate="20200722T021128Z">
+        <seg>E.g. Tu ài bluccò pop-ups pi sta website.</seg>
       </tuv>
     </tu>
     <tu>
