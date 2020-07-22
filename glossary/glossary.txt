@@ -777,3 +777,5 @@ code	còdici
 text	testu
 boxes	scàtuli
 time	tempu
+without	senza
+being	èssiri
