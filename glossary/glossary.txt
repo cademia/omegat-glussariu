@@ -816,3 +816,5 @@ I am a non-native	ma 'un sugnu matrilingua
 do you still want	vuliti macari
 I'd like	Vulissi
 emails	posta elittrònica
+required field	campu ubbligatoriu
+my account information	i nfurmazziuna supra u me cuntu
