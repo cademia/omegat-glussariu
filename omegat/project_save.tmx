@@ -1402,6 +1402,14 @@ Cuntrolla u travagghiu di l'autri cullabburatura p'ammigghiurari a qualità. È 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Great work!&amp;lt;playIcon&amp;gt;&amp;lt;/playIcon&amp;gt; Listen again when you're ready</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200722T134753Z" creationid="Melo46" creationdate="20200722T134753Z">
+        <seg>Granni travagghiu!&amp;lt;playIcon&amp;gt;&amp;lt;/playIcon&amp;gt; Ascuta again quannu you're ready</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Great!</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200722T062623Z" creationid="Melo46" creationdate="20200722T062623Z">
