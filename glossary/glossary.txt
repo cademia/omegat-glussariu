@@ -779,3 +779,5 @@ boxes	scàtuli
 time	tempu
 without	senza
 being	èssiri
+donate	duna
+donate	dunari
