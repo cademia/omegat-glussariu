@@ -1314,6 +1314,14 @@ Cuntrolla u travagghiu di l'autri cullabburatura p'ammigghiurari a qualità. È 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Get Involved</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200722T061542Z" creationid="Melo46" creationdate="20200722T061542Z">
+        <seg>Cullàbbura cu nuiautri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Get Started with Speech Recognition</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200618T145150Z" creationid="Melo46" creationdate="20200618T145150Z">
@@ -1338,10 +1346,42 @@ Cuntrolla u travagghiu di l'autri cullabburatura p'ammigghiurari a qualità. È 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Give your avatar a voice</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200722T061756Z" creationid="Melo46" creationdate="20200722T061756Z">
+        <seg>Duna na vuci â to fotu prufilu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Glossary</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200614T230637Z" creationid="Melo46" creationdate="20200614T230637Z">
         <seg>Glussariu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to Discourse</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200722T061824Z" creationid="Melo46" creationdate="20200722T061824Z">
+        <seg>Vai a Discourse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to Languages Page</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200722T061838Z" creationid="Melo46" creationdate="20200722T061838Z">
+        <seg>Vai â pàggina dî lingui</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Go to { $name }</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200722T061953Z" creationid="Melo46" creationdate="20200722T061953Z">
+        <seg>Vai ô { $name }</seg>
       </tuv>
     </tu>
     <tu>
