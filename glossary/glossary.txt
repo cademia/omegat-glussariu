@@ -772,3 +772,6 @@ success	successu
 participation	participazioni
 software	software
 patch	pezza
+specific	specìficu
+code	còdici
+text	testu
