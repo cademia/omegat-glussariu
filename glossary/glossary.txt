@@ -824,3 +824,8 @@ leaderboard visibility	visibbilità nnâ classìfica
 leaving now	nesciri ora
 means	voli diri chi
 on our page	nna nostra pàggina
+kitchen	cucina
+recipe	ricetta
+passwords	i chiavi
+everywhere	unn'è-è
+you’re signed	ca trasisti
