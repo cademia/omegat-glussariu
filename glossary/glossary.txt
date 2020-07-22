@@ -820,3 +820,4 @@ required field	campu ubbligatoriu
 my account information	i nfurmazziuna supra u me cuntu
 be more accurate	ammigghiurari a pricisiuni
 voice data	dati vucali
+leaderboard visibility	visibbilità nnâ classìfica
