@@ -804,3 +804,5 @@ finish	finisci
 get started	accuminciari
 give	duna
 give	dari
+grammatical	grammaticali
+error	erruri
