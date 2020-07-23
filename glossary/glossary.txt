@@ -839,3 +839,6 @@ something	acchiccosa
 unusual	curiusu
 way	modu
 alsi	macari
+umbrella	umbrella
+term	palora
+firefox	firefox-specific
