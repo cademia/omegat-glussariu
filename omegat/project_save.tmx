@@ -8,8 +8,8 @@
       <tuv lang="en-US">
         <seg>A firefox-specific umbrella term that describes tools (including extensions and themes) that users can install to modify, customize, and extend the functionality of firefox.</seg>
       </tuv>
-      <tuv lang="scn" changeid="Melo46" changedate="20200723T035649Z" creationid="Melo46" creationdate="20200723T035649Z">
-        <seg>Na firefox-specific umbrella palora chistu describes tools (including extensions e themes) chistu l'utenti ponnu install a modify, customize, e extend a functionality di firefox.</seg>
+      <tuv lang="scn" changeid="Melo46" changedate="20200723T043640Z" creationid="Melo46" creationdate="20200723T035649Z">
+        <seg>Na firefox-specific umbrella palora chistu describes tools (including extensions e themes) chistu l'utenti ponnu install a canciari, customize, e extend a functionality di firefox.</seg>
       </tuv>
     </tu>
     <tu>
@@ -50,6 +50,14 @@
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200722T182448Z" creationid="Melo46" creationdate="20200722T182448Z">
         <seg>abnormality	Sustantivu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>add-on</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200723T035950Z" creationid="Melo46" creationdate="20200723T035950Z">
+        <seg>juncitina</seg>
       </tuv>
     </tu>
     <tu>
