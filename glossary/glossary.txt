@@ -842,3 +842,4 @@ alsi	macari
 umbrella	umbrella
 term	palora
 firefox	firefox-specific
+Mozilla	Mozilla
