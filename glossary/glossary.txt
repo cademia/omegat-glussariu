@@ -843,3 +843,7 @@ umbrella	umbrella
 term	palora
 firefox	firefox-specific
 Mozilla	Mozilla
+modify	canciari
+customize	pirsunalizzari
+extend	allarga
+extend	allargari
