@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>All Hands</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200724T191911Z" creationid="Melo46" creationdate="20200724T191911Z">
+        <seg>Picciotti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Amharic</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200724T135247Z" creationid="Melo46" creationdate="20200724T135247Z">
@@ -156,6 +164,14 @@ U to nomu utenti e u to nnirizzu e-mail nun sarannu mai assuciati chî dati chi 
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200724T191559Z" creationid="Melo46" creationdate="20200724T191559Z">
         <seg>quagghiatu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>alternate text</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200724T192941Z" creationid="Melo46" creationdate="20200724T192941Z">
+        <seg>testu sustitutivu</seg>
       </tuv>
     </tu>
     <tu>
