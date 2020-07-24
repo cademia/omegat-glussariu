@@ -32,8 +32,8 @@
       <tuv lang="en-US">
         <seg>Add Your Voice</seg>
       </tuv>
-      <tuv lang="scn" changeid="Melo46" changedate="20200724T134549Z" creationid="Melo46" creationdate="20200724T134549Z">
-        <seg>Juncii a to vuci</seg>
+      <tuv lang="scn" changeid="Melo46" changedate="20200724T135107Z" creationid="Melo46" creationdate="20200724T134549Z">
+        <seg>Junci a to vuci</seg>
       </tuv>
     </tu>
     <tu>
@@ -42,6 +42,14 @@
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200724T134513Z" creationid="Melo46" creationdate="20200724T134513Z">
         <seg>nautra lingua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Adyghe</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200724T135117Z" creationid="Melo46" creationdate="20200724T135117Z">
+        <seg>Adighè</seg>
       </tuv>
     </tu>
     <tu>
