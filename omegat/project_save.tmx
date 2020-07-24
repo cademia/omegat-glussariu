@@ -287,5 +287,16 @@ U to nomu utenti e u to nnirizzu e-mail nun sarannu mai assuciati chî dati chi 
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">Terminology.ods</prop>
+      <prop type="prev">E.g. The following sources were black boxed.</prop>
+      <prop type="next">Noun.</prop>
+      <tuv lang="en-US">
+        <seg>bookmark</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200724T223000Z" creationid="Melo46" creationdate="20200724T223000Z">
+        <seg>nzingalibbru</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
