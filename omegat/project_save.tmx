@@ -88,8 +88,8 @@
       <tuv lang="en-US">
         <seg>Anonymized user data like age, sex, and accent helps improve the audio data used to train the accuracy of speech recognition engines.</seg>
       </tuv>
-      <tuv lang="scn" changeid="Melo46" changedate="20200724T142605Z" creationid="Melo46" creationdate="20200724T142605Z">
-        <seg>I dati anònimizzati d'utenti comu l'età, u gèniri e l'accentu iutanu a migghiurari a qualità dî dati vucali usati pi mutura di ricanuscimentu vucali. U to nomu utenti e u to nnirizzu e-mail nun sarannu mai assuciati chî dati chi manni, e po' scègghiri si fari pubblicari u to nomu utenti o arristari anònimu.</seg>
+      <tuv lang="scn" changeid="Melo46" changedate="20200724T163302Z" creationid="Melo46" creationdate="20200724T142605Z">
+        <seg>I dati anònimizzati d'utenti comu l'età, u gèniri e l'accentu iutanu a migghiurari a qualità dî dati vucali usati pi nsignari ê mutura di ricanuscimentu vucali.</seg>
       </tuv>
     </tu>
     <tu>
@@ -122,6 +122,14 @@
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200722T141657Z" creationid="Melo46" creationdate="20200722T141657Z">
         <seg>Dittagghi tècnici</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Your username and email will never be associated with your submitted data, and you can choose whether to make your username public or anonymous.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200724T142617Z" creationid="Melo46" creationdate="20200724T142617Z">
+        <seg>To nomu utenti e nnirizzu e-mail will mai be assuciati cu to submitted i dati, e tu ponnu choose whether pi fari to nomu utenti pùbblicu o anònimu.</seg>
       </tuv>
     </tu>
     <tu>
