@@ -855,6 +855,6 @@ alternate	sustitutivu
 appearance	ària
 attack	attaccari
 attacker	attaccanti
-attack site	lucu attaccanti
-site	lucu
 authenticate	autinticari
+attack site	locu attaccanti
+site	locu
