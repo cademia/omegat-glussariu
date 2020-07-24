@@ -288,6 +288,22 @@ U to nomu utenti e u to nnirizzu e-mail nun sarannu mai assuciati chî dati chi 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>boot</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200724T223626Z" creationid="Melo46" creationdate="20200724T223626Z">
+        <seg>cacciari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>breakpoint</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200724T224416Z" creationid="Melo46" creationdate="20200724T224416Z">
+        <seg>puntu di stagghiatura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>temporary files</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200722T171041Z" creationid="Melo46" creationdate="20200722T171041Z">
