@@ -320,6 +320,14 @@ U to nomu utenti e u to nnirizzu e-mail nun sarannu mai assuciati chî dati chi 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>channel</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200724T225536Z" creationid="Melo46" creationdate="20200724T225536Z">
+        <seg>canali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>temporary files</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200722T171041Z" creationid="Melo46" creationdate="20200722T171041Z">
