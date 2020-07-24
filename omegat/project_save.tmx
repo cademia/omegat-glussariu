@@ -104,8 +104,8 @@
       <tuv lang="en-US">
         <seg>Attack Site</seg>
       </tuv>
-      <tuv lang="scn" changeid="Melo46" changedate="20200724T195212Z" creationid="Melo46" creationdate="20200724T195000Z">
-        <seg>Lucu attaccanti</seg>
+      <tuv lang="scn" changeid="Melo46" changedate="20200724T222507Z" creationid="Melo46" creationdate="20200724T195000Z">
+        <seg>Locu attaccanti</seg>
       </tuv>
     </tu>
     <tu>
@@ -260,6 +260,22 @@ U to nomu utenti e u to nnirizzu e-mail nun sarannu mai assuciati chî dati chi 
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200724T200328Z" creationid="Melo46" creationdate="20200724T200328Z">
         <seg>fari machina arreri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>black box</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200724T222542Z" creationid="Melo46" creationdate="20200724T222542Z">
+        <seg>mettiri nta scàtula niura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>bookmark</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200724T222644Z" creationid="Melo46" creationdate="20200724T222644Z">
+        <seg>Jùnciri ê nzingalibbra</seg>
       </tuv>
     </tu>
     <tu>
