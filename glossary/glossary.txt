@@ -859,3 +859,4 @@ authenticate	autinticari
 attack site	locu attaccanti
 site	locu
 bookmark	nzingalibbru	nzingalibbru
+boolean	binariu
