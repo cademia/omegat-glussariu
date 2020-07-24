@@ -22,10 +22,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Add Language</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200724T134535Z" creationid="Melo46" creationdate="20200724T134535Z">
+        <seg>Jùnciri lingua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add Your Voice</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200724T134549Z" creationid="Melo46" creationdate="20200724T134549Z">
+        <seg>Juncii a to vuci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Additional Language</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200724T134513Z" creationid="Melo46" creationdate="20200724T134513Z">
         <seg>nautra lingua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Age</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200724T135055Z" creationid="Melo46" creationdate="20200724T135055Z">
+        <seg>Età</seg>
       </tuv>
     </tu>
     <tu>
