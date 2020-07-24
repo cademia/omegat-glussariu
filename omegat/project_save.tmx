@@ -62,6 +62,38 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Albanian</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200724T135147Z" creationid="Melo46" creationdate="20200724T135147Z">
+        <seg>Arbanisi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200724T135244Z" creationid="Melo46" creationdate="20200724T135244Z">
+        <seg>Tutti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Amharic</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200724T135247Z" creationid="Melo46" creationdate="20200724T135247Z">
+        <seg>Amàricu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Anonymized user data like age, sex, and accent helps improve the audio data used to train the accuracy of speech recognition engines.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200724T142605Z" creationid="Melo46" creationdate="20200724T142605Z">
+        <seg>I dati anònimizzati d'utenti comu l'età, u gèniri e l'accentu iutanu a migghiurari a qualità dî dati vucali usati pi mutura di ricanuscimentu vucali. U to nomu utenti e u to nnirizzu e-mail nun sarannu mai assuciati chî dati chi manni, e po' scègghiri si fari pubblicari u to nomu utenti o arristari anònimu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>E.g. Mozilla detected a serious abnormality in its internal data.</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200723T035912Z" creationid="Melo46" creationdate="20200723T035912Z">
