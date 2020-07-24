@@ -848,3 +848,5 @@ extend	allargari
 caution	quatela
 additional language	nautra lingua
 anonymized	anònimizzati
+helps improve	iutanu a migghiurari
+train the	nsignari ê
