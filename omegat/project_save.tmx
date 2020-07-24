@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Attack Site</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200724T195000Z" creationid="Melo46" creationdate="20200724T195000Z">
+        <seg>Lucu att</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>E.g. Mozilla detected a serious abnormality in its internal data.</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200723T035912Z" creationid="Melo46" creationdate="20200723T035912Z">
