@@ -426,8 +426,8 @@ U to nomu utenti e u to nnirizzu e-mail nun sarannu mai assuciati chî dati chi 
       <tuv lang="en-US">
         <seg>contribute</seg>
       </tuv>
-      <tuv lang="scn" changeid="Melo46" changedate="20200725T132211Z" creationid="Melo46" creationdate="20200725T132211Z">
-        <seg>participari</seg>
+      <tuv lang="scn" changeid="Melo46" changedate="20200725T134231Z" creationid="Melo46" creationdate="20200725T132211Z">
+        <seg>donari</seg>
       </tuv>
     </tu>
     <tu>
@@ -528,6 +528,17 @@ U to nomu utenti e u to nnirizzu e-mail nun sarannu mai assuciati chî dati chi 
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200724T223000Z" creationid="Melo46" creationdate="20200724T223000Z">
         <seg>nzingalibbru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">Terminology.ods</prop>
+      <prop type="prev">E.g. A geolocation request can only be fulfilled in a secure context.this scratchpad executes in the browser context.</prop>
+      <prop type="next">Verb.</prop>
+      <tuv lang="en-US">
+        <seg>contribute</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200725T132312Z" creationid="Melo46" creationdate="20200725T132312Z">
+        <seg>participari</seg>
       </tuv>
     </tu>
     <tu>
