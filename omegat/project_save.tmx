@@ -488,6 +488,22 @@ U to nomu utenti e u to nnirizzu e-mail nun sarannu mai assuciati chî dati chi 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>decode</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200725T170242Z" creationid="Melo46" creationdate="20200725T170242Z">
+        <seg>decodificari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>decode	Verb.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200725T170616Z" creationid="Melo46" creationdate="20200725T170616Z">
+        <seg>decodificari	Verbu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>decryption</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200725T081508Z" creationid="Melo46" creationdate="20200725T081508Z">
