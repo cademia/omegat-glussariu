@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Yes, send me emails.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200725T054800Z" creationid="Melo46" creationdate="20200725T054800Z">
+        <seg>Se, mànnami posta elittrònica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Your username and email will never be associated with your submitted data, and you can choose whether to make your username public or anonymous.</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200724T183353Z" creationid="Melo46" creationdate="20200724T142617Z">
