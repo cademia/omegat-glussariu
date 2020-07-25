@@ -879,3 +879,5 @@ encrypt	crittari	verbu
 encryption	crittaziuni	sustantivu
 unsafe	piriculusu	aggittivu
 boot	cacciari
+senso	sensu
+contribute	participari
