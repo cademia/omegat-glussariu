@@ -889,3 +889,4 @@ end user	usaturi ùltimu
 work	funziuna
 encode	codificari
 decode	decodificari
+external	esternu
