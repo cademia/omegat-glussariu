@@ -570,6 +570,14 @@ U to nomu utenti e u to nnirizzu e-mail nun sarannu mai assuciati chî dati chi 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>extension</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200725T173707Z" creationid="Melo46" creationdate="20200725T173707Z">
+        <seg>Stinziuni:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>external</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200725T171342Z" creationid="Melo46" creationdate="20200725T171342Z">
