@@ -871,3 +871,4 @@ corrupted	mpurrutu
 corrupt	mpurrutu	aggittivu
 corrupt	mpurriri	verbu
 corrupted	mpurrutu	aggittivu
+cryptominer	pirriaturi di crittumunita
