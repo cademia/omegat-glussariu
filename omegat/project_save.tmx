@@ -208,6 +208,14 @@ U to nomu utenti e u to nnirizzu e-mail nun sarannu mai assuciati chî dati chi 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>add-on		Noun.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200725T113607Z" creationid="Melo46" creationdate="20200725T113607Z">
+        <seg>juncitina		Sustantivu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>aggregate</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200724T191559Z" creationid="Melo46" creationdate="20200724T191559Z">
@@ -312,6 +320,14 @@ U to nomu utenti e u to nnirizzu e-mail nun sarannu mai assuciati chî dati chi 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>bookmark	Verb.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200725T113647Z" creationid="Melo46" creationdate="20200725T113647Z">
+        <seg>junciri ê nzingalibbra	Verbu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>boolean</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200724T223601Z" creationid="Melo46" creationdate="20200724T223601Z">
@@ -320,10 +336,26 @@ U to nomu utenti e u to nnirizzu e-mail nun sarannu mai assuciati chî dati chi 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>boolean	Adjective.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200725T113653Z" creationid="Melo46" creationdate="20200725T113653Z">
+        <seg>binariu	Aggittivu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>boot</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200724T223626Z" creationid="Melo46" creationdate="20200724T223626Z">
         <seg>cacciari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>boot	Verb.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200725T113713Z" creationid="Melo46" creationdate="20200725T113713Z">
+        <seg>boot	Verbu.</seg>
       </tuv>
     </tu>
     <tu>
