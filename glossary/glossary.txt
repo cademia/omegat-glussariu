@@ -883,3 +883,4 @@ senso	sensu
 contribute	participari
 contribute	dari
 contribute	donari
+deceptive	malu
