@@ -881,3 +881,5 @@ unsafe	piriculusu	aggittivu
 boot	cacciari
 senso	sensu
 contribute	participari
+contribute	dari
+contribute	donari
