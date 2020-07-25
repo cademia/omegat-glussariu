@@ -884,3 +884,4 @@ contribute	participari
 contribute	dari
 contribute	donari
 deceptive	malu
+enable	attivari
