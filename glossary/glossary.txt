@@ -869,3 +869,5 @@ adverb	avverbiu
 clockwise	'n sensu dû rrològgiu
 corrupted	mpurrutu
 corrupt	mpurrutu	aggittivu
+corrupt	mpurriri	verbu
+corrupted	mpurrutu	aggittivu
