@@ -875,3 +875,4 @@ cryptominer	pirriaturi di crittumunita
 cryptomining	pirriatura di crittumunita
 decryption	decrittaziuni
 encrypt	crittaziuni
+encrypt	crittari	verbu
