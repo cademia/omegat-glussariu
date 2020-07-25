@@ -885,3 +885,5 @@ contribute	dari
 contribute	donari
 deceptive	malu
 enable	attivari
+end user	usaturi ùltimu
+work	funziuna
