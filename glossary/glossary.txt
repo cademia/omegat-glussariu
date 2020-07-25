@@ -868,3 +868,4 @@ channel	canali
 adverb	avverbiu
 clockwise	'n sensu dû rrològgiu
 corrupted	mpurrutu
+corrupt	mpurrutu	aggittivu
