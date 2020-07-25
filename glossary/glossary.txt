@@ -876,3 +876,4 @@ cryptomining	pirriatura di crittumunita
 decryption	decrittaziuni
 encrypt	crittaziuni
 encrypt	crittari	verbu
+encryption	crittaziuni	sustantivu
