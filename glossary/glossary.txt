@@ -877,3 +877,4 @@ decryption	decrittaziuni
 encrypt	crittaziuni
 encrypt	crittari	verbu
 encryption	crittaziuni	sustantivu
+unsafe	piriculusu	aggittivu
