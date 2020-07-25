@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>E.g. An external application must be launched to handle javascript.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200725T171353Z" creationid="Melo46" creationdate="20200725T171353Z">
+        <seg>E.g. Un esternu application must be partuti a handle javascript.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>E.g. Mozilla detected a serious abnormality in its internal data.</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200723T035912Z" creationid="Melo46" creationdate="20200723T035912Z">
