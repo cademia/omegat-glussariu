@@ -626,6 +626,22 @@ U to nomu utenti e u to nnirizzu e-mail nun sarannu mai assuciati chî dati chi 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>innovations</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200725T175521Z" creationid="Melo46" creationdate="20200725T175521Z">
+        <seg>nnuvazziuni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>insecure</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200725T175634Z" creationid="Melo46" creationdate="20200725T175634Z">
+        <seg>insicuru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>temporary files</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200722T171041Z" creationid="Melo46" creationdate="20200722T171041Z">
