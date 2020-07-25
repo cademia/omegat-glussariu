@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Remove a user from an online space.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200725T122245Z" creationid="Melo46" creationdate="20200725T122245Z">
+        <seg>Cancella n'utenti dû un 'n linia space.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Something that is unusual in an unwelcome or problematic way.</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200722T200823Z" creationid="Melo46" creationdate="20200722T200823Z">
@@ -338,8 +346,8 @@ U to nomu utenti e u to nnirizzu e-mail nun sarannu mai assuciati chî dati chi 
       <tuv lang="en-US">
         <seg>boolean	Adjective.</seg>
       </tuv>
-      <tuv lang="scn" changeid="Melo46" changedate="20200725T113653Z" creationid="Melo46" creationdate="20200725T113653Z">
-        <seg>binariu	Aggittivu.</seg>
+      <tuv lang="scn" changeid="Melo46" changedate="20200725T113728Z" creationid="Melo46" creationdate="20200725T113653Z">
+        <seg>Aggittivu.</seg>
       </tuv>
     </tu>
     <tu>
