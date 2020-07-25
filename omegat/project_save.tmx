@@ -336,6 +336,22 @@ U to nomu utenti e u to nnirizzu e-mail nun sarannu mai assuciati chî dati chi 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>cipher</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200725T055102Z" creationid="Melo46" creationdate="20200725T055102Z">
+        <seg>cifra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>clipboard</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200725T055902Z" creationid="Melo46" creationdate="20200725T055902Z">
+        <seg>appunti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>temporary files</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200722T171041Z" creationid="Melo46" creationdate="20200722T171041Z">
