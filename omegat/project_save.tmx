@@ -488,6 +488,14 @@ U to nomu utenti e u to nnirizzu e-mail nun sarannu mai assuciati chî dati chi 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>enable</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200725T134744Z" creationid="Melo46" creationdate="20200725T134744Z">
+        <seg>attivari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>encrypt</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200725T081745Z" creationid="Melo46" creationdate="20200725T081609Z">
