@@ -888,3 +888,4 @@ enable	attivari
 end user	usaturi ùltimu
 work	funziuna
 encode	codificari
+decode	decodificari
