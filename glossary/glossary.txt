@@ -874,3 +874,4 @@ corrupted	mpurrutu	aggittivu
 cryptominer	pirriaturi di crittumunita
 cryptomining	pirriatura di crittumunita
 decryption	decrittaziuni
+encrypt	crittaziuni
