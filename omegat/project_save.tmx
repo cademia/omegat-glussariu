@@ -602,6 +602,14 @@ U to nomu utenti e u to nnirizzu e-mail nun sarannu mai assuciati chî dati chi 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>gear</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200725T174522Z" creationid="Melo46" creationdate="20200725T174522Z">
+        <seg>materiali</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>temporary files</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200722T171041Z" creationid="Melo46" creationdate="20200722T171041Z">
