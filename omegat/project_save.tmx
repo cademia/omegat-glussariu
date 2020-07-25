@@ -174,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Translating date or information that has been encoded back into its original, comprehensible format.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200725T164547Z" creationid="Melo46" creationdate="20200725T164547Z">
+        <seg>Translating date o nfurmazziuna chistu has been encoded back 'n its urigginali, comprehensible furmatu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Verb.</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200724T195331Z" creationid="Melo46" creationdate="20200724T195331Z">
@@ -492,6 +500,14 @@ U to nomu utenti e u to nnirizzu e-mail nun sarannu mai assuciati chî dati chi 
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200725T134744Z" creationid="Melo46" creationdate="20200725T134744Z">
         <seg>attivari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>encode</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200725T164658Z" creationid="Melo46" creationdate="20200725T164658Z">
+        <seg>codificari</seg>
       </tuv>
     </tu>
     <tu>
