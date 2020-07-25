@@ -1,4 +1,4 @@
-it is a long established fact	si sapi di tempu
+﻿it is a long established fact	si sapi di tempu
 most of the voice data	a majuranza dî dati vucali
 join on our email list	iscrìviri â nostra lista e-mail
 should I sign up for	avissi a riggistrari
@@ -873,8 +873,8 @@ corrupt	mpurriri	verbu
 corrupted	mpurrutu	aggittivu
 cryptominer	pirriaturi di crittumunita
 cryptomining	pirriatura di crittumunita
-decryption	decrittaziuni
-encrypt	crittaziuni
+decrypt	decrittari	verbu
+decryption	decrittaziuni	sustantivu
 encrypt	crittari	verbu
 encryption	crittaziuni	sustantivu
 unsafe	piriculusu	aggittivu
