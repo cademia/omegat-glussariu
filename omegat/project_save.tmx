@@ -418,5 +418,16 @@ U to nomu utenti e u to nnirizzu e-mail nun sarannu mai assuciati chî dati chi 
         <seg>nzingalibbru</seg>
       </tuv>
     </tu>
+    <tu>
+      <prop type="file">Terminology.ods</prop>
+      <prop type="prev">E.g. Contribute {n} dollars to the cause.</prop>
+      <prop type="next">Adjective.</prop>
+      <tuv lang="en-US">
+        <seg>corrupt</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200725T075119Z" creationid="Melo46" creationdate="20200725T075119Z">
+        <seg>mpurrutu</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
