@@ -865,5 +865,5 @@ bug report	signalazziuni di ddifettu
 clipboard	appunti
 cipher	cifra
 channel	canali
-clockwise	ddirizzioni dû rrològgiu
 adverb	avverbiu
+clockwise	'n sensu dû rrològgiu
