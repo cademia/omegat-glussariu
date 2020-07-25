@@ -866,3 +866,4 @@ clipboard	appunti
 cipher	cifra
 channel	canali
 clockwise	ddirizzioni dû rrològgiu
+adverb	avverbiu
