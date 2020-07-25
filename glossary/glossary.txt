@@ -862,3 +862,4 @@ bookmark	nzingalibbru	nzingalibbru
 boolean	binariu
 bug report	signalazziuni di ddifettu
 bug report	signalazziuni di ddifettu
+clipboard	appunti
