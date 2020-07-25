@@ -891,3 +891,4 @@ encode	codificari
 decode	decodificari
 external	esternu
 external	esternu	agg.
+gear	materiali
