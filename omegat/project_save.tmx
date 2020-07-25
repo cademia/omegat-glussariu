@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Adverb.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200725T073111Z" creationid="Melo46" creationdate="20200725T073111Z">
+        <seg>Avverbiu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Adyghe</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200724T135117Z" creationid="Melo46" creationdate="20200724T135117Z">
@@ -354,8 +362,8 @@ U to nomu utenti e u to nnirizzu e-mail nun sarannu mai assuciati chî dati chi 
       <tuv lang="en-US">
         <seg>clockwise</seg>
       </tuv>
-      <tuv lang="scn" changeid="Melo46" changedate="20200725T063433Z" creationid="Melo46" creationdate="20200725T063433Z">
-        <seg>ddirizzioni dû rrològgiu</seg>
+      <tuv lang="scn" changeid="Melo46" changedate="20200725T073418Z" creationid="Melo46" creationdate="20200725T063433Z">
+        <seg>'n sensu dû rrològgiu</seg>
       </tuv>
     </tu>
     <tu>
