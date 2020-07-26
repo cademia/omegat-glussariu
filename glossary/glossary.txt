@@ -897,3 +897,5 @@ problematic	siccanti
 unwelcome	camurriusu
 in an	’n
 abnormality	curiusità
+detected	s'addunò di
+serious	seria
