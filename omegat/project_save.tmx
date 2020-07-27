@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.1.0_0_54fc30ee" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -98,6 +98,14 @@
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200724T222143Z" creationid="Melo46" creationdate="20200724T191911Z">
         <seg>All Hands</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All Hands 	Noun.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200727T141141Z" creationid="Melo46" creationdate="20200727T141141Z">
+        <seg>All hands 	Sustantivu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -208,6 +216,14 @@ decrittaziuni	Sustantivu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Text added to an html element (typically an image) to describe that element when it cannot be rendered.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200727T141317Z" creationid="Melo46" creationdate="20200727T141317Z">
+        <seg>Testu junciutu a un  html element (typically un image) a describe chistu element quannu it cannot be rendered.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Translating date or information that has been encoded back into its original, comprehensible format.</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200725T170641Z" creationid="Melo46" creationdate="20200725T170641Z">
@@ -252,8 +268,8 @@ U to nomu utenti e u to nnirizzu e-mail nun sarannu mai assuciati chî dati chi 
       <tuv lang="en-US">
         <seg>abnormality	Noun.</seg>
       </tuv>
-      <tuv lang="scn" changeid="Melo46" changedate="20200722T182448Z" creationid="Melo46" creationdate="20200722T182448Z">
-        <seg>abnormality	Sustantivu.</seg>
+      <tuv lang="scn" changeid="Melo46" changedate="20200727T141112Z" creationid="Melo46" creationdate="20200722T182448Z">
+        <seg>curiusità	Sustantivu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -282,10 +298,34 @@ U to nomu utenti e u to nnirizzu e-mail nun sarannu mai assuciati chî dati chi 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>aggregate	Adjective.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200727T141121Z" creationid="Melo46" creationdate="20200727T141121Z">
+        <seg>quagghiatu	Aggittivu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>aggregate	Noun.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200727T141118Z" creationid="Melo46" creationdate="20200727T141118Z">
+        <seg>quagghiatu	Sustantivu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>alternate text</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200724T192941Z" creationid="Melo46" creationdate="20200724T192941Z">
         <seg>testu sustitutivu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>alternate text	Noun.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20200727T141233Z" creationid="Melo46" creationdate="20200727T141233Z">
+        <seg>testu sustitutivu	Sustantivu.</seg>
       </tuv>
     </tu>
     <tu>
