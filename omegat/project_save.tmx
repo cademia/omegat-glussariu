@@ -498,10 +498,26 @@ U to nomu utenti e u to nnirizzu e-mail nun sarannu mai assuciati chî dati chi 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>cipher	Noun.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="m" changedate="20200824T220136Z" creationid="m" creationdate="20200824T220136Z">
+        <seg>cifra	Sustantivu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>clipboard</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200725T055902Z" creationid="Melo46" creationdate="20200725T055902Z">
         <seg>appunti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>clipboard	Noun.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="m" changedate="20200824T220157Z" creationid="m" creationdate="20200824T220157Z">
+        <seg>appunti	Sustantivu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -522,6 +538,22 @@ U to nomu utenti e u to nnirizzu e-mail nun sarannu mai assuciati chî dati chi 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>compact	Adjective.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="m" changedate="20200824T220130Z" creationid="m" creationdate="20200824T220130Z">
+        <seg>cumpattu	Aggittivu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>context	Noun.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="m" changedate="20200824T220126Z" creationid="m" creationdate="20200824T220126Z">
+        <seg>context	Sustantivu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>contribute</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200725T134231Z" creationid="Melo46" creationdate="20200725T132211Z">
@@ -530,10 +562,34 @@ U to nomu utenti e u to nnirizzu e-mail nun sarannu mai assuciati chî dati chi 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>contribute	Verb.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="m" changedate="20200824T220117Z" creationid="m" creationdate="20200824T220117Z">
+        <seg>cuntribbuisci	Verbu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>corrupt</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200725T074913Z" creationid="Melo46" creationdate="20200725T074913Z">
         <seg>mpurriri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>corrupt	Adjective.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="m" changedate="20200824T220101Z" creationid="m" creationdate="20200824T220101Z">
+        <seg>mpurrutu	Aggittivu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>corrupt	Verb.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="m" changedate="20200824T220055Z" creationid="m" creationdate="20200824T220055Z">
+        <seg>mpurrutu	Verbu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -562,6 +618,14 @@ U to nomu utenti e u to nnirizzu e-mail nun sarannu mai assuciati chî dati chi 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>cryptominer	Noun.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="m" changedate="20200824T220041Z" creationid="m" creationdate="20200824T220041Z">
+        <seg>pirriaturi di crittumunita	Sustantivu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>cryptomining</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200725T081047Z" creationid="Melo46" creationdate="20200725T081047Z">
@@ -570,10 +634,34 @@ U to nomu utenti e u to nnirizzu e-mail nun sarannu mai assuciati chî dati chi 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>cryptomining	Noun.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="m" changedate="20200824T215948Z" creationid="m" creationdate="20200824T215948Z">
+        <seg>pirriatura di crittumunita	Sustantivu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>debug	Verb.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="m" changedate="20200824T215932Z" creationid="m" creationdate="20200824T215932Z">
+        <seg>debug	Verbu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>deceptive site</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200725T134601Z" creationid="Melo46" creationdate="20200725T134601Z">
         <seg>malu locu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>deceptive site	Noun.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="m" changedate="20200824T215929Z" creationid="m" creationdate="20200824T215929Z">
+        <seg>malu locu	Sustantivu.</seg>
       </tuv>
     </tu>
     <tu>
