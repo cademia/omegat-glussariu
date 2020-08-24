@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.2.0_0_747fc65a" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -394,6 +394,14 @@ U to nomu utenti e u to nnirizzu e-mail nun sarannu mai assuciati chî dati chi 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>avoid using "add-ons" and "extensions" interchangeably (see https://wiki.mozilla.org/add-ons/terminology#usage_guidelines).</seg>
+      </tuv>
+      <tuv lang="scn" changeid="m" changedate="20200824T215819Z" creationid="m" creationdate="20200824T215819Z">
+        <seg>Non scanciari "juncitina" e "extensions" interchangeably (vidi https://wiki.mozilla.org/add-ons/terminology#usage_guidelines).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>back out</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200724T200328Z" creationid="Melo46" creationdate="20200724T200328Z">
@@ -594,6 +602,30 @@ U to nomu utenti e u to nnirizzu e-mail nun sarannu mai assuciati chî dati chi 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>disinformation	Noun.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="m" changedate="20200824T215914Z" creationid="m" creationdate="20200824T215914Z">
+        <seg>disinformation	Sustantivu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>distrust	Verb.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="m" changedate="20200824T215854Z" creationid="m" creationdate="20200824T215854Z">
+        <seg>distrust	Verbu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>eavesdropping	Verb.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="m" changedate="20200824T215847Z" creationid="m" creationdate="20200824T215847Z">
+        <seg>eavesdropping	Verbu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>enable</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200725T134744Z" creationid="Melo46" creationdate="20200725T134744Z">
@@ -602,10 +634,26 @@ U to nomu utenti e u to nnirizzu e-mail nun sarannu mai assuciati chî dati chi 
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>enable	Verb.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="m" changedate="20200824T215841Z" creationid="m" creationdate="20200824T215841Z">
+        <seg>attivari	Verbu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>encode</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200725T164658Z" creationid="Melo46" creationdate="20200725T164658Z">
         <seg>codificari</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>encode	Verb.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="m" changedate="20200824T215828Z" creationid="m" creationdate="20200824T215828Z">
+        <seg>codificari	Verbu.</seg>
       </tuv>
     </tu>
     <tu>
