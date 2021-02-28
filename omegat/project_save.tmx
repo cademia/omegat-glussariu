@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>E.g. Choose the alternative search engines that appear below the address bar; the add-on downloaded from this site could not be installed because it appears to be corrupt.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20210228T004957Z" creationid="Melo46" creationdate="20210228T004957Z">
+        <seg>E.g. scegghiri i mutura di circata alternativu chi accumpariri cchiù sutta a arrisòrbiri bar; a juncitina downloaded dû sta locu nun poti essiri installed picchì it appears a be mpurrutu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>E.g. If the image is relevant to the content of the document, you must supply alternate text that will appear in text-only browsers.</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200725T173722Z" creationid="Melo46" creationdate="20200725T173722Z">
@@ -258,6 +266,22 @@
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200725T173806Z" creationid="Melo46" creationdate="20200725T173806Z">
         <seg>E.g. Warning: cunteni unauthenticated cuntinutu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>E.g. We encourage users to visualize the state of tracking as an aggregate.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20210228T003032Z" creationid="Melo46" creationdate="20210228T003032Z">
+        <seg>E.g. Mmitamu l'utenti a vìdiri u statu di tracciamentu comu un quagghiu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Formed by the total of individual parts.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20210228T003438Z" creationid="Melo46" creationdate="20210228T003438Z">
+        <seg>Formed by u tutali di parti simplici.</seg>
       </tuv>
     </tu>
     <tu>
@@ -308,6 +332,14 @@ decrittaziuni	Sustantivu.</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200727T141317Z" creationid="Melo46" creationdate="20200727T141317Z">
         <seg>Testu junciutu a un  html element (typically un image) a describe chistu element quannu it cannot be rendered.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Total of individual parts.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20210228T002046Z" creationid="Melo46" creationdate="20210228T002046Z">
+        <seg>Tutali di parti simplici.</seg>
       </tuv>
     </tu>
     <tu>
@@ -430,6 +462,14 @@ U to nomu utenti e u to nnirizzu e-mail nun sarannu mai assuciati chî dati chi 
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200724T193741Z" creationid="Melo46" creationdate="20200724T193741Z">
         <seg>accumpariri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>appear	Verb.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20210228T003445Z" creationid="Melo46" creationdate="20210228T003445Z">
+        <seg>accumpariri	Verbu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -958,6 +998,22 @@ U to nomu utenti e u to nnirizzu e-mail nun sarannu mai assuciati chî dati chi 
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20210227T230431Z" creationid="Melo46" creationdate="20210227T230431Z">
         <seg>then leggi a frasi a vuci auta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>to come into sight; become visible or noticeable 2.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20210228T003953Z" creationid="Melo46" creationdate="20210228T003953Z">
+        <seg>veniri 'n facci; ddivintari visible o chiaru 2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>to seem or give the impression of being.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20210228T004235Z" creationid="Melo46" creationdate="20210228T004235Z">
+        <seg>pariri o dari a mprissioni di èssiri.</seg>
       </tuv>
     </tu>
     <tu>
