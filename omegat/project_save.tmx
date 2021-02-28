@@ -352,10 +352,26 @@ decrittaziuni	Sustantivu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The count of voice recording hours we have collected so far.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20210228T085818Z" creationid="Melo46" creationdate="20210228T085035Z">
+        <seg>U cuntu di l'uri dî riggistrazziuna vucali c'âmu ricugghiutu nzinu a ora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The number of recordings and which languages you contribute to will be public.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20210228T090402Z" creationid="Melo46" creationdate="20210228T090402Z">
+        <seg>U nùmmaru di riggistrazziuna e i lingui unni cullàbburi sarannu pùbblici.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>These mark progress toward the overall project 10k hours goal.</seg>
       </tuv>
-      <tuv lang="scn" changeid="Melo46" changedate="20210228T071556Z" creationid="Melo46" creationdate="20210228T071556Z">
-        <seg>These mark prugressu toward a glubbali pruggettu 10k uri ubbittivu.</seg>
+      <tuv lang="scn" changeid="Melo46" changedate="20210228T085632Z" creationid="Melo46" creationdate="20210228T071556Z">
+        <seg>Chistu singa u prugressu versu l’ubbittivu glubbali di 10k uri du pruggettu.</seg>
       </tuv>
     </tu>
     <tu>
