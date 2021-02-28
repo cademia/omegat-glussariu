@@ -3,8 +3,6 @@ most of the voice data	a majuranza dî dati vucali
 join on our email list	iscrìviri â nostra lista e-mail
 should I sign up for	avissi a riggistrari
 handle your information with care	stari accura ê to dati
-I am a non-native	'un sugnu matrilingua
-do you still want	vuliti macari
 gives it a Yes vote	l'appruva dànnuci un Se
 I do not agree	Nun sugnu d'accordu
 would you like to	vo'
@@ -29,13 +27,6 @@ will give developers	ci putissi dari ê diviluppatura
 has been proven	fu pruvata
 by commercial services	dî sirbizza cummirciali
 dataset of voices	nzemi di dati dî vuci
-when you're ready	quannu sì prontu
-on our page	nna nostra pàggina
-your next clip	nàutra riggistrazziuni
-do you have	ài
-Common Voice Data	i dati di Common Voice
-my account information	i nfurmazziuna supra u me cuntu
-be more accurate	ammigghiurari a pricisiuni
 on your profile	nnô to prufilu
 we need to	avemu bisognu di
 what they need	chi??u c'abbisògnanu
@@ -128,20 +119,6 @@ user identity	idintità di l'utenti
 black box	scàtula niura
 from a	di na
 by reading	liggennuli
-voice data	dati vucali
-leaderboard visibility	visibbilità nnâ classìfica
-leaving now	nesciri ora
-languages page	pàggina dî lingui
-on how	supra a comu
-we can	putemu
-make better	ammigghiurari
-let us	fanni
-of the	dî
-after clicking	doppu chi ammacchi
-get started	accuminciari
-you’re signed	ca trasisti
-I'd like	Vulissi
-required field	campu ubbligatoriu
 donated sentences	frasi dunati
 voice clips	riggistrazziuni vucali
 entered	misi
@@ -803,138 +780,56 @@ time	tempu
 without	senza
 being	èssiri
 donate	duna
-submission	mmiu
-directly	ddrittu
-finish	finisci
-give	duna
-give	dari
-grammatical	grammaticali
-error	erruri
-great!	bbonu!
-emails	posta elittrònica
 donate	dunari
 don't	nun
 your	a to
 in the	nnô
 request	addumannari
 language	lingua
+languages page	pàggina dî lingui
+Common Voice Data	i dati di Common Voice
 reflected	rripurtata
+do you have	ài
 ideas	suggirimenti
 on	supra
+on how	supra a comu
+we can	putemu
+make better	ammigghiurari
+let us	fanni
+submission	mmiu
+of the	dî
+after clicking	doppu chi ammacchi
+directly	ddrittu
+finish	finisci
+get started	accuminciari
+give	duna
+give	dari
+grammatical	grammaticali
+error	erruri
+great!	bbonu!
+your next clip	nàutra riggistrazziuni
 great	granni
+when you're ready	quannu sì prontu
 calculate	càrculi
 calculate	carculari
+I am a non-native	ma 'un sugnu matrilingua
+do you still want	vuliti macari
+I'd like	Vulissi
+emails	posta elittrònica
+required field	campu ubbligatoriu
+my account information	i nfurmazziuna supra u me cuntu
+be more accurate	ammigghiurari a pricisiuni
+voice data	dati vucali
+leaderboard visibility	visibbilità nnâ classìfica
+leaving now	nesciri ora
+means	voli diri chi
+on our page	nna nostra pàggina
 kitchen	cucina
 recipe	ricetta
 passwords	i chiavi
 everywhere	unn'è-è
+you’re signed	ca trasisti
 task	attività
 manager	gisturi
 technical	tècnici
 temporary	pruvvisori
-means	voli diri chi
-something	acchiccosa
-unusual	curiusu
-way	modu
-alsi	macari
-umbrella	umbrella
-term	palora
-firefox	firefox-specific
-Mozilla	Mozilla
-modify	canciari
-customize	pirsunalizzari
-extend	allarga
-extend	allargari
-caution	quatela
-additional language	nautra lingua
-anonymized	anònimizzati
-helps improve	iutanu a migghiurari
-train the	nsignari ê
-aggregate	quagghiatu
-alternate	sustitutivu
-appearance	ària
-attack	attaccari
-attacker	attaccanti
-authenticate	autinticari
-attack site	locu attaccanti
-site	locu
-bookmark	nzingalibbru	nzingalibbru
-boolean	binariu
-bug report	signalazziuni di ddifettu
-bug report	signalazziuni di ddifettu
-clipboard	appunti
-cipher	cifra
-channel	canali
-adverb	avverbiu
-clockwise	'n sensu dû rrològgiu
-corrupted	mpurrutu
-corrupt	mpurrutu	aggittivu
-corrupt	mpurriri	verbu
-corrupted	mpurrutu	aggittivu
-cryptominer	pirriaturi di crittumunita
-cryptomining	pirriatura di crittumunita
-decrypt	decrittari	verbu
-decryption	decrittaziuni	sustantivu
-encrypt	crittari	verbu
-encryption	crittaziuni	sustantivu
-unsafe	piriculusu	aggittivu
-boot	cacciari
-senso	sensu
-contribute	participari
-contribute	dari
-contribute	donari
-deceptive	malu
-enable	attivari
-end user	usaturi ùltimu
-work	funziuna
-encode	codificari
-decode	decodificari
-external	esternu
-external	esternu	agg.
-gear	materiali
-grassroots	popolari
-problematic	siccanti
-unwelcome	camurriusu
-in an	’n
-abnormality	curiusità
-detected	s'addunò di
-serious	seria
-added	junciutu
-keep it up	cuntinua accussì
-back to top	torna supra
-a point of contact	nu puntu di cuntattu
-provides	furnisci
-state	accetti
-state that you are okay with	accetti chi
-that is	ca è
-unwelcome or problematic way	modu camurriusu o siccanti
-parts	parti
-individual parts	parti simplici
-we encourage	mmitamu
-visualize	vìdiri
-the state	u statu
-tracking	tracciamentu
-quagghiu	quagghiu
-the total	u tutali
-to come	veniri
-sight	facci
-become	essiri
-noticeable	chiaru
-become visible	ddivintari visible
-to seem	pariri
-impression	mprissioni
-the search engines	i mutura di circata
-alternative	alternativu
-that	chi
-add-ons	juncitina
-customizations	pirsunalizzaziuni
-have been	foru
-the	u
-count	cuntu
-the count	u cuntu
-of hours	di l'uri
-of voice recording	dî riggistrazziuna vucali
-validated	appruvati
-by	di
-2 out of 3 users	2 utenti supra a 3
-voice recording	riggistrazziuna vucali
