@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>By opting in to receive emails you state that you are okay with Mozilla handling this info as explained in Mozilla’s &lt;privacyLink&gt;Privacy Policy&lt;privacyLink&gt;.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20210228T001626Z" creationid="Melo46" creationdate="20210228T001626Z">
+        <seg>Scigghiennu di ricìviri posta elittrònica, accetti chi Mozilla po usari sti nfurmazziuni comu schicatu nnâ so &lt;privacyLink&gt;nfurmativa dâ privatizza&lt;privacyLink&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Clips</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20210227T230654Z" creationid="Melo46" creationdate="20210227T230654Z">
