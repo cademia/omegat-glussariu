@@ -360,6 +360,14 @@ decrittaziuni	Sustantivu.</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Voice is natural, voice is human.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20210228T065248Z" creationid="Melo46" creationdate="20210228T065248Z">
+        <seg>A vuci è naturali, a vuci è umana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We may need to contact you in the future about changes to the dataset, an email provides us a point of contact.</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20210228T001234Z" creationid="Melo46" creationdate="20210228T001234Z">
