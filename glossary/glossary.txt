@@ -935,3 +935,6 @@ the count	u cuntu
 of hours	di l'uri
 of voice recording	dî riggistrazziuna vucali
 validated	appruvati
+by	di
+2 out of 3 users	2 utenti supra a 3
+voice recording	riggistrazziuna vucali
