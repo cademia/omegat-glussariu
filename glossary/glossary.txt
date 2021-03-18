@@ -838,3 +838,10 @@ something	carchiccosa
 looks	cumpari
 way	manera
 the way that	a manera ca
+appearance	aspettu
+Mozilla detected	Mozilla s'addunò di
+Mozilla detected	Mozilla s'addunò di
+unusual	curiusa
+problematic	siccanti
+unwelcome	camurriusu
+way	modu
