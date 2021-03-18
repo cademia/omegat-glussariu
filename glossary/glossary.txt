@@ -1,56 +1,56 @@
 it is a long established fact	si sapi di tempu
-most of the voice data	a majuranza dî dati vucali
-join on our email list	iscrìviri â nostra lista e-mail
+most of the voice data	a majuranza d? dati vucali
+join on our email list	iscr?viri ? nostra lista e-mail
 should I sign up for	avissi a riggistrari
-handle your information with care	stari accura ê to dati
-gives it a Yes vote	l'appruva dànnuci un Se
+handle your information with care	stari accura ? to dati
+gives it a Yes vote	l'appruva d?nnuci un Se
 I do not agree	Nun sugnu d'accordu
 would you like to	vo'
 by opting in to	scigghiennu di
 open web authentication panel	rapi quatru d'autinticazziuni
-we may need to	putìssimu aviri bisognu di
+we may need to	put?ssimu aviri bisognu di
 where does come from	d'unni veni
-in widely spoken languages	nnê lingui cchiù parrati
-smaller population of speakers	pupulazziuni di parranti cchiù nica
-the most natural way	a manera cchiù naturali
-an extremely large amount	na granni quantità
-we want to empower	ci vulemu dari a pussibbilità
+in widely spoken languages	nn? lingui cchi? parrati
+smaller population of speakers	pupulazziuni di parranti cchi? nica
+the most natural way	a manera cchi? naturali
+an extremely large amount	na granni quantit?
+we want to empower	ci vulemu dari a pussibbilit?
 these kinds of apps	st'appricazziuna
-in their own language	pâ so lingua
-what they need to	chi??u c'abbisògnanu
-from the public domain	dû duminiu pùbblicu
-I’d like to stay	vulissi arristari
-how real people speak	comu pàrranu i genti nnâ vita vera
-as rich as possible	cchiù ricchi pussìbbili
-to Common Voice Datasets	ê dati Common Voice
-will give developers	ci putissi dari ê diviluppatura
+in their own language	p? so lingua
+what they need to	chi??u c'abbis?gnanu
+from the public domain	d? duminiu p?bblicu
+I?d like to stay	vulissi arristari
+how real people speak	comu p?rranu i genti nn? vita vera
+as rich as possible	cchi? ricchi puss?bbili
+to Common Voice Datasets	? dati Common Voice
+will give developers	ci putissi dari ? diviluppatura
 has been proven	fu pruvata
-by commercial services	dî sirbizza cummirciali
-dataset of voices	nzemi di dati dî vuci
-on your profile	nnô to prufilu
+by commercial services	d? sirbizza cummirciali
+dataset of voices	nzemi di dati d? vuci
+on your profile	nn? to prufilu
 we need to	avemu bisognu di
-what they need	chi??u c'abbisògnanu
-even more universal	ancora cchiù univirsali
+what they need	chi??u c'abbis?gnanu
+even more universal	ancora cchi? univirsali
 as well as	e macari
 required to build	nicissari pi custrujiri
-you can view	tu po' vìdiri
-our source sentences	i nostri frasi d'urìggini
-to our computers	ê nostri computer
+you can view	tu po' v?diri
+our source sentences	i nostri frasi d'ur?ggini
+to our computers	? nostri computer
 an integral part	na parti ntigranti
 Common Voice Datasets	dati Common Voice
 across all languages	'n tutti i lingui
 the average length	a lunghizza midiana
 Common Voice Project	pruggettu Common Voice
-extremely large amount	granni quantità
+extremely large amount	granni quantit?
 of voice data	di dati di vuci
-by large companies	dî granni cumpagnìi
-open to everyone	lìbbiru pi tutti
-for the web	pâ riti
+by large companies	d? granni cumpagn?i
+open to everyone	l?bbiru pi tutti
+for the web	p? riti
 We at Mozilla	Mozilla
 stay in touch	arristari 'n cuntattu
 we would like	ni piacissi
 set a goal	mposta n'ubbittivu
-keep it up	cuntinua accussì
+keep it up	cuntinua accuss?
 did they speak	liggeru
 in the future	'n futuru
 our free app	a nostra app a gratis
@@ -60,104 +60,104 @@ do you want	vuliti
 we promise to	prumittemu di
 handle with care	stari accura
 in order to	pi
-to help teach	pi nzignàrici
+to help teach	pi nzign?rici
 in this language	nna sta lingua
 we think that	pinzamu chi chistu
-Frequently Asked Questions	Dumanni cchiù friquenti
+Frequently Asked Questions	Dumanni cchi? friquenti
 with a profile	c'un prufilu
-of your progress	dî to prugressi
-most of the	a majuranza dî
-by large companies	dî granni cumpagnì
-sign up for	iscrìviti ê
-what I’m speaking	chi parru
+of your progress	d? to prugressi
+most of the	a majuranza d?
+by large companies	d? granni cumpagn?
+sign up for	iscr?viti ?
+what I?m speaking	chi parru
 my progress updates	attualizzazziuna supra i me prugressi
-you’re looking for	stai circannu
+you?re looking for	stai circannu
 you can donate	ni po' dunari
-to help us	pi ajutàrini a
+to help us	pi ajut?rini a
 have you read	liggisti
 to get started	p'accuminciari
-we’ve launched	abbiammu
-open-source voice database	database vucali lìbbiru
-anyone can use	po èssiri usatu di cu' è-è
+we?ve launched	abbiammu
+open-source voice database	database vucali l?bbiru
+anyone can use	po ?ssiri usatu di cu' ?-?
 up to date	attualizzatu
 how can I get	comu pozzu scarricari
-does calculate hours	càrcula l'uri
+does calculate hours	c?rcula l'uri
 do you ensure	garantiti l'anonimatu
 will be able	putirannu
 read a sentence	liggi na frasi
-for the web	pâ riti
-with the next	cû pròssimu
-does this matter	è mpurtanti
-don’t you ask	nun addumannati ê
-in different languages	nnê diversi lingui
+for the web	p? riti
+with the next	c? pr?ssimu
+does this matter	? mpurtanti
+don?t you ask	nun addumannati ?
+in different languages	nn? diversi lingui
 do you need	abbisugnati di
-why is it	picchì è
-inside the dataset	nnî dati
-the source text	u testu d'urìggini
-head over page	vai nnâ pàggina
-help us find	ajùtani ad attruvari
-are you experiencing	ài
-for devices	pî dispusitivi
-profile information	i nfurmazziuna dû prufilu
+why is it	picch? ?
+inside the dataset	nn? dati
+the source text	u testu d'ur?ggini
+head over page	vai nn? p?ggina
+help us find	aj?tani ad attruvari
+are you experiencing	?i
+for devices	p? dispusitivi
+profile information	i nfurmazziuna d? prufilu
 return here	torna cca
-see more	vidi cchiù assai
-see less	vidi cchiù picca
-we’re excited	ni ncanta
+see more	vidi cchi? assai
+see less	vidi cchi? picca
+we?re excited	ni ncanta
 to do	pi fari
 we release	pubbricamu
 our newsletter	nostra littra di nutizzi
 data sources	funti di dati
 you're using	usi
 of each	d'ogni
-voice technology	tecnuluggìi vucali	tecnuluggìi vucali
-that number	stu nùmmaru
-for the	pâ
-to help	p'ajutàrini a
-It’s that simple	è sìmplici
-for access	pi accèdiri
-user identity	idintità di l'utenti
-black box	scàtula niura
+voice technology	tecnulugg?i vucali	tecnulugg?i vucali
+that number	stu n?mmaru
+for the	p?
+to help	p'ajut?rini a
+It?s that simple	? s?mplici
+for access	pi acc?diri
+user identity	idintit? di l'utenti
+black box	sc?tula niura
 from a	di na
 by reading	liggennuli
 donated sentences	frasi dunati
 voice clips	riggistrazziuni vucali
 entered	misi
 to improve	p'ammigghiurari
-the quality	a qualità
+the quality	a qualit?
 a project	un pruggettu
 contribution type	tipu di cuntribbutu
-play mode	mudalità di ripruduzziuni
-ready to	sì prontu pi
-machines learn	nzignàrici ê màchini
+play mode	mudalit? di ripruduzziuni
+ready to	s? prontu pi
+machines learn	nzign?rici ? m?chini
 voice systems	sistemi vucali
 is required	abbisugnamu di
 it works	funziona
 thank you	grazzi
-what is	soccu è
-audio quality	qualità audiu
+what is	soccu ?
+audio quality	qualit? audiu
 is required	abbisugnati
 come from	veni
 where from	d'unni
 so many	tutti sti
-Wikipedia articles	artìculi di Wikipedia
+Wikipedia articles	art?culi di Wikipedia
 my language	a me lingua
-not included	nun cc'è
-will continue	cuntinuarà
+not included	nun cc'?
+will continue	cuntinuar?
 during contribution	mentri cuntribbuisci
-help teach	ajuta a nzignàrici ê
-publicly open	dispunìbbili pubblicamenti
-high quality	d'alta qualità
+help teach	ajuta a nzign?rici ?
+publicly open	dispun?bbili pubblicamenti
+high quality	d'alta qualit?
 your goal	u to ubbittivu
-overall project status	statu ginirali dû pruggettu
+overall project status	statu ginirali d? pruggettu
 overall status	statu ginirali
 other language	autra lingua
 overall accuracy	pricisiuni glubbali
 the project	u pruggettu
 my data	i me dati
-new information	l'ùrtimi nfurmazziuna
-of voices	dî vuci
+new information	l'?rtimi nfurmazziuna
+of voices	d? vuci
 offensive language	linguaggiu uffinzivu
-contact form	mòdulu di cuntattu
+contact form	m?dulu di cuntattu
 contribution activity	cuntribbuti
 a different	n'autru
 keep track	teni trazza
@@ -169,74 +169,74 @@ required to	nicissari pi
 looks like	parissi ca
 there aren't	nun cci sunnu
 fun part	parti divirtenti
-voice technologies	i tecnuluggìi vucali
+voice technologies	i tecnulugg?i vucali
 are bringing	stannu purtannu
-that convenience	sta cummidità
-mobile devices	dispusitivi mòbbili
+that convenience	sta cummidit?
+mobile devices	dispusitivi m?bbili
 underserved	nun sunnu cunzidirati
-will empower	ci vulemu dari a pussibbilità
-source sentences	frasi d'urìggini
-speech communities	cumunità di parranti
-source text	testu d'urìggini
-even more	ancora cchiù
+will empower	ci vulemu dari a pussibbilit?
+source sentences	frasi d'ur?ggini
+speech communities	cumunit? di parranti
+source text	testu d'ur?ggini
+even more	ancora cchi?
 we hope	spiramu ca
 search for	cerca pi
-make available	rènniri dispunìbbili
-speech technology	a tecnuluggìa dû ricanuscimentu vucali
+make available	r?nniri dispun?bbili
+speech technology	a tecnulugg?a d? ricanuscimentu vucali
 with a	cu na
 to make	pi fari
 we're collecting	stamu arricugghiennu
 voice samples	campiuna vucali
-learn more	cchiù nfurmazziuna
-on sites	nnê siti
-all history	tutta a cronuluggìa
+learn more	cchi? nfurmazziuna
+on sites	nn? siti
+all history	tutta a cronulugg?a
 goal reminders	prumimoria di l'ubbittivi
 on shutdown	chiujennu
 navigation data	i dati di navigazziuni
-close button	buttuni pi chiùjiri
+close button	buttuni pi chi?jiri
 the app	l'app
 native language	lingua matri
 the clip	a riggistrazziuni
 such as	comu
-hard to	diffìcili di
-next goals	pròssimi ubbittivi
+hard to	diff?cili di
+next goals	pr?ssimi ubbittivi
 not found	nun u truvai
 innovative apps	app nnuvativi
-I’m speaking	parru
+I?m speaking	parru
 mailing list	lista di nutizzi
-join the	jùnciti â
+join the	j?nciti ?
 the recordings	i riggistrazziuna
 your clip	a to riggistrazziuni
 finish recording	allesti a riggistrazziuni
 user name	nomu utenti
-get involved	cullàbbura
+get involved	cull?bbura
 get started	accumincia
 so far	nzinu a ora
 integral part	parti ntigranti
 all over	'n tuttu
 the world	u munnu
 our	nostru
-would say	dicìssiru
-sign up	iscrìviti
-to the	ô
+would say	dic?ssiru
+sign up	iscr?viti
+to the	?
 we think	pinzamu chi
 was passed	mmiata
 to everyone	pi tutti
 voice recognition	ricanuscimentu vucali
-help us	ajùtani a
-helps improve the	ajuta ad ammigghiurari a qualità dî
+help us	aj?tani a
+helps improve the	ajuta ad ammigghiurari a qualit? d?
 speech recognition engines	mutura di ricanuscimentu vucali
 does it work	funziona
 the audio data	i dati vucali
-writing new ones	scrivìrini novi
-to the dataset	nnî dati
+writing new ones	scriv?rini novi
+to the dataset	nn? dati
 let us know	fannillu sapiri
 to Speak	parrari
 a goal	n'ubbittivu
-my visibility	a me visibbilità
+my visibility	a me visibbilit?
 sentence collection	ricota di frasi
 a language	na lingua
-read more	cchiù nfurmazziuna
+read more	cchi? nfurmazziuna
 recorded clips	riggistrazziuna fatti
 recorded hours	uri riggistrati
 how many	quanti
@@ -244,66 +244,66 @@ free app	app a gratis
 an email	nu nnirizzu e-mail
 I'm okay	Sugnu d'accordu
 our terms	nostri cunnizziuna d'usu
-is not	nun è
+is not	nun ?
 in progress	'n cursu
 my account	u me cuntu
 voice assistant	assistenti vucali
 that are	chi sunnu
-login identity	idintità d'accessu
+login identity	idintit? d'accessu
 log in	trasi
-sign up	riggìstrati
+sign up	rigg?strati
 log out	nesci
 about the	supra u
 are building	sta ricugghiennu
 the difference	a diffirenza
-I’d like	Vulissi
-that’s why	pi chistu
-we’re fascinated	ni ncanta
-voice technology	tecnuluggìa vucali
-by recording	riggistrànnu
+I?d like	Vulissi
+that?s why	pi chistu
+we?re fascinated	ni ncanta
+voice technology	tecnulugg?a vucali
+by recording	riggistr?nnu
 making public	pubblicari	pubblicari
 about changes	pi canciamenti
-we may	putìssimu
-contact you	cuntattàriti
+we may	put?ssimu
+contact you	cuntatt?riti
 a user	n'utenti
 all hands	picciotti
 my voice	a me vuci
 I speak	parru
-send me	mànnami
+send me	m?nnami
 thank you	grazzi
 Mozilla's initiative	un pruggettu di Mozilla
 Common Voice	Common Voice
-browser tabs	schedi dû navigaturi
-browsing history	cronuluggìa di navigazziuni
-not verified	nun è virificatu
+browser tabs	schedi d? navigaturi
+browsing history	cronulugg?a di navigazziuni
+not verified	nun ? virificatu
 actual size	grannizza riali
 active logins	accessi attivi
 the copy	a copia
 this one	chist'autra
 a copy	na copia
-account settings	mpustazziuna dû cuntu
+account settings	mpustazziuna d? cuntu
 end user	utenti finali
 alternate text	testu autirnativu
 voice clip	riggistrazziuni vucali
 is marked	veni marcata comu
 not attempt	nun pruvari
 this info	sti nfurmazziuni
-privacy policy	nfurmativa dâ privatizza
+privacy policy	nfurmativa d? privatizza
 audio data	dati vucali
 speech recognition	ricanuscimentu vucali
 artificial intelligence	ntiliggenza artificiali
 clips recorded	riggistrazziuna
 your email	u to nnirizzu e-mail
 I agree	sugnu d'accordu
-the identity	l'idintità
-by providing	dànnuni
+the identity	l'idintit?
+by providing	d?nnuni
 some information	nfurmazziuni
 about yourself	ncapu di tia
-more useful	cchiù ùtili
-for the	pû
-public domain	duminiu pùbblicu
+more useful	cchi? ?tili
+for the	p?
+public domain	duminiu p?bblicu
 when done	quannu finisci
-when ready	quannu sì prontu
+when ready	quannu s? prontu
 your voice	a to vuci
 the sentence	a frasi
 that	chistu
@@ -314,11 +314,11 @@ project	pruggettu
 so	pi stu mutivu
 aloud	a vuci auta
 read	leggi
-submit	mmìa
+submit	mm?a
 language	lingua
 additional	addizziunali
 add	junci	tr.
-age	età
+age	et?
 all	tutti
 benefits	binifici
 awards	premi
@@ -335,19 +335,19 @@ accent	accentu
 accurately	bonu
 users	l'utenti
 can	ponnu
-download	scàrricari
+download	sc?rricari
 build	crea
 profile	prufilu
-receive	ricìviri
-emails	posta elittrònica
+receive	ric?viri
+emails	posta elittr?nica
 Mozilla	Mozilla
 handling	po usari
 as	comu
 explained	schicatu
-in	nnâ
+in	nn?
 privacy	privatizza
 like	comu
-sex	gèniri
+sex	g?niri
 and	e
 helps	ajuta
 helps	ajuta ad
@@ -359,11 +359,11 @@ close	chiuji
 uploaded	carricati
 validated	validati
 comment	cummentu
-easy	fàcili
+easy	f?cili
 English	ngrisi
 enter	metti
 everyone	tutti
-female	fìmmina
+female	f?mmina
 French	francisi
 how	comu
 Hungarian	unghirisi
@@ -375,11 +375,11 @@ active	attiva
 adjective	aggittivu
 noun	sustantivu
 verb	verbu
-bookmark	junci ê nzingalibbra	tr.
+bookmark	junci ? nzingalibbra	tr.
 breakpoint	puntu di stagghiatura
 format	furmatu
 average	nurmali
-valid	vàlita
+valid	v?lita
 when	quannu
 determine	stabbiliri
 speakers	parranti
@@ -388,15 +388,15 @@ you	tu
 submit	manni
 to	a
 cancel	sfai
-submission	mmìu
+submission	mm?u
 Chinese	cinisi
 China	Cina
 click	ammacca
 you've validated	chi validasti
-collecting	ricògghiri
+collecting	ric?gghiri
 sentences	frasi
 or	o
-public	pùbblicu
+public	p?bblicu
 domain	duminiu
 above	cca supra
 plus	cu
@@ -404,11 +404,11 @@ data	i dati
 other	l'autri
 voice datasets	dati vucali
 datasets	dati
-machines	màchini
+machines	m?chini
 delete	cancella
 different	diversa
-difficult	diffìcili
-donate	dùnani
+difficult	diff?cili
+donate	d?nani
 on	nne
 listen	ascutari
 both	tutti du'
@@ -421,12 +421,12 @@ recorded	riggistrati
 now	ora
 speak	parra
 contribute	cuntribbuisci
-about	a prupòsitu di
-access	accèdiri ê
+about	a prup?situ di
+access	acc?diri ?
 tabs	schedi
 browser	navigaturi
 browsing	navigazziuni
-history	cronuluggìa
+history	cronulugg?a
 your	to
 location	pusizziuni
 account	cuntu
@@ -435,54 +435,54 @@ size	grannizza
 actual	riali
 running	chi sta firrijannu
 of	di
-open	ràpiri
-is	è
+open	r?piri
+is	?
 settings	mpustazziuna
-weekly	pâ simana
-fill	jìnchiri
+weekly	p? simana
+fill	j?nchiri
 contact	cuntatti
 continue	cuntinua
-cornish	còrnicu
+cornish	c?rnicu
 a	na
 part	parti
 create	crea
 for	pi
-already	già
+already	gi?
 used	usata
 subscriptions	iscrizziuna
 enter	metti
 privacy	a privatizza
 Japanese	giappunisi
-homepage	pàggina mastra
-blocked	bluccò
-page	pàggina
+homepage	p?ggina mastra
+blocked	blucc?
+page	p?ggina
 experience	spirienza
-because	picchì
+because	picch?
 programs	prugrammi
 contents	cuntinuti
 simplified	simplificatu
-spelling	l'ortugrafìa
+spelling	l'ortugraf?a
 check	cuntrolla
 traditional	tradizziunali
 clear	cancella
-clear	pulizzìa
+clear	pulizz?a
 navigation	navigazziuni
 clear	annetta
 related	rilativi
-recent history	cronuluggìa ricenti
+recent history	cronulugg?a ricenti
 all	tutti i
 container	cuntinituri
 sidebar	a sbarra di ciancu
 tabs	schedi
 window	finestra
-configurable	cunfijuràbbili
+configurable	cunfijur?bbili
 compact	cumpattu
 thanks	grazzi
 build	criari
 an	un
 that	ca
 to	pi
-number	nùmmaru
+number	n?mmaru
 updates	l'attualizzazziuna
 optionally	si voi
 about	supra
@@ -491,8 +491,8 @@ accuracy	pricisiuni
 overall	glubbali
 overall	ginirali
 total	tutali
-improves	fannu crìsciri
-accuracy	a qualità
+improves	fannu cr?sciri
+accuracy	a qualit?
 progress	prugressu
 record	riggistra
 stop	ferma
@@ -502,25 +502,25 @@ anytime	quannu voi
 edit	canciari
 return	torna
 here	cca
-to	ê
+to	?
 languages	lingui
-review	senti arrè
+review	senti arr?
 Russian	russu
 sardinian	sardu
-more	cchiù assai
+more	cchi? assai
 see	vidi
-less	cchiù picca
+less	cchi? picca
 select	scegghi
 collection	ricota
 serbian	serbu
 set	mposta
 share	sparti
 hours	uri
-library	libbrarìa
+library	libbrar?a
 link	lijami
 links	lijami
 month	misi
-microphone	micròfunu
+microphone	micr?funu
 minute	minuto
 minutes	minuti
 active	attiva
@@ -528,19 +528,19 @@ what	chi
 issues	prubblemi
 with	cu
 this	sta
-what’s	soccu cc'è
-why	picchì
+what?s	soccu cc'?
+why	picch?
 a	un
 people	genti
 books	libbra
-in	nnê
+in	nn?
 different	diversi
 speakers	parranti
 per	p'ogni
 important	mpurtanti
 yet	ancora
-download	scàrricari
-download	scàrrica
+download	sc?rricari
+download	sc?rrica
 drop	lassa
 drag	trascina
 after	doppu chi
@@ -549,7 +549,7 @@ edit	cancia
 help	ajutu
 at	nne
 build	custruiri
-more	cchiù
+more	cchi?
 report	a signalazziuni
 report	signala
 my	u me
@@ -564,29 +564,29 @@ Italian	italianu
 words	palori
 phrases	frasi
 are	sunnu
-read	lèggiri
+read	l?ggiri
 pronounce	prununciari
 reader	litturi
 keep	sarba
-metrics	statìstichi
-isn’t	nun è
-available	dispunìbbili
-have	ài
+metrics	stat?stichi
+isn?t	nun ?
+available	dispun?bbili
+have	?i
 feedback	suggirimenti
 required	ubbligatoriu
 contribute	cuntribbuiri
 though	ma
-why	picchì
-below	cchiù sutta
+why	picch?
+below	cchi? sutta
 handling	trattamentu di
 explain	schicatu
 field	campu
-public	pùbblichi
+public	p?bblichi
 information	nfurmazziuna
 assistant	assistenti
 contains	cunteni
 audiobooks	audiulibbra
-from	dû
+from	d?
 approximately	circa
 copied	cupiatu
 link	ligami
@@ -594,16 +594,16 @@ listen	ascuta
 listening	ascutari
 loading	staju carricannu
 localization	lucalizzazziuni
-identity	idintità
+identity	idintit?
 login	accessu
 before	prima di
 make	fai
 some	quarchi
-anonymous	anònimu
-technology	tecnuluggìi
+anonymous	an?nimu
+technology	tecnulugg?i
 voice	vuci
 building	ricugghiennu
-a community	na cumunità
+a community	na cumunit?
 voice recording	riggistrazziuni vucali
 online	'n linia
 change	canciari
@@ -611,13 +611,13 @@ want	vo'
 estimating	stimannu
 multiplying	murtiplicannu
 the	a
-what’s	qual'è
+what?s	qual'?
 between	ntra
 in other	nnall'autri
 languages	lingui
 in other languages	nnall'autri lingui
 is part	fa parti
-you must allow	hâ pirmèttiri
+you must allow	h? pirm?ttiri
 you started	accuminciasti
 username	nomu utenti
 your	u to
@@ -625,7 +625,7 @@ email	nnirizzu e-mail
 associated	assuciati
 with the	dati
 published	pubblicati
-weekly	pâ simana
+weekly	p? simana
 you've signed	ti riggistrasti
 confirm	cunferma
 goal	ubbittivu
@@ -641,24 +641,24 @@ datasets	archivi di dati
 days	jorna
 my	i me
 Dhivehi	maldivianu
-don’t	nun
+don?t	nun
 validated hours	uri validati
 Indonesian	nnunisianu
 Irish	irlannisi
 Izhorian	izzurianu
 launched	partuti
-visibility	visibbilità
-leaderboard	classìfica
-Ligurian	lìguri
+visibility	visibbilit?
+leaderboard	class?fica
+Ligurian	l?guri
 lithuanian	lituanu
 Luganda	lugannisi
-Macedonian	macèduni
-demographic	dimugràfica
+Macedonian	mac?duni
+demographic	dimugr?fica
 Maltese	martisi
 manage	gistisci
 natural	naturali
 human	umana
-usable	usàbbili
+usable	us?bbili
 creating	criari
 message	missaggiu
 mixed	ammiscata
@@ -674,8 +674,8 @@ play	ripruduci
 polish	pulaccu
 portuguese	purtughisi
 press	ammacca
-toggle	passari â
-mode	mudalità
+toggle	passari ?
+mode	mudalit?
 more	n'autri
 updates	attualizzazziuna
 recording	riggistrazziuni
@@ -698,46 +698,46 @@ but	ma
 used	usati
 majority	majuranza
 work	travagghiu
-open	lìbbiru
+open	l?bbiru
 make	criari
-simple	sìmplici
+simple	s?mplici
 create	criari
 developers	i diviluppatura
 entrepreneurs	mprinnitura
-address	arrisòrbiri
+address	arris?rbiri
 gap	mancanza
 original	urigginali
 our	i nostri
 themselves	i??i stissi
-need	ànnu bisognu di
-building	custruzziuni dû
+need	?nnu bisognu di
+building	custruzziuni d?
 too	puru
-it's	chi è
+it's	chi ?
 speech	parrari
 often	spissu
-most	cchiù
+most	cchi?
 communicate	cumunicari
 build	custrujiri
 applications	appricazziuna
 like	a tipu
-voice-enabled	ca capìscinu soccu dici
+voice-enabled	ca cap?scinu soccu dici
 expensive	custusa
 proprietary	prupitaria
 innovate	fari nnuvazziuni
 de-identified	slazzati
 newsletter	littra di nutizzi
 new	nova
-subscribe	scrìviti
+subscribe	scr?viti
 version	virsiuni
 bank	bbanca
 queue	cuda
 into	'n
-into	nnû
-service	sirvìzziu
+into	nn?
+service	sirv?zziu
 system	sistima
-box	scàtula
+box	sc?tula
 black	niura
-add	jùnciri
+add	j?nciri
 appear	accumpariri
 attendee	participanti
 this data	sti dati
@@ -766,30 +766,30 @@ select	scegghi
 which	quali
 items	elementi
 import	mpurtari
-home page	pàggina mastra
+home page	p?ggina mastra
 home	mastra
 success	successu
 participation	participazioni
 software	software
 patch	pezza
-specific	specìficu
-code	còdici
+specific	spec?ficu
+code	c?dici
 text	testu
-boxes	scàtuli
+boxes	sc?tuli
 time	tempu
 without	senza
-being	èssiri
+being	?ssiri
 donate	duna
 donate	dunari
 don't	nun
 your	a to
-in the	nnô
+in the	nn?
 request	addumannari
 language	lingua
-languages page	pàggina dî lingui
+languages page	p?ggina d? lingui
 Common Voice Data	i dati di Common Voice
 reflected	rripurtata
-do you have	ài
+do you have	?i
 ideas	suggirimenti
 on	supra
 on how	supra a comu
@@ -797,7 +797,7 @@ we can	putemu
 make better	ammigghiurari
 let us	fanni
 submission	mmiu
-of the	dî
+of the	d?
 after clicking	doppu chi ammacchi
 directly	ddrittu
 finish	finisci
@@ -807,29 +807,34 @@ give	dari
 grammatical	grammaticali
 error	erruri
 great!	bbonu!
-your next clip	nàutra riggistrazziuni
+your next clip	n?utra riggistrazziuni
 great	granni
-when you're ready	quannu sì prontu
-calculate	càrculi
+when you're ready	quannu s? prontu
+calculate	c?rculi
 calculate	carculari
 I am a non-native	ma 'un sugnu matrilingua
 do you still want	vuliti macari
 I'd like	Vulissi
-emails	posta elittrònica
+emails	posta elittr?nica
 required field	campu ubbligatoriu
 my account information	i nfurmazziuna supra u me cuntu
 be more accurate	ammigghiurari a pricisiuni
 voice data	dati vucali
-leaderboard visibility	visibbilità nnâ classìfica
+leaderboard visibility	visibbilit? nn? class?fica
 leaving now	nesciri ora
 means	voli diri chi
-on our page	nna nostra pàggina
+on our page	nna nostra p?ggina
 kitchen	cucina
 recipe	ricetta
 passwords	i chiavi
-everywhere	unn'è-è
-you’re signed	ca trasisti
-task	attività
+everywhere	unn'?-?
+you?re signed	ca trasisti
+task	attivit?
 manager	gisturi
-technical	tècnici
+technical	t?cnici
 temporary	pruvvisori
+appearance	aspettu
+something	carchiccosa
+looks	cumpari
+way	manera
+the way that	a manera ca
