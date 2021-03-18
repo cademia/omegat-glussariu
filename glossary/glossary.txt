@@ -845,3 +845,6 @@ unusual	curiusa
 problematic	siccanti
 unwelcome	camurriusu
 way	modu
+serious abnormality	seria curiusità
+in its	nnê so
+internal data	dati interni
