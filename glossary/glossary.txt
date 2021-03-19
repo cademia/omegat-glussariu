@@ -848,3 +848,7 @@ way	modu
 serious abnormality	seria curiusità
 in its	nnê so
 internal data	dati interni
+abnormality	curiusità
+something	acchiccosa
+in an	’n
+unwelcome or problematic way	modu camurriusu o siccanti
