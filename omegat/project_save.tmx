@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_0a093f4d" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -26,6 +26,14 @@
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20210227T230556Z" creationid="Melo46" creationdate="20210227T230556Z">
         <seg>Na riggistrazziuni vucali veni marcata comu “vàlita” quannu n'utenti l'appruva dànnuci un Se.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>About</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo" changedate="20210319T073000Z" creationid="Melo" creationdate="20210319T073000Z">
+        <seg>Nfurmazziuna</seg>
       </tuv>
     </tu>
     <tu>
