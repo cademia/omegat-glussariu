@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ec" segtype="sentence" srclang="en-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_0a093f4d" segtype="sentence" srclang="en-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -288,8 +288,8 @@
       <tuv lang="en-US">
         <seg>E.g. Your add-ons and customizations have been removed and your browser settings have been restored to their defaults.</seg>
       </tuv>
-      <tuv lang="scn" changeid="Melo46" changedate="20210228T071210Z" creationid="Melo46" creationdate="20210228T071210Z">
-        <seg>E.g. To juncitina e pirsunalizzaziuni ài been removed e to navigaturi mpustazziuna ài been restored a a so defaults.</seg>
+      <tuv lang="scn" changeid="Melo46" changedate="20210322T084748Z" creationid="Melo46" creationdate="20210228T071210Z">
+        <seg>E.g. I to juncitina e pirsunalizzaziuni ài been removed e to navigaturi mpustazziuna ài been restored a a so defaults.</seg>
       </tuv>
     </tu>
     <tu>
