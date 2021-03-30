@@ -1,6 +1,4 @@
-it is a long established fact	si sapi di tempu
-most of the voice data	a majuranza d? dati vucali
-join on our email list	iscr?viri ? nostra lista e-mail
+﻿it is a long established fact	si sapi di tempu
 should I sign up for	avissi a riggistrari
 handle your information with care	stari accura ? to dati
 gives it a Yes vote	l'appruva d?nnuci un Se
@@ -154,7 +152,7 @@ other language	autra lingua
 overall accuracy	pricisiuni glubbali
 the project	u pruggettu
 my data	i me dati
-new information	l'?rtimi nfurmazziuna
+new information	l'ùrtimi nfurmazziuna
 of voices	d? vuci
 offensive language	linguaggiu uffinzivu
 contact form	m?dulu di cuntattu
@@ -858,3 +856,4 @@ have	ài
 I’d like	Io vulissi
 to stay	ristari
 your	i to
+join on our email list	iscrìviri â nostra lista e-mail
