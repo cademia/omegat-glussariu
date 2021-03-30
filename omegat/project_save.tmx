@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>E.g. Doing a full compacting garbage collection as an attempt to free up memory for the allocation.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20210330T153035Z" creationid="Melo46" creationdate="20210330T153035Z">
+        <seg>E.g. Doing na full compacting garbage ricota comu un attempt a free up memory p? allocation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>E.g. If the image is relevant to the content of the document, you must supply alternate text that will appear in text-only browsers.</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200725T173722Z" creationid="Melo46" creationdate="20200725T173722Z">
@@ -314,6 +322,14 @@
       </tuv>
       <tuv lang="scn" changeid="Melo" changedate="20200726T070704Z" creationid="Melo46" creationdate="20200722T182515Z">
         <seg>Sustantivu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Optionally join on our email list for updates and new information about the project.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20210330T152905Z" creationid="Melo46" creationdate="20210330T152905Z">
+        <seg>Si voi, ti po' iscrìviri â nostra lista e-mail pi ricìviri l'attualizzazziuna e l'ùrtimi nfurmazziuna supra u pruggettu.</seg>
       </tuv>
     </tu>
     <tu>
