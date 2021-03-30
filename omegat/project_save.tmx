@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Optionally submitted demographic data (e.g. age, gender, language, and accent) will never be made public on your profile, and will not be linked to your account in the dataset.</seg>
+      </tuv>
+      <tuv lang="scn" changeid="Melo46" changedate="20210330T202802Z" creationid="Melo46" creationdate="20210330T202802Z">
+        <seg>I dati  voi submitted dimugr?fica i dati (e.g. et?, gender, lingua, e accentu) will mai be made p?bblicu nn? to prufilu, e will not be linked a to cuntu nn? a dataset.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Remove a user from an online space.</seg>
       </tuv>
       <tuv lang="scn" changeid="Melo46" changedate="20200725T122245Z" creationid="Melo46" creationdate="20200725T122245Z">
